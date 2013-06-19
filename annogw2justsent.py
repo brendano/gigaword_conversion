@@ -39,6 +39,7 @@ def yield_annogw_docstr(stream):
         yield '\n'.join(cur_doclines)
 
 def create_text_object_from_parse(parsestr):
+    parsestr = convert_to_unicode(parsestr).encode('utf8')
     parsestr = re.sub(r'\s+', ' ', parsestr)
     parsestr = parsestr.strip()
     parsestr = parsestr.decode('utf8')
