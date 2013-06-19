@@ -1,6 +1,6 @@
-# intended to be symlinked whereever the data is...
-# i dont know how to persuade Make to understand it should use other directories
+# run 'make' or 'make -j16' or whatever from this directory.
 
+# but first edit this
 DATADIR = /cab1/corpora/gigaword_5_anno/data
 
 INPUTS := $(wildcard $(DATADIR)/*.xml.gz)
