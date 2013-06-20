@@ -28,14 +28,14 @@ def yield_annogw_docstr(stream):
     for line in stream:
         line = line.rstrip('\n')
         if not line: continue
-        if line.startswith('<DOC'):
+        if line.startswith('<DOC '):
             has_started = True
         if not has_started: continue
         cur_doclines.append(line)
-        if line == '</DOC>':
+        if line.strip() == '</DOC>':
             yield '\n'.join(cur_doclines)
             cur_doclines = []
-    if cur_doclines and cur_doclines[0].startswith('<DOC'):
+    if cur_doclines and cur_doclines[0].startswith('<DOC '):
         yield '\n'.join(cur_doclines)
 
 def create_text_object_from_parse(parsestr):
@@ -43,12 +43,14 @@ def create_text_object_from_parse(parsestr):
     parsestr = re.sub(r'\s+', ' ', parsestr)
     parsestr = parsestr.strip()
     parsestr = parsestr.decode('utf8')
+    if not parsestr:
+        return {'tokens':[], 'parse':parsestr}
     try:
         parse = parsetools.parse_sexpr(parsestr)
         return {'tokens': parsetools.terminals(parse),
                 'parse': parsestr}
     except parsetools.BadSexpr:
-        return {'text': parsestr}
+        return {'text': parsestr, 'sexpr_parse_failed':True}
 
 unicode_counts = {'x':0, 'n':0}
 def convert_to_unicode(mystr):
@@ -80,7 +82,11 @@ def process_sentences(sentences_x):
 def process_stream(stream):
     for docstr in yield_annogw_docstr(stream):
         # docstr = docstr.decode('utf8','ignore').encode('utf8')
-        doc_x = ET.fromstring(docstr)
+        try:
+            doc_x = ET.fromstring(docstr)
+        except ET.ParseError:
+            print>>sys.stderr, "XML PARSE ERROR, str length %s, start:\t%s" % (len(docstr), repr(docstr[:100]))
+            continue
         # doc_x = XML_PARSER.fromstring(docstr)
         out_meta = {}
         out_meta.update( dict(doc_x.items()) )
@@ -104,8 +110,9 @@ def process_stream(stream):
         # bigdict = out_meta
         # bigdict['sentences'] = out_sentences
         # print "%s\t%s" % (out_meta['id'], mydumps(bigdict))
-    print>>sys.stderr, "num ET-gives-unicode tokens", unicode_counts
+    # print>>sys.stderr, "num ET-gives-unicode tokens", unicode_counts
 
+procname = None
 def main():
     process_stream(sys.stdin)
 
