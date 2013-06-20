@@ -2,6 +2,10 @@ import sys,os,re,itertools
 import xml.etree.ElementTree as ET
 import json
 import parsetools
+try:
+    import core2json
+except ImportError:
+    pass
 
 # XML_PARSER = ET.XMLParser(encoding="utf-8")
 
@@ -64,7 +68,7 @@ def convert_to_unicode(mystr):
         return u''
     assert False, "wtf is " + repr(mystr)
 
-def process_sentences(sentences_x):
+def process_sentences_justsent(sentences_x):
     for sentence_x in sentences_x:
         tokens = []
         for token_x in sentence_x.find('tokens'):
@@ -75,11 +79,10 @@ def process_sentences(sentences_x):
             tokens.append(wordstr)
         yield {'tokens': tokens}
 
+def process_sentences_full(sentences_x):
+    return core2json.convert_corexml_sentences_fromnode(sentences_x)
 
-# def process_file(filename):
-#     process_stream(smartopen(filename))
-
-def process_stream(stream):
+def process_stream(stream, mode):
     for docstr in yield_annogw_docstr(stream):
         # docstr = docstr.decode('utf8','ignore').encode('utf8')
         try:
@@ -87,10 +90,10 @@ def process_stream(stream):
         except ET.ParseError:
             print>>sys.stderr, "XML PARSE ERROR, str length %s, start:\t%s" % (len(docstr), repr(docstr[:100]))
             continue
-        # doc_x = XML_PARSER.fromstring(docstr)
         out_meta = {}
         out_meta.update( dict(doc_x.items()) )
         out_sentences = []
+        out_entities = None
         for topchild in doc_x:
             tag = topchild.tag
             if tag=='HEADLINE' or tag=='DATELINE':
@@ -98,26 +101,27 @@ def process_stream(stream):
             elif tag=='TEXT':
                 pass
             elif tag=='coreferences':
-                pass
+                if mode=='full':
+                    out_entities = core2json.convert_corexml_coref_fromnode(topchild, out_sentences)
+                else:
+                    pass
             elif tag=='sentences':
-                for sentinfo in process_sentences(topchild):
+                f = eval('process_sentences_' + mode)
+                for sentinfo in f(topchild):
                     out_sentences.append(sentinfo)
             else:
                 assert False, "dunno what to do with XML node type " + tag
 
-        print "%s\t%s\t%s" % (out_meta['id'], mydumps(out_meta), mydumps(out_sentences))
-
-        # bigdict = out_meta
-        # bigdict['sentences'] = out_sentences
-        # print "%s\t%s" % (out_meta['id'], mydumps(bigdict))
-    # print>>sys.stderr, "num ET-gives-unicode tokens", unicode_counts
+        payload = out_sentences if mode=='justsent' else {'sentences':out_sentences, 'entities':out_entities} if mode=='full' else None
+        assert payload is not None
+        print "%s\t%s\t%s" % (out_meta['id'], mydumps(out_meta), mydumps(payload))
 
 procname = None
 def main():
-    process_stream(sys.stdin)
-
-    # for filename in sys.argv[1:]:
-    #     process_file(filename)
+    import argparse; p = argparse.ArgumentParser()
+    p.add_argument('mode', choices=['full','justsent'])
+    args = p.parse_args()
+    process_stream(sys.stdin, mode=args.mode)
 
 if __name__=='__main__':
     main()

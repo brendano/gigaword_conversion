@@ -54,15 +54,16 @@ def convert_to_unicode(mystr):
         return u''
     assert False, "wtf is " + repr(mystr)
 
-def convert_corexml_sentences(doc_x, deptype='collapsed-ccprocessed-dependencies'):
+def convert_corexml_sentences(doc_x, **kwargs):
     """doc_x is an ElementTree object (document or node?)"""
-    sents_x = doc_x.find('document').find('sentences').findall('sentence')
+    sents_x = doc_x.find('document').find('sentences')
+    return convert_corexml_sentences_fromnode(sents_x, **kwargs)
+
+def convert_corexml_sentences_fromnode(sents_x, deptype='collapsed-ccprocessed-dependencies'):
     sents = []
     for sent_x in sents_x:
         sent_infos = {}
         toks_x = sent_x.findall(".//token")
-        # toks_j = [(t.findtext(".//word"), t.findtext(".//lemma"), t.findtext(".//POS"), t.findtext(".//NER")) for t in toks_x]
-        # sent_infos['tokens'] = toks_j
 
         sent_infos['tokens'] = [t.findtext(".//word") for t in toks_x]
         sent_infos['lemmas'] = [t.findtext(".//lemma") for t in toks_x]
@@ -120,11 +121,14 @@ class Entity(dict):
 
 def convert_corexml_coref(doc_etree, sentences):
     coref_x = doc_etree.find('document').find('coreference')
-    if coref_x is None:
-        return []
+    return convert_corexml_coref_fromnode(coref_x, sentences)
+
+def convert_corexml_coref_fromnode(coreference_node, sentences):
+    if coreference_node is None:
+        return None
 
     entities = []
-    for entity_x in coref_x.findall('coreference'):
+    for entity_x in coreference_node.findall('coreference'):
         mentions = []
         for mention_x in entity_x.findall('mention'):
             m = {}
@@ -209,7 +213,7 @@ def output_sentents_as_jdoc(docid, sentences, entities):
     """One line per document."""
     print "{docid}\t{shallow_info}\t{full_info}".format(
             docid = docid,
-            shallow_info = mydumps({'sentences': [{'spacetok': sent_text} for sent_text in sent_texts]}),
+            shallow_info = mydumps({'sentences': [{'tokens': s['tokens']} for s in sentences]}),
             full_info = mydumps({'sentences':sentences, 'entities':entities}),
     )
 
@@ -254,62 +258,13 @@ def corexml_mainloop(args):
 
 #################################################
 
-def yield_annogw_docstr(stream):
-    cur_doclines = []
-    has_started = False
-    for line in stream:
-        line = line.rstrip('\n')
-        if not line: continue
-        if line.startswith('<DOC '):
-            has_started = True
-        if not has_started: continue
-        cur_doclines.append(line)
-        if line.strip() == '</DOC>':
-            yield '\n'.join(cur_doclines)
-            cur_doclines = []
-    if cur_doclines and cur_doclines[0].startswith('<DOC '):
-        yield '\n'.join(cur_doclines)
-
-def create_text_object_from_parse(parsestr):
-    parsestr = convert_to_unicode(parsestr).encode('utf8')
-    parsestr = re.sub(r'\s+', ' ', parsestr)
-    parsestr = parsestr.strip()
-    parsestr = parsestr.decode('utf8')
-    if not parsestr:
-        return {'tokens':[], 'parse':parsestr}
-    try:
-        parse = parsetools.parse_sexpr(parsestr)
-        return {'tokens': parsetools.terminals(parse),
-                'parse': parsestr}
-    except parsetools.BadSexpr:
-        return {'text': parsestr, 'sexpr_parse_failed':True}
-
-
-def annogw_mainloop(args):
-    for doclines in yield_annogw_doclines(sys.stdin):
-        d = get_annogw_shallowinfo(doclines)
-        if d['corexml']:
-            xml = ET.fromstring(d['corexml'])
-            sentences, entities = convert_corexml_document(xml)
-        else:
-            sentences, entities = [], []
-        deep_info = {'sentences':sentences, 'entities':entities}
-
-        print '{docid}\t{shallow_info}\t{deep_info}'.format(
-            docid=d['docinfo']['id'], 
-            shallow_info=mydumps({'docinfo':d['docinfo'], 'sentences':d['sentences']}),
-            deep_info=mydumps(deep_info))
-
-
 if __name__=='__main__':
     import argparse; p=argparse.ArgumentParser()
-    p.add_argument('input_format', choices=['corexml','annogw'], default='corexml')
     p.add_argument('output_format', choices=['jdoc','jsent','shallow'], default='jdoc')
     args = p.parse_args()
-    if args.input_format=='corexml':
+    # if args.input_format=='corexml':
+    if True:
         corexml_mainloop(args)
-    elif args.input_format=='annogw':
-        annogw_mainloop(args)
 
 
 
