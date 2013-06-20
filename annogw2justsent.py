@@ -58,6 +58,8 @@ def convert_to_unicode(mystr):
         return mystr
     if isinstance(mystr, str):
         return mystr.decode('utf8')
+    if mystr is None:
+        return u''
     assert False, "wtf is " + repr(mystr)
 
 def process_sentences(sentences_x):
