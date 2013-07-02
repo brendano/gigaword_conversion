@@ -9,9 +9,13 @@ DOCID 	 := $(INPUTS:.xml.gz=.docid)
 justsent: $(JUSTSENT)
 jdoc: $(JDOC)
 docid: $(DOCID)
+meta: $(JDOC:.jdoc=.meta)
 
 doc_counts.txt: $(DOCID)
 	grep -Po 'type=".*?"' $(DOCID) | sort -S5G | uniq -c > doc_counts.txt
+
+%.meta: %.jdoc
+	env LC_ALL=C cat $< | cut -f1-2 > $@
 
 %.justsent: %.xml.gz
 	zcat $< | python2.7 annogw2json.py justsent > $@
