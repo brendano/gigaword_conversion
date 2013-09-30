@@ -1,6 +1,7 @@
 # run 'make' or 'make -j16' or whatever from this directory.
 # but first edit this path
-DATADIR  := /usr/users/9/brenocon/s/sem/gigaword_5_anno/data
+# DATADIR  := /usr/users/9/brenocon/s/sem/gigaword_5_anno/data
+DATADIR  := gw/data
 INPUTS 	 := $(wildcard $(DATADIR)/*.xml.gz)
 JUSTSENT := $(INPUTS:.xml.gz=.justsent)
 JDOC     := $(INPUTS:.xml.gz=.jdoc)
