@@ -2,21 +2,24 @@
 # but first edit this path
 DATADIR  := /cab1/corpora/gigaword_5_anno/data
 INPUTS 	 := $(wildcard $(DATADIR)/*.xml.gz)
-SENTJSON := $(INPUTS:.xml.gz=.sentjson)
+JUSTSENT := $(INPUTS:.xml.gz=.justsent)
 JDOC     := $(INPUTS:.xml.gz=.jdoc)
 DOCID 	 := $(INPUTS:.xml.gz=.docid)
 
-sentjson: $(SENTJSON)
+# mass conversion commands
+justsent: $(JUSTSENT)
 jdoc: $(JDOC)
 docid: $(DOCID)
+SX := $(INPUTS:.xml.gz=.sentxml)
+sentxml: $(SX)
 
 doc_counts.txt: $(DOCID)
 	grep -Po 'type=".*?"' $(DOCID) | sort -S5G | uniq -c > doc_counts.txt
 
-%.sentjson: %.xml.gz
+%.justsent: %.xml.gz
 	zcat $< | python2.7 annogw2json.py justsent > $@
 
-%.sentjson.gz: %.sentjson
+%.justsent.gz: %.justsent
 	gzip $<
 
 %.jdoc: %.xml.gz
@@ -24,3 +27,6 @@ doc_counts.txt: $(DOCID)
 
 %.docid: %.xml.gz
 	zgrep '^<DOC ' $< > $@
+
+%.sentxml: %.justsent
+	cat $< | python2.7 sentjson2xml.py > $@
