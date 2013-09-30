@@ -1,0 +1,215 @@
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199411.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199411.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199412.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199412.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199501.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199501.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199502.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199502.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199503.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199503.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199504.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199504.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199505.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199505.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199506.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199506.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199507.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199507.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199508.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199508.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199509.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199509.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199510.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199510.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199511.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199511.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199512.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199512.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199601.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199601.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199602.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199602.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199603.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199603.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199604.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199604.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199605.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199605.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199606.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199606.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199607.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199607.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199608.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199608.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199609.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199609.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199610.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199610.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199611.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199611.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199612.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199612.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199701.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199701.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199702.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199702.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199703.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199703.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199704.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199704.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199705.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199705.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199706.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199706.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199707.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199707.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199708.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199708.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199709.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199709.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199710.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199710.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199711.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199711.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199712.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199712.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199801.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199801.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199802.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199802.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199803.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199803.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199804.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199804.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199805.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199805.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199806.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199806.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199807.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199807.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199808.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199808.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199809.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199809.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199810.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199810.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199811.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199811.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199812.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199812.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199901.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199901.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199902.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199902.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199903.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199903.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199904.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199904.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199905.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199905.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199906.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199906.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199907.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199907.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199908.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199908.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199909.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199909.jdoc
+XML PARSE ERROR, str length 905, start:	'Tokens: The Rev. Sue Irwin was escorted by police into the 12th century St. John the Baptist church '
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199910.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199910.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199911.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199911.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200001.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200001.jdoc
+XML PARSE ERROR, str length 937495, start:	'Tokens: In Washington , President Clinton helped stow artifacts of 20th century America -- including'
+XML PARSE ERROR, str length 994453, start:	'Tokens: In Washington , President Clinton helped stow artifacts of 20th century America -- including'
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200002.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200002.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200003.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200003.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200004.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200004.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200005.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200005.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200006.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200006.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200007.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200007.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200008.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200008.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200009.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200009.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200010.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200010.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200011.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200011.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200012.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200012.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200101.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200101.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200102.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200102.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200103.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200103.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200104.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200104.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200105.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200105.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200106.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200106.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200107.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200107.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200108.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200108.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200109.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200109.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200110.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200110.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200111.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200111.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200112.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200112.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200201.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200201.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200202.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200202.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200203.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200203.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200204.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200204.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200205.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200205.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200206.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200206.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200207.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200207.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200208.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200208.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200209.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200209.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200210.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200210.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200211.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200211.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200212.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200212.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200301.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200301.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200302.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200302.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200303.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200303.jdoc
+XML PARSE ERROR, str length 202597, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 233107, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 290859, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 318217, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 332986, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 357923, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 421007, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 462178, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 462420, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 448895, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 493258, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 441597, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 441703, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200304.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200304.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200305.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200305.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200306.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200306.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200307.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200307.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200308.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200308.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200309.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200309.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200310.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200310.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200311.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200311.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200312.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200312.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200401.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200401.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200402.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200402.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200403.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200403.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200404.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200404.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200405.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200405.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200406.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200406.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200407.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200407.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200408.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200408.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200409.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200409.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200410.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200410.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200411.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200411.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200412.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200412.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200501.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200501.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200502.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200502.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200503.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200503.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200504.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200504.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200505.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200505.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200506.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200506.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200507.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200507.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200508.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200508.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200509.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200509.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200510.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200510.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200511.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200511.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200512.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200512.jdoc
+XML PARSE ERROR, str length 244064, start:	'Tokens: Italian Interior Minister Giuseppe Pisanu hosted the Florence meeting at a 19th century vill'
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200601.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200601.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200602.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200602.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200603.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200603.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200604.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200604.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200605.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200605.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200606.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200606.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200607.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200607.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200608.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200608.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200609.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200609.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200610.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200610.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200611.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200611.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200612.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200612.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200701.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200701.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200702.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200702.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200703.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200703.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200704.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200704.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200705.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200705.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200706.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200706.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200707.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200707.jdoc
+XML PARSE ERROR, str length 342115, start:	'Tokens: Vianney was the 19th century Cur\xc3\x83\xc2\xa9 -LRB- curate , or pastor -RRB- of the village of Ars in'
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200708.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200708.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200709.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200709.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200710.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200710.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200711.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200711.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200712.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200712.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200801.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200801.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200802.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200802.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200803.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200803.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200804.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200804.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200805.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200805.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200806.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200806.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200807.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200807.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200808.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200808.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200809.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200809.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200810.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200810.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200811.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200811.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200812.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200812.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200901.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200901.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200902.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200902.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200903.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200903.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200904.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200904.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200905.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200905.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200906.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200906.jdoc
+XML PARSE ERROR, str length 206197, start:	"Tokens: The local box office success `` Alatriste , '' by Agustin Diaz-Yanes , the story of a heroic"
+XML PARSE ERROR, str length 293298, start:	"Tokens: The local box office success `` Alatriste , '' by Agustin Diaz-Yanes , the story of a heroic"
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200907.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200907.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200908.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200908.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200909.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200909.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200910.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200910.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200911.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200911.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200912.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200912.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201001.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201001.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201002.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201002.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201003.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201003.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201004.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201004.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201005.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201005.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201006.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201006.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201007.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201007.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201008.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201008.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201009.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201009.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201010.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201010.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201011.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201011.jdoc
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201012.xml.gz | python2.7 annogw2json.py full > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201012.jdoc
+XML PARSE ERROR, str length 424681, start:	'Tokens: Last April , the U.S. National Oceanic and Atmospheric Administration predicted that Arctic '
+XML PARSE ERROR, str length 472177, start:	'Tokens: Last April , the U.S. National Oceanic and Atmospheric Administration predicted that Arctic '

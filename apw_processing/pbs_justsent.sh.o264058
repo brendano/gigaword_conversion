@@ -1,0 +1,836 @@
+This looks like PBS, not doing fake shims
++/var/spool/torque/mom_priv/jobs/264058.tg-login1.blacklight.psc.teragrid.org.SC:14> make -j30 justsent
++/var/spool/torque/mom_priv/jobs/264058.tg-login1.blacklight.psc.teragrid.org.SC:14> tee -a make_justsent.log
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199411.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199411.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199412.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199412.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199501.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199501.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199502.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199502.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199503.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199503.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199504.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199504.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199505.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199505.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199506.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199506.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199507.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199507.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199508.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199508.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199509.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199509.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199510.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199510.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199511.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199511.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199512.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199512.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199601.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199601.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199602.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199602.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199603.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199603.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199604.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199604.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199605.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199605.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199606.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199606.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199607.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199607.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199608.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199608.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199609.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199609.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199610.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199610.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199611.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199611.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199612.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199612.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199701.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199701.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199702.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199702.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199703.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199703.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199704.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199704.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199705.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199705.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199706.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199706.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199707.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199707.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199708.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199708.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199709.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199709.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199710.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199710.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199711.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199711.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199712.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199712.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199801.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199801.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199802.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199802.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199803.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199803.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199804.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199804.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199805.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199805.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199806.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199806.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199807.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199807.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199808.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199808.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199809.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199809.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199810.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199810.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199811.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199811.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199812.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199812.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199901.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199901.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199902.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199902.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199903.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199903.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199904.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199904.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199905.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199905.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199906.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199906.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199907.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199907.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199908.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199908.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199909.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199909.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199910.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199910.justsent
+XML PARSE ERROR, str length 905, start:	'Tokens: The Rev. Sue Irwin was escorted by police into the 12th century St. John the Baptist church '
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199911.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_199911.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200001.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200001.justsent
+XML PARSE ERROR, str length 937495, start:	'Tokens: In Washington , President Clinton helped stow artifacts of 20th century America -- including'
+XML PARSE ERROR, str length 994453, start:	'Tokens: In Washington , President Clinton helped stow artifacts of 20th century America -- including'
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200002.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200002.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200003.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200003.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200004.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200004.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200005.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200005.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200006.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200006.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200007.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200007.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200008.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200008.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200009.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200009.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200010.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200010.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200011.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200011.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200012.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200012.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200101.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200101.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200102.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200102.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200103.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200103.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200104.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200104.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200105.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200105.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200106.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200106.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200107.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200107.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200108.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200108.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200109.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200109.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200110.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200110.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200111.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200111.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200112.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200112.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200201.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200201.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200202.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200202.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200203.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200203.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200204.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200204.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200205.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200205.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200206.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200206.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200207.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200207.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200208.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200208.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200209.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200209.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200210.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200210.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200211.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200211.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200212.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200212.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200301.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200301.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200302.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200302.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200303.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200303.justsent
+XML PARSE ERROR, str length 202597, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 233107, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 290859, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 318217, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 332986, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 357923, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 421007, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 462178, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 462420, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 448895, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 493258, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 441597, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+XML PARSE ERROR, str length 441703, start:	'Tokens: The first documented evidence of a Jewish community in Djerba dates from the 10th century A.'
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200304.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200304.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200305.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200305.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200306.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200306.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200307.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200307.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200308.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200308.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200309.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200309.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200310.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200310.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200311.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200311.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200312.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200312.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200401.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200401.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200402.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200402.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200403.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200403.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200404.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200404.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200405.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200405.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200406.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200406.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200407.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200407.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200408.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200408.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200409.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200409.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200410.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200410.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200411.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200411.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200412.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200412.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200501.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200501.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200502.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200502.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200503.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200503.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200504.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200504.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200505.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200505.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200506.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200506.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200507.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200507.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200508.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200508.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200509.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200509.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200510.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200510.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200511.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200511.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200512.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200512.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200601.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200601.justsent
+XML PARSE ERROR, str length 244064, start:	'Tokens: Italian Interior Minister Giuseppe Pisanu hosted the Florence meeting at a 19th century vill'
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200602.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200602.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200603.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200603.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200604.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200604.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200605.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200605.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200606.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200606.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200607.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200607.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200608.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200608.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200609.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200609.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200610.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200610.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200611.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200611.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200612.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200612.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200701.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200701.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200702.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200702.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200703.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200703.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200704.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200704.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200705.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200705.justsent
+XML PARSE ERROR, str length 342115, start:	'Tokens: Vianney was the 19th century Cur\xc3\x83\xc2\xa9 -LRB- curate , or pastor -RRB- of the village of Ars in'
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200706.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200706.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200707.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200707.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200708.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200708.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200709.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200709.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200710.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200710.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200711.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200711.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200712.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200712.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200801.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200801.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200802.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200802.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200803.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200803.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200804.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200804.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200805.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200805.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200806.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200806.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200807.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200807.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200808.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200808.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200809.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200809.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200810.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200810.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200811.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200811.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200812.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200812.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200901.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200901.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200902.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200902.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200903.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200903.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200904.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200904.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200905.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200905.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200906.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200906.justsent
+XML PARSE ERROR, str length 206197, start:	"Tokens: The local box office success `` Alatriste , '' by Agustin Diaz-Yanes , the story of a heroic"
+XML PARSE ERROR, str length 293298, start:	"Tokens: The local box office success `` Alatriste , '' by Agustin Diaz-Yanes , the story of a heroic"
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200907.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200907.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200908.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200908.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200909.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200909.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200910.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200910.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200911.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200911.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200912.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_200912.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201001.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201001.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201002.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201002.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201003.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201003.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201004.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201004.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201005.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201005.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201006.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201006.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201007.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201007.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201008.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201008.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201009.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201009.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201010.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201010.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201011.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201011.justsent
+zcat /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201012.xml.gz | python2.7 annogw2json.py justsent > /usr/users/9/brenocon/s/sem/gigaword_5_anno/data/apw_eng_201012.justsent
+XML PARSE ERROR, str length 424681, start:	'Tokens: Last April , the U.S. National Oceanic and Atmospheric Administration predicted that Arctic '
+XML PARSE ERROR, str length 472177, start:	'Tokens: Last April , the U.S. National Oceanic and Atmospheric Administration predicted that Arctic '
++/var/spool/torque/mom_priv/jobs/264058.tg-login1.blacklight.psc.teragrid.org.SC:17> ja -chlst
+
+
+Job Accounting - Command Report
+===============================
+
+    Command       Started    Elapsed    User CPU    Sys CPU       CPU      Block I/O    Swap In      CPU MEM        Characters           Logical I/O      CoreMem   VirtMem   Ex
+     Name           At       Seconds    Seconds     Seconds    Delay Secs  Delay Secs  Delay Secs  Avg Mbytes     Read     Written     Read      Write    HiValue   HiValue   St   Ni  Fl   SBU's 
+===============  ========  ==========  ==========  ==========  ==========  ==========  ==========  ==========  =========  =========  ========  ========  ========  ========  ===  ===  ==  =======
+# CFG   ON(    1) (    7)  18:27:27 06/20/2013  System:  Linux bl1.psc.teragrid.org 2.6.32.49-0.3-default #1 SMP 2011-12-02 11:28:04 +0100 x86_64
+ja               18:27:27        0.00        0.00        0.00        0.00        0.00        0.00       23.79      0.019      0.000        19         3      1068     23784    0    0         0.00
+gzip             18:27:28     3020.68       13.18        5.15        1.13       30.16        0.00        4.69    144.602   2092.839      4649     66971       600      4316    0    0         0.00
+python2.7        18:27:27     3021.22     2974.32        6.40       13.83        0.00        0.00      125.90   2093.794     33.937    323839        17     53164     98572    0    0         0.00
+sh               18:27:27     3021.28        0.00        0.04        0.00        0.00        0.00        3.49      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     3223.71       13.66        5.41        1.25       19.66        0.00        4.70    150.978   2177.114      4853     69668       604      4316    0    0         0.00
+python2.7        18:27:27     3224.34     3184.16        6.68       15.99        0.00        0.00      125.45   2178.069     35.809    336852        18     48428     93744    0    0         0.00
+sh               18:27:27     3224.35        0.00        0.00        0.00        0.00        0.00       13.59      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:28     3343.75       16.77        5.78        1.55       20.18        0.00        4.70    179.990   2597.592      5782     83123       604      4316    0    0         0.00
+python2.7        18:27:27     3344.28     3304.54        6.76       16.20        0.00        0.00      137.96   2598.547     42.072    401760        22     59788    104976    0    0         0.00
+sh               18:27:27     3344.33        0.01        0.03        0.00        0.00        0.00        3.74      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     3388.25       16.06        5.94        1.55       20.53        0.00        4.70    175.473   2534.902      5637     81117       604      4316    0    0         0.00
+python2.7        18:27:28     3388.84     3350.72        6.47       14.43        0.00        0.00      131.85   2535.857     41.112    392095        21     55176    100484    0    0         0.00
+sh               18:27:28     3388.88        0.00        0.04        0.00        0.00        0.00        4.03      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     3404.12       15.17        6.29        1.51       25.04        0.00        4.69    168.043   2424.877      5400     77597       600      4316    0    0         0.00
+python2.7        18:27:27     3404.35     3360.19        6.64       18.39        0.00        0.00      129.10   2425.832     39.190    375156        20     51700     97084    0    0         0.00
+sh               18:27:27     3404.40        0.00        0.04        0.00        0.00        0.00        3.51      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             18:27:27     3509.44       15.40        5.60        1.13       18.99        0.00        4.69    167.553   2417.413      5384     77358       600      4316    0    0         0.00
+python2.7        18:27:27     3509.60     3469.13        6.41       18.17        0.00        0.00      131.85   2418.368     39.387    373999        20     53040     98548    0    0         0.00
+sh               18:27:27     3509.65        0.00        0.05        0.00        0.00        0.00        4.71      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             18:27:27     3639.05       16.66        6.00        1.35       18.09        0.00        4.70    179.394   2582.501      5763     82641       604      4316    0    0         0.00
+python2.7        18:27:28     3639.72     3600.00        6.60       17.87        0.00        0.00      151.34   2583.456     42.231    399641        22     59156    104280    0    0         0.00
+sh               18:27:28     3639.77        0.01        0.04        0.00        0.00        0.00        3.72      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             18:27:27     3666.33       15.74        6.40        1.31       37.03        0.00        4.69    178.475   2575.184      5733     82406       600      4316    0    0         0.00
+python2.7        18:27:28     3666.95     3607.90        7.43       19.02        0.00        0.00      126.77   2576.139     41.601    398366        21     53732     99108    0    0         0.00
+sh               18:27:28     3666.99        0.00        0.03        0.00        0.00        0.00        4.35      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     3772.46       16.32        6.56        1.38       26.76        0.00        4.69    181.096   2606.394      5817     83405       600      4316    0    0         0.00
+python2.7        18:27:28     3772.61     3722.50        7.25       21.39        0.00        0.00      125.48   2607.349     42.481    403270        22     48288     93512    0    0         0.00
+sh               18:27:28     3772.67        0.00        0.04        0.01        0.00        0.00        3.46      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:28     3790.90       17.28        6.21        1.48       19.61        0.00        4.69    188.260   2715.870      6047     86908       600      4316    0    0         0.00
+python2.7        18:27:27     3791.56     3747.60        7.05       20.79        0.00        0.00      145.78   2716.825     45.241    420135        23     63260    108416    0    0         0.00
+sh               18:27:27     3791.61        0.00        0.04        0.00        0.00        0.00        5.05      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     3840.42       17.05        6.58        1.43       23.74        0.00        4.69    188.569   2717.952      6056     86975       600      4316    0    0         0.00
+python2.7        18:27:28     3840.98     3793.02        7.39       21.35        0.00        0.00      128.88   2718.907     43.934    420485        22     52040     97208    0    0         0.00
+sh               18:27:27     3841.02        0.01        0.03        0.00        0.00        0.00        5.26      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     3841.20       17.15        7.30        1.83       39.77        0.00        4.70    187.628   2709.939      6026     86719       604      4316    0    0         0.00
+python2.7        18:27:27     3841.47     3779.54        7.40       19.21        0.00        0.00      126.93   2710.894     44.284    419231        23     55500    100716    0    0         0.00
+sh               18:27:27     3841.53        0.01        0.04        0.01        0.00        0.00        5.02      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     3872.02       17.55        6.09        1.25       14.05        0.00        4.69    189.732   2741.246      6094     87720       604      4316    0    0         0.00
+python2.7        18:27:27     3872.33     3831.82        7.07       22.49        0.00        0.00      135.61   2742.201     44.271    424086        23    119972    165488    0    0         0.00
+sh               18:27:27     3872.38        0.00        0.04        0.00        0.00        0.00        5.22      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     3885.08       17.82        6.08        1.64       20.10        0.00        4.69    193.121   2780.445      6202     88975       600      4316    0    0         0.00
+python2.7        18:27:27     3885.68     3843.57        6.94       19.52        0.00        0.00      139.57   2781.400     44.888    430305        23     78132    123460    0    0         0.00
+sh               18:27:27     3885.72        0.00        0.03        0.00        0.00        0.00        4.32      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     4037.11       17.29        5.61        1.15       20.06        0.00        4.69    189.257   2728.110      6078     87300       600      4316    0    0         0.00
+python2.7        18:27:27     4037.47     3990.90        7.51       22.68        0.00        0.00      128.00   2729.065     44.430    422075        23     49428     94632    0    0         0.00
+sh               18:27:27     4037.52        0.00        0.04        0.00        0.00        0.00        3.53      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     4156.10       18.50        6.34        1.28       18.06        0.00        4.69    200.836   2897.445      6449     92719       600      4316    0    0         0.00
+python2.7        18:27:27     4156.34     4109.96        7.81       23.84        0.00        0.00      127.55   2898.400     46.831    448290        24     51760     96892    0    0         0.00
+sh               18:27:27     4156.38        0.01        0.03        0.00        0.00        0.00        4.02      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             18:27:27     4171.05       17.75        7.18        1.65       25.27        0.00        4.70    195.469   2830.965      6277     90591       604      4316    0    0         0.00
+python2.7        18:27:27     4171.36     4119.68        7.55       23.12        0.00        0.00      125.78   2831.920     46.968    438107        24     53844     99044    0    0         0.00
+sh               18:27:27     4171.37        0.01        0.00        0.00        0.00        0.00       12.69      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     4174.10       17.26        7.74        1.69       26.90        0.00        4.69    196.743   2838.323      6318     90827       604      4316    0    0         0.00
+python2.7        18:27:27     4174.31     4122.15        7.94       20.90        0.00        0.00      134.19   2839.278     46.007    439148        24     59176    104624    0    0         0.00
+sh               18:27:27     4174.36        0.00        0.04        0.00        0.00        0.00        5.42      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:28     4212.91       18.77        7.80        1.49       36.60        0.00        4.70    203.915   2942.920      6547     94174       608      4316    0    0         0.00
+python2.7        18:27:27     4213.19     4153.53        7.91       22.45        0.00        0.00      126.46   2943.875     47.904    455278        24     50684     96060    0    0         0.00
+sh               18:27:27     4213.24        0.00        0.04        0.00        0.00        0.00        3.74      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:28     4233.75       19.10        7.35        1.68       26.00        0.00        4.69    204.363   2944.345      6562     94220       600      4316    0    0         0.00
+python2.7        18:27:27     4234.22     4181.86        7.89       22.33        0.00        0.00      127.06   2945.299     47.862    455550        24     54280     99452    0    0         0.00
+sh               18:27:27     4234.30        0.00        0.04        0.02        0.00        0.00        4.06      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     4366.45       19.31        7.86        1.81       23.27        0.00        4.70    214.497   3094.192      6886     99015       608      4316    0    0         0.00
+python2.7        18:27:28     4366.69     4317.13        7.65       22.20        0.00        0.00      128.60   3095.147     50.301    478664        26     58780    105012    0    0         0.00
+sh               18:27:28     4366.74        0.00        0.04        0.00        0.00        0.00        3.26      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             18:27:27     4391.41       20.61        7.07        1.68       17.86        0.00        4.70    225.064   3255.359      7224    104172       608      4316    0    0         0.00
+python2.7        18:27:27     4392.00     4345.54        8.22       23.06        0.00        0.00      125.59   3256.314     53.879    503642        27     50196     95504    0    0         0.00
+sh               18:27:27     4392.02        0.00        0.01        0.00        0.00        0.00        5.27      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     4647.00       19.80        8.08        2.06       21.02        0.00        4.70    220.190   3173.975      7068    101568       604      4316    0    0         0.00
+python2.7        18:27:27     4647.48     4599.84        7.90       23.84        0.00        0.00      139.06   3174.930     52.273    491176        27     72720    118312    0    0         0.00
+sh               18:27:27     4647.49        0.00        0.01        0.00        0.00        0.00       12.66      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     4736.54       20.38        8.30        1.62       22.41        0.00        4.70    226.131   3270.885      7258    104669       608      4316    0    0         0.00
+python2.7        18:27:27     4737.13     4684.81        8.39       25.54        0.00        0.00      126.80   3271.840     53.769    506058        27     51852     97500    0    0         0.00
+sh               18:27:27     4737.14        0.00        0.00        0.00        0.00        0.00        0.96      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:28     4869.77       21.36        7.81        1.79       21.85        0.00        4.69    234.164   3388.915      7515    108446       600      4316    0    0         0.00
+python2.7        18:27:27     4870.03     4816.99        8.98       26.40        0.00        0.00      125.09   3389.870     56.295    524400        29     54300     99904    0    0         0.00
+sh               18:27:27     4870.04        0.00        0.01        0.00        0.00        0.00       11.36      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             18:27:28     5064.91       24.19        9.55        2.37       27.34        0.00        4.70    268.483   3866.389      8614    123725       604      4316    0    0         0.00
+python2.7        18:27:27     5065.08     5010.85        8.30       22.51        0.00        0.00      131.09   3867.344     62.021    598011        32     52752     98140    0    0         0.00
+sh               18:27:27     5065.11        0.00        0.03        0.00        0.00        0.00        5.24      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     5539.65       26.06       10.82        2.28       32.60        0.00        4.70    281.513   4058.750      9031    129881       604      4316    0    0         0.00
+python2.7        18:27:28     5539.82     5476.81        8.92       27.17        0.00        0.00      135.58   4059.705     64.908    627828        33     72280    118292    0    0         0.00
+sh               18:27:28     5539.85        0.00        0.01        0.00        0.00        0.00        4.78      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     5770.39       26.21       10.88        2.20       25.29        0.00        4.70    280.320   4051.688      8992    129655       608      4316    0    0         0.00
+python2.7        18:27:28     5770.76     5710.79        9.98       32.11        0.00        0.00      129.04   4052.643     64.697    626841        33     53036     98348    0    0         0.00
+sh               18:27:28     5770.79        0.00        0.03        0.00        0.00        0.00        4.59      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:28     5898.97       25.30       10.65        1.99       28.88        0.00        4.69    280.758   4051.012      9006    129633       600      4316    0    0         0.00
+python2.7        18:27:27     5899.27     5834.35        9.36       32.17        0.00        0.00      139.83   4051.967     64.685    626594        33     62200    107384    0    0         0.00
+sh               18:27:27     5899.30        0.00        0.03        0.00        0.00        0.00        4.25      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             18:27:27     6299.21       27.61       10.26        2.14       32.69        0.00        4.70    302.398   4365.006      9699    139681       604      4316    0    0         0.00
+python2.7        18:27:28     6299.93     6226.59       10.07       35.80        0.00        0.00      135.41   4365.961     69.700    855429        35     69192    114628    0    0         0.00
+sh               18:27:28     6299.96        0.01        0.02        0.00        0.00        0.00        5.73      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             19:17:49     4199.82       19.31        5.92        1.36        8.50        0.00        4.70    211.615   3048.405      6794     97549       600      4316    0    0         0.00
+python2.7        19:17:48     4200.22     4168.97        5.10       21.01        0.00        0.00      126.76   3049.360     49.407    471488        25     55208    100496    0    0         0.00
+sh               19:17:48     4200.25        0.01        0.01        0.00        0.00        0.00        8.04      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:27:49       25.97        0.08        0.07        0.02        4.16        0.00        4.87      0.975     15.169        53       486       600      4316    0    0         0.00
+python2.7        20:27:49       26.56       22.92        0.16        0.18        0.00        0.00      113.68     16.124      0.230      2546         1     39876     87200    0    0         0.00
+sh               20:27:49       26.59        0.00        0.02        0.00        0.00        0.00        9.21      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:21:12     4370.50       18.90        7.01        1.47       26.86        0.00        4.70    208.575   3009.190      6697     96295       600      4316    0    0         0.00
+python2.7        19:21:11     4371.02     4319.40        5.10       22.70        0.00        0.00      135.03   3010.145     48.710    465614        25     55828    101800    0    0         0.00
+sh               19:21:11     4371.05        0.00        0.02        0.00        0.00        0.00        9.98      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             19:23:56     4284.27       19.13        7.84        1.60       19.40        0.00        4.70    206.889   3000.281      6643     96010       604      4316    0    0         0.00
+python2.7        19:23:56     4284.41     4243.19        4.89       19.91        0.00        0.00      148.41   3001.236     48.328    464190        25     62360    108164    0    0         0.00
+sh               19:23:56     4284.44        0.00        0.01        0.00        0.00        0.00       12.72      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:23:11     4424.04       20.04        8.58        1.87       22.80        0.00        4.70    220.017   3179.789      7063    101754       604      4316    0    0         0.00
+python2.7        19:23:11     4424.32     4379.44        4.87       21.55        0.00        0.00      154.12   3180.744     51.479    491917        26     63364    109696    0    0         0.00
+sh               19:23:11     4424.35        0.00        0.01        0.00        0.00        0.00       10.00      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             19:24:12     4411.49       20.53        8.02        1.98       19.68        0.00        4.70    221.435   3192.252      7108    102153       600      4316    0    0         0.00
+python2.7        19:24:12     4411.95     4368.88        5.31       20.93        0.00        0.00      130.42   3193.206     51.405    493856        26     56620    101796    0    0         0.00
+sh               19:24:12     4412.61        0.01        0.01        0.00        0.00        0.00       13.00      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:25:57     4494.97       19.54        8.49        1.58       18.92        0.00        4.70    216.406   3116.658      6947     99734       608      4316    0    0         0.00
+python2.7        19:25:57     4495.23     4452.88        5.72       22.66        0.00        0.00      129.68   3117.612     50.563    482161        26     55932    102080    0    0         0.00
+sh               19:25:57     4495.26        0.00        0.01        0.00        0.00        0.00       10.02      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:36:44     4260.37       19.47        9.40        1.94       37.38        0.00        4.70    211.586   3048.311      6793     97546       608      4316    0    0         0.00
+python2.7        19:36:44     4260.54     4205.13        4.72       20.68        0.00        0.00      132.18   3049.266     49.541    471693        25     55344    100660    0    0         0.00
+sh               19:36:44     4260.56        0.01        0.00        0.00        0.00        0.00       12.84      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             19:34:45     4491.26       20.22        9.69        1.71       40.11        0.00        4.70    214.867   3097.834      6898     99131       604      4316    0    0         0.00
+python2.7        19:34:45     4491.45     4429.20        5.35       22.82        0.00        0.00      146.83   3098.789     50.256    479233        26     58936    104116    0    0         0.00
+sh               19:34:45     4491.48        0.00        0.01        0.00        0.00        0.00       12.82      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:37:41     4572.99       19.84        7.61        1.55       22.27        0.00        4.70    219.010   3149.915      7031    100798       604      4316    0    0         0.00
+python2.7        19:37:41     4573.63     4524.91        5.14       24.87        0.00        0.00      130.90   3150.870     51.582    487246        26     57644    102956    0    0         0.00
+sh               19:37:41     4573.65        0.00        0.02        0.00        0.00        0.00        9.93      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:40:39     4484.01       20.63        7.90        1.93       18.70        0.00        4.70    222.410   3203.301      7139    102506       604      4316    0    0         0.00
+python2.7        19:40:39     4484.50     4443.12        5.38       21.34        0.00        0.00      127.72   3204.256     51.985    495671        26     52880     98084    0    0         0.00
+sh               19:40:39     4484.52        0.01        0.01        0.00        0.00        0.00       10.46      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:37:02     4730.34       20.71        9.92        1.83       27.00        0.00        4.70    229.734   3295.425      7374    105454       600      4316    0    0         0.00
+python2.7        19:37:02     4730.76     4676.10        6.14       26.30        0.00        0.00      127.41   3296.380     53.889    509726        27     56728    103100    0    0         0.00
+sh               19:37:02     4730.79        0.00        0.02        0.00        0.00        0.00       10.66      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             19:28:07     5276.77       24.18        9.77        2.28       25.52        0.00        4.70    264.230   3807.856      8478    121852       604      4316    0    0         0.00
+python2.7        19:28:07     5277.70     5226.62        6.32       25.17        0.00        0.00      162.64   3808.811     60.386    588928        31    167148    213440    0    0         0.00
+sh               19:28:07     5277.73        0.00        0.02        0.00        0.00        0.00        8.68      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:05:47     3074.99       12.99        6.31        1.03       36.18        0.00        4.71    141.942   2044.090      4564     65411       604      4316    0    0         0.00
+python2.7        20:05:47     3075.57     3022.02        3.84       20.55        0.00        0.00      143.32   2045.045     30.592    316290        16     72892    119696    0    0         0.00
+sh               20:05:47     3075.60        0.00        0.01        0.00        0.00        0.00        8.86      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:36:59     4859.88       20.76       10.78        2.33       46.00        0.00        4.70    227.760   3280.830      7310    104987       604      4316    0    0         0.00
+python2.7        19:36:58     4860.16     4790.20        5.62       23.59        0.00        0.00      129.51   3281.785     53.308    507518        29     78212    123468    0    0         0.00
+sh               19:36:58     4860.19        0.00        0.02        0.00        0.00        0.00       10.62      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:40:14     4724.14       21.80        9.40        2.29       27.38        0.00        4.70    242.035   3497.605      7767    111924       604      4316    0    0         0.00
+python2.7        19:40:14     4724.46     4676.79        5.26       22.88        0.00        0.00      147.31   3498.560     56.509    541058        29     68968    114088    0    0         0.00
+sh               19:40:14     4724.55        0.00        0.01        0.00        0.00        0.00       11.01      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:03:38     3598.44       15.67        6.42        1.29       19.18        0.00        4.70    170.379   2457.902      5474     78653       608      4316    0    0         0.00
+python2.7        20:03:38     3598.58     3557.14        4.93       20.93        0.00        0.00      132.35   2458.857     39.471    380202        20     90372    136404    0    0         0.00
+sh               20:03:38     3598.60        0.01        0.01        0.00        0.00        0.00       12.97      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             19:38:01     5328.12       24.03        9.05        1.86       20.91        0.00        4.70    265.059   3815.074      8504    122083       600      4316    0    0         0.00
+python2.7        19:38:02     5328.53     5280.06        6.39       26.63        0.00        0.00      139.53   3816.029     61.825    590097        31     81004    128068    0    0         0.00
+sh               19:38:02     5328.56        0.00        0.01        0.00        0.00        0.00       12.95      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:12:27     3513.52       15.27        6.55        1.37       14.27        0.00        4.70    169.818   2450.984      5456     78432       600      4316    0    0         0.00
+python2.7        20:12:28     3513.87     3484.26        4.20       14.61        0.00        0.00      153.01   2451.939     36.513    379277        19     79624    124756    0    0         0.00
+sh               20:12:28     3513.90        0.01        0.01        0.00        0.00        0.00        9.91      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:46:24     5245.52       23.42       10.45        2.03       17.77        0.00        4.70    257.014   3700.543      8247    118418       600      4316    0    0         0.00
+python2.7        19:46:24     5246.14     5200.90        5.99       25.01        0.00        0.00      148.98   3701.498     59.896    572350        30     62376    108688    0    0         0.00
+sh               19:46:24     5246.18        0.00        0.02        0.00        0.00        0.00       11.21      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:36:56     2227.21        9.86        4.64        1.11        9.23        0.00        4.71    109.096   1571.776      3513     50297       604      4316    0    0         0.00
+python2.7        20:36:56     2227.78     2209.27        3.16        7.48        0.00        0.00      153.27   1572.731     23.608    243298        12     79712    124892    0    0         0.00
+sh               20:36:56     2227.81        0.00        0.02        0.00        0.00        0.00       11.65      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:40:52     2214.45        9.51        3.70        0.90        8.63        0.00        4.71    105.103   1517.764      3385     48569       604      4316    0    0         0.00
+python2.7        20:40:52     2215.19     2193.76        2.98       11.56        0.00        0.00      156.38   1518.718     22.793    234989        12     81012    126440    0    0         0.00
+sh               20:40:52     2215.23        0.00        0.02        0.00        0.00        0.00       10.60      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:35:21     2636.53       11.66        3.99        0.89        2.87        0.00        4.70    127.440   1839.426      4100     58862       600      4316    0    0         0.00
+python2.7        20:35:20     2637.17     2618.93        3.08       13.85        0.00        0.00      149.50   1840.381     27.677    284641        14    105764    152336    0    0         0.00
+sh               20:35:20     2637.20        0.00        0.02        0.00        0.00        0.00       13.02      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             20:37:44     2577.04       11.02        4.70        0.99        7.79        0.00        4.70    121.706   1754.340      3917     56139       604      4316    0    0         0.00
+python2.7        20:37:44     2577.20     2554.05        3.37       12.72        0.00        0.00      164.17   1755.295     26.290    271582        14     81316    126472    0    0         0.00
+sh               20:37:44     2577.25        0.00        0.02        0.00        0.00        0.00       11.77      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:48:37     5579.07       24.46        9.69        2.13       10.01        0.00        4.70    270.217   3891.611      8669    124532       604      4316    0    0         0.00
+python2.7        19:48:37     5579.31     5537.75        6.28       29.00        0.00        0.00      133.46   3892.566     62.757    601906        32     55576    101264    0    0         0.00
+sh               19:48:37     5579.33        0.00        0.02        0.00        0.00        0.00       10.62      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:47:44     2044.46        9.16        3.58        0.84        3.73        0.00        4.71    103.094   1489.881      3321     47677       604      4316    0    0         0.00
+python2.7        20:47:44     2045.29     2029.74        2.78        9.87        0.00        0.00      157.32   1490.836     22.426    230617        12     94408    139540    0    0         0.00
+sh               20:47:44     2045.33        0.00        0.02        0.00        0.00        0.00        8.13      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             20:49:37     1939.92        8.96        3.66        0.69       10.38        0.00        4.70     98.389   1421.320      3171     45483       604      4316    0    0         0.00
+python2.7        20:49:36     1940.43     1919.48        2.55        9.84        0.00        0.00      162.08   1422.275     21.401    219981        11    101616    146824    0    0         0.00
+sh               20:49:36     1940.47        0.01        0.01        0.00        0.00        0.00       10.38      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:44:55     5866.93       25.23       10.53        2.17       28.69        0.00        4.70    278.839   4013.672      8945    128438       604      4316    0    0         0.00
+python2.7        19:44:55     5867.30     5806.40        7.48       30.20        0.00        0.00      129.48   4014.627     64.915    620885        33     56856    102180    0    0         0.00
+sh               19:44:55     5867.32        0.01        0.01        0.00        0.00        0.00       11.01      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:28:34     6869.72       30.61       11.31        2.38       36.49        0.00        4.70    334.293   4823.179     10720    154342       604      4316    0    0         0.00
+python2.7        19:28:35     6869.94     6794.80        7.72       37.59        0.00        0.00      160.71   4824.133     75.535    861018        38     77588    122700    0    0         0.00
+sh               19:28:35     6869.97        0.00        0.01        0.00        0.00        0.00       12.61      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:51:53     5563.86       25.16        9.41        1.97       25.39        0.00        4.70    275.608   3969.130      8842    127013       604      4316    0    0         0.00
+python2.7        19:51:52     5564.07     5508.43        6.48       27.99        0.00        0.00      140.35   3970.084     63.625    613978        32     60160    105368    0    0         0.00
+sh               19:51:52     5564.09        0.00        0.01        0.00        0.00        0.00       10.39      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:34:02     3183.30       13.82        5.21        1.14        7.32        0.00        4.70    152.277   2191.208      4895     70119       600      4316    0    0         0.00
+python2.7        20:34:03     3183.90     3158.62        3.48       17.02        0.00        0.00      151.26   2192.163     32.883    339019        17     64768    109936    0    0         0.00
+sh               20:34:03     3183.93        0.00        0.02        0.00        0.00        0.00        9.38      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:28:16     3584.85       15.26        6.61        1.45       19.62        0.00        4.70    168.529   2425.946      5415     77631       604      4316    0    0         0.00
+python2.7        20:28:16     3585.68     3546.01        4.27       19.67        0.00        0.00      153.69   2426.900     36.273    375320        23     73852    119492    0    0         0.00
+sh               20:28:16     3585.71        0.00        0.02        0.00        0.00        0.00       13.05      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:53:55     2102.88        9.49        3.44        0.81        7.35        0.00        4.70    105.085   1517.305      3385     48554       600      4316    0    0         0.00
+python2.7        20:53:54     2103.21     2084.08        2.45       10.72        0.00        0.00      159.15   1518.260     22.903    234904        12     98960    144084    0    0         0.00
+sh               20:53:54     2103.23        0.01        0.01        0.00        0.00        0.00       10.66      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:32:13     7015.33       30.71       15.06        3.10       67.60        0.00        4.70    336.346   4843.198     10785    154983       600      4316    0    0         0.00
+python2.7        19:32:13     7015.69     6914.37        8.13       34.95        0.00        0.00      149.10   4844.153     77.424    971856        39     89780    135004    0    0         0.00
+sh               19:32:13     7015.72        0.00        0.01        0.00        0.00        0.00       12.99      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             19:59:48     5411.98       22.90        8.34        1.90        9.29        0.00        4.70    255.304   3686.972      8192    117984       600      4316    0    0         0.00
+python2.7        19:59:47     5412.21     5370.42        6.87       29.27        0.00        0.00      141.93   3687.927     59.344    570329        30     66408    112536    0    0         0.00
+sh               19:59:47     5412.25        0.00        0.02        0.00        0.00        0.00       12.34      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:31:59     7194.14       32.54       14.60        3.03       46.68        0.00        4.70    362.111   5219.252     11610    167017       600      4316    0    0         0.00
+python2.7        19:32:00     7194.63     7112.04        8.37       34.69        0.00        0.00      154.30   5220.207     82.967    809908        42     91204    136384    0    0         0.00
+sh               19:32:00     7194.66        0.00        0.01        0.00        0.00        0.00       10.30      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:30:20     7316.80       32.00       13.15        2.84       30.35        0.00        4.70    351.992   5087.122     11286    162788       600      4316    0    0         0.00
+python2.7        19:30:20     7317.22     7247.32        8.24       38.25        0.00        0.00      223.42   5088.077     79.823    786865        40    136620    181828    0    0         0.00
+sh               19:30:20     7317.26        0.00        0.02        0.00        0.00        0.00        9.00      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:31:29     7511.13       33.70       11.93        2.74       11.82        0.00        4.70    364.256   5254.689     11678    168151       600      4316    0    0         0.00
+python2.7        19:31:29     7511.33     7459.21        7.90       37.22        0.00        0.00      229.13   5255.644     83.351    812650        42    116544    163644    0    0         0.00
+sh               19:31:29     7511.36        0.00        0.02        0.00        0.00        0.00       12.97      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:30:39     7613.18       33.20       15.20        2.98       46.53        0.00        4.70    364.657   5261.005     11691    168353       600      4316    0    0         0.00
+python2.7        19:30:39     7613.89     7529.24        8.50       38.35        0.00        0.00      309.92   5261.960     82.648    813806        42    284144    330188    0    0         0.00
+sh               19:30:39     7613.93        0.00        0.01        0.00        0.00        0.00       12.65      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             19:31:28     7765.62       34.01       13.53        2.93       32.88        0.00        4.70    382.033   5507.761     12247    176249       600      4316    0    0         0.00
+python2.7        19:31:29     7765.84     7692.27        8.90       38.77        0.00        0.00      187.96   5508.716     87.676    851977        44    130320    175444    0    0         0.00
+sh               19:31:29     7765.88        0.00        0.02        0.00        0.00        0.00       10.64      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:14:04     5450.87       24.17        8.20        1.63       14.29        0.00        4.70    255.416   3702.884      8195    118493       604      4316    0    0         0.00
+python2.7        21:14:04     5451.34     5405.31        6.05       29.04        0.00        0.00      150.64   3703.839     58.863    572779        30     70888    116084    0    0         0.00
+sh               21:14:04     5451.37        0.00        0.01        0.00        0.00        0.00       12.70      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:21:36     5956.09       26.67       10.58        2.50       16.53        0.00        4.70    298.814   4306.777      9584    137817       600      4316    0    0         0.00
+python2.7        21:21:37     5956.44     5909.35        6.55       27.36        0.00        0.00      156.93   4307.732     68.503    705763        35     71380    116604    0    0         0.00
+sh               21:21:37     5956.47        0.00        0.01        0.00        0.00        0.00       12.80      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:32:17     5537.47       24.89        9.46        1.90       17.15        0.00        4.70    265.889   3891.378      8531    124525       604      4316    0    0         0.00
+python2.7        21:32:17     5538.29     5491.40        6.45       27.63        0.00        0.00      150.55   3892.333     61.856    601986        31     92888    138380    0    0         0.00
+sh               21:32:17     5538.32        0.00        0.01        0.00        0.00        0.00        9.83      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:20:41     6570.33       29.46       10.02        2.19       21.57        0.00        4.70    321.368   4627.513     10306    148081       600      4316    0    0         0.00
+python2.7        21:20:42     6570.50     6513.18        7.11       35.57        0.00        0.00      155.65   4628.468     73.743    715806        37     69592    115616    0    0         0.00
+sh               21:20:42     6570.54        0.00        0.01        0.00        0.00        0.00       13.04      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             20:57:59     8039.42       35.14       12.10        2.75       17.13        0.00        4.70    381.471   5670.922     12229    181470       604      4316    0    0         0.00
+python2.7        20:57:59     8039.92     7977.69       12.88       39.46        0.00        0.00      271.15   5671.876     85.483    877236        43    356860    403652    0    0         0.00
+sh               20:57:59     8039.95        0.00        0.01        0.00        0.00        0.00       12.76      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             21:21:57     6610.88       29.04       10.13        2.16       21.57        0.00        4.70    324.873   4685.710     10418    149943       600      4316    0    0         0.00
+python2.7        21:21:57     6611.29     6551.90        7.97       34.98        0.00        0.00      154.65   4686.665     74.519    903373        38     74696    119812    0    0         0.00
+sh               21:21:57     6611.32        0.00        0.02        0.00        0.00        0.00       10.74      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:17:47     7076.36       30.92       11.43        2.54       17.57        0.00        4.70    344.828   4971.858     11057    159100       600      4316    0    0         0.00
+python2.7        21:17:48     7076.74     7020.09        8.18       35.81        0.00        0.00      155.35   4972.813     78.886    768982        40     91768    136992    0    0         0.00
+sh               21:17:48     7076.77        0.01        0.01        0.00        0.00        0.00       10.56      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             21:21:50     7023.65       31.38       11.49        2.61       21.88        0.00        4.70    341.727   4925.674     10957    157622       604      4316    0    0         0.00
+python2.7        21:21:49     7024.31     6961.04        7.77       38.37        0.00        0.00      164.84   4926.629     78.538    901572        40     74484    119916    0    0         0.00
+sh               21:21:49     7024.35        0.00        0.02        0.00        0.00        0.00       10.09      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:55:24     8726.76       38.49       14.93        3.09       30.89        0.00        4.70    421.363   6179.304     13506    197738       608      4316    0    0         0.00
+python2.7        20:55:24     8727.80     8651.29       10.59       42.87        0.00        0.00      159.96   6180.259     92.541    955655        47    111196    156340    0    0         0.00
+sh               20:55:24     8727.83        0.00        0.02        0.00        0.00        0.00       13.15      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             21:19:18     7350.81       32.77       13.11        2.47       35.43        0.00        4.70    358.055   5152.108     11480    164868       604      4316    0    0         0.00
+python2.7        21:19:18     7350.97     7278.54        8.13       35.54        0.00        0.00      153.17   5153.063     82.401    796754        42     71956    117268    0    0         0.00
+sh               21:19:17     7351.00        0.01        0.01        0.00        0.00        0.00       11.18      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             21:22:42     7184.80       32.33       12.62        2.65       31.13        0.00        4.70    355.753   5123.104     11406    163940       600      4316    0    0         0.00
+python2.7        21:22:42     7185.19     7112.72        8.59       39.23        0.00        0.00      162.89   5124.059     81.672    966263        41     74260    119436    0    0         0.00
+sh               21:22:42     7185.21        0.01        0.01        0.00        0.00        0.00       12.99      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             21:28:58     6867.57       28.88       11.43        2.21       24.40        0.00        4.70    314.952   4628.245     10101    148104       608      4316    0    0         0.00
+python2.7        21:28:58     6867.85     6805.91        8.04       37.54        0.00        0.00      177.85   4629.200     73.562    715841        37     90116    135252    0    0         0.00
+sh               21:28:58     6867.88        0.00        0.01        0.00        0.00        0.00        9.84      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             21:24:36     7338.32       32.99       13.40        2.65       28.94        0.00        4.70    364.360   5248.372     11682    167948       604      4316    0    0         0.00
+python2.7        21:24:36     7339.07     7270.21        8.44       37.75        0.00        0.00      155.39   5249.327     83.099   1004532        42     73896    119044    0    0         0.00
+sh               21:24:36     7339.10        0.00        0.01        0.00        0.00        0.00       10.12      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:23:05     7431.88       33.48       10.86        2.43       12.48        0.00        4.70    361.108   5192.475     11578    166160       600      4316    0    0         0.00
+python2.7        21:23:04     7432.09     7376.18        8.36       38.97        0.00        0.00      157.72   5193.430     82.588   1010440        68     69828    115036    0    0         0.00
+sh               21:23:04     7432.12        0.00        0.02        0.00        0.00        0.00        8.84      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:31:54     6929.01       31.61       11.97        2.67       30.93        0.00        4.71    348.392   5104.111     11171    163332       608      4316    0    0         0.00
+python2.7        21:31:54     6929.59     6862.88        7.78       34.36        0.00        0.00      204.69   5105.066     80.864    789422        41    106424    151532    0    0         0.00
+sh               21:31:54     6929.63        0.00        0.01        0.00        0.00        0.00        6.80      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:29:09     7207.80       32.04       10.71        2.48        6.32        0.00        4.71    351.377   5154.804     11266    164954       608      4316    0    0         0.00
+python2.7        21:29:08     7208.08     7162.37        9.45       34.01        0.00        0.00      162.22   5155.759     81.518    797197        41     93796    138940    0    0         0.00
+sh               21:29:08     7208.10        0.00        0.01        0.00        0.00        0.00       13.01      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:28:01     7342.21       33.80       13.63        3.24       33.98        0.00        4.70    357.160   5222.077     11451    167107       604      4316    0    0         0.00
+python2.7        21:28:01     7342.69     7271.53        9.24       33.56        0.00        0.00      158.54   5223.032     82.961    807652        42     83960    129104    0    0         0.00
+sh               21:28:01     7342.71        0.01        0.00        0.00        0.00        0.00        9.86      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:56:05     9283.09       38.64       15.73        3.25       27.90        0.00        4.70    424.393   6315.518     13603    202097       608      4316    0    0         0.00
+python2.7        20:56:05     9283.99     9203.94       10.36       48.91        0.00        0.00      434.39   6316.473     94.479    976855        48    290220    338276    0    0         0.00
+sh               20:56:04     9284.02        0.01        0.01        0.00        0.00        0.00       12.96      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:57:03     9229.89       40.63       15.23        3.70       25.61        0.00        4.70    434.560   6458.852     13928    206684       604      4316    0    0         0.00
+python2.7        20:57:02     9230.53     9162.08        9.60       40.32        0.00        0.00      447.55   6459.807     97.309    998924        49    209796    254892    0    0         0.00
+sh               20:57:02     9230.58        0.00        0.01        0.00        0.00        0.00       10.10      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:03:37     8881.43       40.04       15.00        3.23       27.78        0.00        4.70    428.241   6323.944     13726    202367       604      4316    0    0         0.00
+python2.7        21:03:37     8881.69     8804.81       10.01       44.96        0.00        0.00      253.21   6324.899     96.591    978211        49    201576    246852    0    0         0.00
+sh               21:03:37     8881.72        0.00        0.01        0.00        0.00        0.00        9.97      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:55:52     9382.49       41.53       15.71        3.63       27.79        0.00        4.70    446.629   6624.693     14314    211991       608      4316    0    0         0.00
+python2.7        20:55:53     9382.89     9303.56       13.22       44.40        0.00        0.00      158.84   6625.648     98.528   1024637        50    170824    215984    0    0         0.00
+sh               20:55:53     9382.92        0.00        0.01        0.00        0.00        0.00        6.51      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             21:27:07     7549.86       32.39       13.63        3.14       20.84        0.00        4.70    357.773   5158.270     11471    165065       604      4316    0    0         0.00
+python2.7        21:27:06     7550.20     7485.53        8.82       41.19        0.00        0.00      150.49   5159.225     81.385    969862        41     77756    122852    0    0         0.00
+sh               21:27:06     7550.24        0.01        0.02        0.00        0.00        0.00       11.16      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:29:59     7967.38       36.49       14.70        3.16       35.93        0.00        4.70    391.995   5745.336     12566    183851       608      4316    0    0         0.00
+python2.7        21:29:59     7968.01     7892.41       10.46       38.55        0.00        0.00      157.69   5746.291     90.744    888594        46     91172    137404    0    0         0.00
+sh               21:29:59     7968.05        0.00        0.02        0.00        0.00        0.00        8.57      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:37:33     7595.39       34.48       13.42        2.95       42.91        0.00        4.70    376.078   5509.095     12057    176292       604      4316    0    0         0.00
+python2.7        21:37:33     7595.60     7512.98        8.95       36.84        0.00        0.00      157.62   5510.050     86.896    852040        44     99028    144204    0    0         0.00
+sh               21:37:33     7595.63        0.01        0.01        0.00        0.00        0.00        9.86      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             20:58:59     9933.41       42.88       16.53        3.20       37.80        0.00        4.70    458.896   6777.511     14707    216881       608      4316    0    0         0.00
+python2.7        20:58:59     9934.34     9836.24       12.42       55.33        0.00        0.00      245.47   6778.466    102.205   1048264        52    190820    235976    0    0         0.00
+sh               20:58:59     9934.38        0.00        0.02        0.00        0.00        0.00       10.65      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             21:13:51     9067.65       40.37       16.29        3.67       28.36        0.00        4.70    439.712   6495.194     14093    207847       604      4316    0    0         0.00
+python2.7        21:13:50     9068.32     8995.56       10.94       42.54        0.00        0.00      149.15   6496.148    103.323   1004550        52     89628    134756    0    0         0.00
+sh               21:13:50     9068.35        0.00        0.02        0.00        0.00        0.00       10.75      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:06:51     9566.76       42.40       18.24        3.69       33.36        0.00        4.71    453.670   6713.638     14540    214837       608      4316    0    0         0.00
+python2.7        21:06:50     9567.37     9480.02       10.91       49.63        0.00        0.00      153.86   6714.593    103.829   1038522        52     97756    143160    0    0         0.00
+sh               21:06:50     9567.41        0.00        0.01        0.00        0.00        0.00       12.79      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:32:16     1160.84        4.96        2.26        0.45        2.40        0.00        4.70     55.159    798.804      1787     25562       604      4316    0    0         0.00
+python2.7        23:32:15     1161.23     1150.06        1.73        7.92        0.00        0.00      245.56    799.758     12.273    123783         7    119564    164796    0    0         0.00
+sh               23:32:15     1161.26        0.01        0.01        0.00        0.00        0.00        9.99      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:36:40     8169.27       34.80       14.98        2.95       26.38        0.00        4.70    382.239   5595.056     12254    179042       600      4316    0    0         0.00
+python2.7        21:36:40     8169.61     8102.60        8.81       38.37        0.00        0.00      204.26   5596.010     88.582    865468        45    119060    164464    0    0         0.00
+sh               21:36:40     8169.66        0.00        0.02        0.00        0.00        0.00       10.64      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             23:10:12     2623.59       11.63        4.85        1.11        6.29        0.00        4.71    122.479   1844.746      3942     59032       608      4316    0    0         0.00
+python2.7        23:10:12     2623.88     2601.70        3.64       13.17        0.00        0.00      207.18   1845.701     28.421    285470        15     92176    138312    0    0         0.00
+sh               23:10:13     2623.92        0.00        0.01        0.00        0.00        0.00       13.07      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:27:24     1606.44        6.84        2.88        0.48        0.14        0.00        4.71     78.056   1129.366      2520     36140       600      4316    0    0         0.00
+python2.7        23:27:24     1606.82     1595.84        2.26        9.51        0.00        0.00      141.87   1130.321     17.143    174910         9     56240    101436    0    0         0.00
+sh               23:27:24     1606.85        0.01        0.01        0.00        0.00        0.00        9.86      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:11:01     9790.09       43.14       17.79        3.47       36.10        0.00        4.70    462.988   6847.595     14838    219124       604      4316    0    0         0.00
+python2.7        21:11:01     9790.34     9699.62       11.05       54.26        0.00        0.00      202.51   6848.550    107.071   1059154        54    129252    174504    0    0         0.00
+sh               21:11:01     9790.39        0.00        0.01        0.00        0.00        0.00       11.80      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:26:56     1735.07        7.24        3.86        0.89        4.92        0.00        4.71     80.814   1212.437      2608     38798       604      4316    0    0         0.00
+python2.7        23:26:56     1735.46     1722.52        2.06        6.74        0.00        0.00      214.71   1213.392     18.694    187721        10    100324    145436    0    0         0.00
+sh               23:26:56     1735.48        0.01        0.00        0.00        0.00        0.00       12.85      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             21:40:54     8734.62       38.75       13.96        3.45       22.39        0.00        4.70    431.985   6320.004     13846    202241       608      4316    0    0         0.00
+python2.7        21:40:55     8734.85     8671.30        9.97       39.75        0.00        0.00      161.62   6320.959     99.587    977510        50    102188    147572    0    0         0.00
+sh               21:40:55     8734.87        0.00        0.01        0.00        0.00        0.00       13.00      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:31:39     2897.74       13.22        6.54        1.42        4.05        0.00        4.70    146.973   2128.296      4725     68106       604      4316    0    0         0.00
+python2.7        23:31:38     2898.42     2881.05        3.46       11.06        0.00        0.00      258.75   2129.250     32.688    329274        17    118984    164128    0    0         0.00
+sh               23:31:38     2898.46        0.00        0.01        0.00        0.00        0.00        9.86      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:32:57     3024.23       13.39        6.77        1.31        3.52        0.00        4.71    150.874   2189.202      4850     70055       604      4316    0    0         0.00
+python2.7        23:32:57     3024.71     3008.19        3.74       10.87        0.00        0.00      243.64   2190.157     34.398    338771        18    122756    167936    0    0         0.00
+sh               23:32:57     3024.75        0.00        0.02        0.00        0.00        0.00        8.51      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             23:42:47     2588.12       12.25        6.44        1.29       10.14        0.00        4.70    132.065   1915.865      4248     61308       600      4316    0    0         0.00
+python2.7        23:42:48     2588.75     2568.72        3.17        7.69        0.00        0.00      241.70   1916.820     30.114    296478        16    119756    164972    0    0         0.00
+sh               23:42:48     2588.79        0.00        0.02        0.00        0.00        0.00       11.00      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:30:24     3555.94       15.28        6.86        1.48       13.29        0.00        4.70    166.182   2423.452      5340     77551       600      4316    0    0         0.00
+python2.7        23:30:24     3556.48     3520.54        4.48       20.13        0.00        0.00      153.43   2424.407     36.785    374952        19     93860    139020    0    0         0.00
+sh               23:30:24     3556.51        0.00        0.02        0.00        0.00        0.00       10.65      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:44:33     2781.19       13.22        5.91        1.28       10.92        0.00        4.70    143.927   2088.665      4628     66838       600      4316    0    0         0.00
+python2.7        23:44:33     2781.80     2759.39        3.54        9.57        0.00        0.00      249.77   2089.620     32.848    323149        17    123364    168540    0    0         0.00
+sh               23:44:33     2781.83        0.00        0.01        0.00        0.00        0.00       12.99      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:29:17     3861.20       17.79        8.43        1.54        7.70        0.00        4.70    190.656   2758.957      6123     88287       604      4316    0    0         0.00
+python2.7        23:29:17     3861.75     3835.86        4.78       16.61        0.00        0.00      157.16   2759.912     41.988    426760        21     82432    127588    0    0         0.00
+sh               23:29:17     3861.79        0.00        0.02        0.00        0.00        0.00       11.05      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:30:49     3814.87       16.44        7.04        1.26        5.71        0.00        4.70    179.104   2589.855      5754     82876       604      4316    0    0         0.00
+python2.7        23:30:49     3815.10     3782.84        4.73       24.84        0.00        0.00      166.88   2590.810     39.396    400719        20    117692    164736    0    0         0.00
+sh               23:30:49     3815.14        0.00        0.02        0.00        0.00        0.00       12.39      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:21:49     4367.68       20.24       11.58        2.31       26.04        0.00        4.70    208.331   3132.786      6689    100250       604      4316    0    0         0.00
+python2.7        23:21:49     4368.37     4320.82        5.37       18.23        0.00        0.00      217.14   3133.741     48.278    484769        25    103000    148108    0    0         0.00
+sh               23:21:49     4368.39        0.00        0.01        0.00        0.00        0.00        9.27      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:30:53     4110.52       18.13       10.93        2.12       15.61        0.00        4.70    201.471   2918.638      6469     93397       604      4316    0    0         0.00
+python2.7        23:30:53     4110.74     4073.48        6.10       18.35        0.00        0.00      263.56   2919.593     44.574    451553        25    121088    166236    0    0         0.00
+sh               23:30:53     4110.77        0.00        0.01        0.00        0.00        0.00       13.01      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:51:36     2935.11       12.35        6.07        1.30        8.28        0.00        4.70    133.906   1940.815      4307     62107       600      4316    0    0         0.00
+python2.7        23:51:36     2935.34     2898.99        3.36       26.47        0.00        0.00      208.99   1941.770     30.346    300337        16    118972    164124    0    0         0.00
+sh               23:51:37     2935.38        0.00        0.02        0.00        0.00        0.00        8.90      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:44:58     3691.04       17.47        9.21        2.12        9.95        0.00        4.70    191.095   2767.902      6137     88573       604      4316    0    0         0.00
+python2.7        23:44:59     3691.57     3663.53        4.58       16.29        0.00        0.00      258.10   2768.857     43.505    428325        22    111512    158744    0    0         0.00
+sh               23:44:59     3691.60        0.01        0.01        0.00        0.00        0.00       11.00      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:44:09     3860.95       18.67        9.63        1.97       24.15        0.00        4.70    199.763   2897.892      6415     92733       600      4316    0    0         0.00
+python2.7        23:44:08     3861.28     3818.46        4.84       15.56        0.00        0.00      245.84   2898.846     45.508    448344        23    120048    165188    0    0         0.00
+sh               23:44:08     3861.32        0.00        0.02        0.00        0.00        0.00       10.11      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:52:50     3447.78       16.77        7.25        1.44       12.59        0.00        4.71    177.235   2578.754      5694     82521       604      4316    0    0         0.00
+python2.7        23:52:50     3447.97     3420.26        4.09       13.09        0.00        0.00      249.09   2579.709     40.479    399016        21    121564    166704    0    0         0.00
+sh               23:52:49     3448.01        0.00        0.02        0.00        0.00        0.00       10.92      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:04:35     6364.21       26.40       11.18        2.33       14.37        0.00        4.70    288.983   4336.546      9270    138770       608      4316    0    0         0.00
+python2.7        23:04:35     6365.09     6310.52        9.39       34.76        0.00        0.00      182.79   4337.500     66.699    670799        34     92420    138556    0    0         0.00
+sh               23:04:35     6365.12        0.00        0.02        0.00        0.00        0.00        8.07      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:46:18     4219.83       18.91        7.47        1.45        8.02        0.00        4.70    199.525   2894.435      6407     92622       600      4316    0    0         0.00
+python2.7        23:46:17     4220.13     4185.16        4.86       24.61        0.00        0.00      259.81   2895.390     45.380    447870        23    115776    160892    0    0         0.00
+sh               23:46:17     4220.17        0.00        0.02        0.00        0.00        0.00        8.11      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             22:44:55     8057.77       35.00       16.00        3.77       21.91        0.00        4.71    383.414   5616.704     12291    179735       608      4316    0    0         0.00
+python2.7        22:44:55     8058.18     7989.38        9.14       43.23        0.00        0.00      237.10   5617.659     88.442    868693        45    134592    179796    0    0         0.00
+sh               22:44:55     8058.22        0.00        0.02        0.00        0.00        0.00        9.01      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:54:11     4220.11       18.54        7.22        1.29        3.34        0.00        4.70    199.936   2882.657      6420     92246       600      4316    0    0         0.00
+python2.7        23:54:11     4220.38     4187.50        5.08       26.78        0.00        0.00      243.66   2883.612     45.341    445982        23    119672    164848    0    0         0.00
+sh               23:54:11     4220.44        0.01        0.02        0.00        0.00        0.00       11.12      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:22:27     6182.39       26.22       11.86        2.38       20.05        0.00        4.70    280.586   4231.607      9001    135412       604      4316    0    0         0.00
+python2.7        23:22:28     6182.76     6122.60        9.07       35.21        0.00        0.00      205.42   4232.562     65.229    654539        33    109060    154672    0    0         0.00
+sh               23:22:28     6182.80        0.00        0.01        0.00        0.00        0.00       12.45      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:54:11     4281.50       18.62        8.11        1.73        8.31        0.00        4.70    202.698   2926.752      6509     93657       600      4316    0    0         0.00
+python2.7        23:54:11     4281.88     4244.27        5.12       26.75        0.00        0.00      253.80   2927.707     46.028    452703        24    118388    163536    0    0         0.00
+sh               23:54:11     4281.91        0.00        0.02        0.00        0.00        0.00       12.40      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:55:52     4226.39       18.36        7.98        1.54        8.23        0.00        4.70    201.184   2906.653      6460     93013       604      4316    0    0         0.00
+python2.7        23:55:51     4227.10     4190.94        5.13       26.17        0.00        0.00      249.38   2907.608     45.633    449651        23    119572    164712    0    0         0.00
+sh               23:55:51     4227.14        0.01        0.02        0.00        0.00        0.00        9.02      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:00:53     7636.05       35.29       16.50        3.24       31.14        0.00        4.70    377.921   5530.506     12116    176977       604      4316    0    0         0.00
+python2.7        23:00:53     7636.23     7565.27        9.98       33.56        0.00        0.00      147.40   5531.461     86.978    855578        44     86028    131588    0    0         0.00
+sh               23:00:53     7636.26        0.00        0.01        0.00        0.00        0.00        8.32      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:53:56     4489.60       19.90        9.07        2.07        7.87        0.00        4.70    217.337   3141.574      6977    100531       600      4316    0    0         0.00
+python2.7        23:53:56     4490.41     4454.06        5.44       25.29        0.00        0.00      258.61   3142.529     49.126    485919        25    116568    161668    0    0         0.00
+sh               23:53:56     4490.45        0.00        0.02        0.00        0.00        0.00        8.16      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:11:59     7106.74       30.67       15.23        3.48       22.20        0.00        4.70    332.645   5025.664     10667    160822       604      4316    0    0         0.00
+python2.7        23:11:58     7107.01     7037.49       10.92       43.14        0.00        0.00      194.44   5026.619     77.222    777467        39    105136    150272    0    0         0.00
+sh               23:11:58     7107.04        0.00        0.02        0.00        0.00        0.00       12.90      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:19:57     3373.93       15.40        7.91        2.02       10.49        0.00        4.70    168.495   2441.415      5414     78126       604      4316    0    0         0.00
+python2.7        00:19:57     3374.54     3346.80        4.15       15.22        0.00        0.00      247.66   2442.369     38.201    377721        20    121868    167048    0    0         0.00
+sh               00:19:57     3374.66        0.00        0.02        0.08        0.00        0.00       10.62      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:06:29     4270.25       19.17       10.49        2.34       34.52        0.00        4.70    208.594   3019.500      6697     96625       604      4316    0    0         0.00
+python2.7        00:06:29     4270.73     4213.92        5.87       19.69        0.00        0.00      247.35   3020.455     47.403    467171        24    121232    166456    0    0         0.00
+sh               00:06:29     4270.77        0.00        0.02        0.00        0.00        0.00       13.17      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:25:56     3618.77       15.85        9.02        2.24       23.80        0.00        4.70    176.638   2552.483      5675     81680       604      4316    0    0         0.00
+python2.7        00:25:56     3619.02     3573.56        4.70       18.91        0.00        0.00      174.62   2553.438     39.904    394911        20    108364    153584    0    0         0.00
+sh               00:25:56     3619.05        0.01        0.02        0.00        0.00        0.00       11.53      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:12:08     8102.61       35.37       17.31        3.46       25.44        0.00        4.70    380.290   5715.739     12191    182904       604      4316    0    0         0.00
+python2.7        23:12:09     8102.83     8029.15       12.92       40.39        0.00        0.00      188.87   5716.694     88.025    884234        45     94636    139848    0    0         0.00
+sh               23:12:09     8102.86        0.00        0.02        0.00        0.00        0.00       10.38      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:34:24     3437.67       16.65        6.04        1.36        0.07        0.00        4.70    183.805   2662.563      5904     85203       604      4316    0    0         0.00
+python2.7        00:34:24     3437.90     3418.53        5.02       15.90        0.00        0.00      166.78   2663.518     41.562    411995        21     97500    142612    0    0         0.00
+sh               00:34:25     3437.92        0.00        0.01        0.00        0.00        0.00       12.32      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:20:51     8071.24       33.57       15.57        3.47       17.38        0.00        4.70    359.321   5391.989     11520    172544       604      4316    0    0         0.00
+python2.7        23:20:52     8071.43     7996.66       11.41       52.05        0.00        0.00      198.47   5392.944     83.102    834184        42    107444    152544    0    0         0.00
+sh               23:20:52     8071.46        0.01        0.02        0.00        0.00        0.00        9.71      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:34:37     3654.46       15.94        6.82        1.48        8.55        0.00        4.70    177.824   2562.593      5713     82003       604      4316    0    0         0.00
+python2.7        00:34:37     3654.70     3625.10        4.53       18.52        0.00        0.00      182.24   2563.548     40.877    396428        21    102980    148088    0    0         0.00
+sh               00:34:37     3654.72        0.00        0.01        0.00        0.00        0.00        9.84      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:46:30     2948.41       13.74        5.88        1.26        5.31        0.00        4.70    148.793   2145.010      4784     68641       600      4316    0    0         0.00
+python2.7        00:46:31     2948.80     2926.62        3.45       14.39        0.00        0.00      242.13   2145.965     33.990    331949        17    105864    151040    0    0         0.00
+sh               00:46:31     2948.83        0.00        0.01        0.00        0.00        0.00       13.06      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             00:23:22     4626.53       20.88        9.29        2.05        3.66        0.00        4.70    226.577   3284.789      7273    105114       604      4316    0    0         0.00
+python2.7        00:23:22     4626.76     4597.38        5.92       22.25        0.00        0.00      242.37   3285.744     51.444    508119        26    124028    169180    0    0         0.00
+sh               00:23:22     4626.80        0.01        0.01        0.00        0.00        0.00       13.06      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:33:39     4190.88       19.54        8.04        1.57        8.85        0.00        4.70    204.535   2964.165      6567     94854       604      4316    0    0         0.00
+python2.7        00:33:39     4191.38     4157.60        5.69       21.85        0.00        0.00      182.33   2965.119     46.289    458505        24     95392    140580    0    0         0.00
+sh               00:33:39     4191.42        0.00        0.02        0.00        0.00        0.00        8.48      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:18:54     8684.36       36.31       18.09        3.77       23.20        0.00        4.70    389.952   5851.379     12501    187245       604      4316    0    0         0.00
+python2.7        23:18:54     8685.32     8603.72       10.16       54.20        0.00        0.00      221.57   5852.333     90.073    904961        46    105008    150180    0    0         0.00
+sh               23:18:54     8685.36        0.00        0.01        0.00        0.00        0.00        9.83      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:26:55     8240.37       37.22       19.72        4.25       32.62        0.00        4.70    401.264   6032.302     12863    193034       604      4316    0    0         0.00
+python2.7        23:26:56     8240.56     8165.71       10.46       37.11        0.00        0.00      227.56   6033.257     92.810    933042        47    142164    187268    0    0         0.00
+sh               23:26:56     8240.60        0.01        0.01        0.00        0.00        0.00        8.49      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:30:55     4438.86       19.37        8.36        1.97       13.32        0.00        4.70    212.585   3082.813      6825     98651       604      4316    0    0         0.00
+python2.7        00:30:55     4439.60     4397.25        5.98       24.89        0.00        0.00      202.20   3083.768     47.760    476937        24    117164    162292    0    0         0.00
+sh               00:30:55     4439.64        0.00        0.02        0.00        0.00        0.00        6.74      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:29:40     4807.45       20.85        9.74        2.10        7.46        0.00        4.70    227.726   3295.966      7309    105471       604      4316    0    0         0.00
+python2.7        00:29:41     4807.94     4770.92        6.20       25.48        0.00        0.00      196.04   3296.920     51.399    509958        26    137848    186936    0    0         0.00
+sh               00:29:41     4807.98        0.00        0.02        0.00        0.00        0.00       10.98      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:15:44     9874.33       42.52       20.99        4.57       38.92        0.00        4.70    451.268   6744.743     14463    215832       608      4316    0    0         0.00
+python2.7        23:15:44     9874.65     9765.04       14.94       62.90        0.00        0.00      196.63   6745.698    103.750   1043324        52    109800    155932    0    0         0.00
+sh               23:15:44     9874.68        0.01        0.02        0.00        0.00        0.00       10.92      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             23:23:25    10299.07       43.20       19.01        3.86       29.06        0.00        4.70    462.673   6926.098     14828    221636       604      4316    0    0         0.00
+python2.7        23:23:25    10299.36    10201.13       15.37       61.05        0.00        0.00      191.18   6927.053    106.884   1071325        54     94512    139724    0    0         0.00
+sh               23:23:25    10299.39        0.00        0.02        0.00        0.00        0.00       10.67      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:44:16     4101.21       19.42        7.13        1.47        0.03        0.00        4.70    215.336   3088.783      6913     98842       600      4316    0    0         0.00
+python2.7        01:44:17     4101.88     4078.30        5.00       22.12        0.00        0.00      156.17   3089.738     48.106    477832        25    105444    150668    0    0         0.00
+sh               01:44:17     4101.91        0.00        0.02        0.00        0.00        0.00       11.99      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:10:26     6302.93       28.16       10.92        2.07        0.97        0.00        4.70    307.059   4444.661      9848    142230       600      4316    0    0         0.00
+python2.7        01:10:26     6303.41     6264.07        7.32       33.93        0.00        0.00      279.54   4445.615     70.726    687482        36    120752    165900    0    0         0.00
+sh               01:10:26     6303.45        0.00        0.02        0.00        0.00        0.00       11.22      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:50:18     8000.60       35.78       16.95        3.30        4.83        0.00        4.70    386.816   5593.866     12400    179004       604      4316    0    0         0.00
+python2.7        00:50:18     8001.12     7955.85        9.00       34.66        0.00        0.00      245.76   5594.821     89.106    865315        45    104792    150008    0    0         0.00
+sh               00:50:18     8001.15        0.01        0.01        0.00        0.00        0.00       11.50      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:39:23     8676.15       38.97       18.34        3.81        5.75        0.00        4.70    431.134   6213.829     13818    198843       600      4316    0    0         0.00
+python2.7        00:39:23     8676.40     8624.18        9.68       40.69        0.00        0.00      237.59   6214.784     99.212    961059        52    110948    156168    0    0         0.00
+sh               00:39:23     8676.44        0.01        0.01        0.00        0.00        0.00       13.21      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:48:29     8576.07       39.00       15.36        3.08        2.63        0.00        4.70    429.806   6227.280     13776    199273       604      4316    0    0         0.00
+python2.7        00:48:30     8576.24     8526.24        9.59       42.32        0.00        0.00      244.09   6228.235     99.251    963248        54    108816    153972    0    0         0.00
+sh               00:48:30     8576.27        0.00        0.01        0.00        0.00        0.00       12.84      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:40:32     9109.76       39.39       16.54        2.92        2.44        0.00        4.70    431.995   6241.800     13846    199738       604      4316    0    0         0.00
+python2.7        00:40:32     9110.15     9047.70       10.70       53.68        0.00        0.00      232.49   6242.755     99.199    965251        50    104772    149960    0    0         0.00
+sh               00:40:32     9110.18        0.00        0.02        0.00        0.00        0.00       11.17      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:44:54     5311.25       25.50        8.94        1.99        0.04        0.00        4.70    278.080   4009.723      8921    128312       604      4316    0    0         0.00
+python2.7        01:44:55     5311.55     5284.64        6.71       22.80        0.00        0.00      142.03   4010.678     62.336    620243        32     90616    136180    0    0         0.00
+sh               01:44:55     5311.58        0.00        0.02        0.00        0.00        0.00       12.36      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:43:39     5554.24       23.66        8.52        1.41        0.03        0.00        4.70    260.540   3740.442      8359    119695       604      4316    0    0         0.00
+python2.7        01:43:39     5554.67     5517.60        7.27       32.43        0.00        0.00      142.61   3741.397     58.144    578770        30     83484    129456    0    0         0.00
+sh               01:43:39     5554.71        0.01        0.02        0.00        0.00        0.00       11.34      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:05:30     7901.11       35.57       15.98        3.12        2.23        0.00        4.70    382.489   5536.386     12262    177165       604      4316    0    0         0.00
+python2.7        01:05:30     7901.74     7851.88        9.06       41.40        0.00        0.00      259.96   5537.341     87.945    856427        44    114928    160140    0    0         0.00
+sh               01:05:30     7901.78        0.00        0.01        0.00        0.00        0.00       12.82      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:08:47     7728.61       33.29       13.53        2.62        2.63        0.00        4.70    373.435   5389.731     11972    172472       600      4316    0    0         0.00
+python2.7        01:08:47     7728.98     7678.45        8.87       43.54        0.00        0.00      279.19   5390.685     85.825    833547        43    120488    166744    0    0         0.00
+sh               01:08:46     7729.02        0.00        0.02        0.00        0.00        0.00       12.37      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:49:49     5351.75       24.62        8.84        2.07        0.07        0.00        4.70    273.509   3938.338      8774    126027       604      4316    0    0         0.00
+python2.7        01:49:48     5352.12     5324.16        6.47       24.26        0.00        0.00      168.04   3939.293     61.349    609136        31     93968    139500    0    0         0.00
+sh               01:49:48     5352.14        0.00        0.02        0.00        0.00        0.00       10.64      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             00:56:38     8546.11       36.78       15.71        2.84        1.82        0.00        4.70    403.436   5842.597     12932    186964       604      4316    0    0         0.00
+python2.7        00:56:38     8546.48     8489.14        9.78       49.95        0.00        0.00      259.86   5843.552     92.557    903657        47    216584    262096    0    0         0.00
+sh               00:56:38     8546.52        0.00        0.02        0.00        0.00        0.00       10.73      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:06:19     8149.56       36.30       14.69        2.57        0.40        0.00        4.70    405.783   5866.521     13007    187729       604      4316    0    0         0.00
+python2.7        01:06:19     8149.90     8097.06        9.62       46.87        0.00        0.00      273.21   5867.476     92.674    907165        47    118816    164012    0    0         0.00
+sh               01:06:19     8149.95        0.00        0.01        0.00        0.00        0.00        9.99      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:05:33     8198.58       36.03       14.30        2.30        1.42        0.00        4.70    392.599   5678.029     12585    181697       608      4316    0    0         0.00
+python2.7        01:05:33     8198.83     8143.62        9.68       47.73        0.00        0.00      270.21   5678.984     89.960    878188        45    143320    188452    0    0         0.00
+sh               01:05:33     8198.87        0.01        0.01        0.00        0.00        0.00       10.66      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:50:40     9125.12       38.27       19.82        3.46       14.04        0.00        4.70    425.762   6170.156     13647    197446       604      4316    0    0         0.00
+python2.7        00:50:41     9125.91     9055.53       10.23       52.17        0.00        0.00      250.86   6171.111     98.343    954428        50    110220    155352    0    0         0.00
+sh               00:50:41     9125.95        0.01        0.01        0.00        0.00        0.00        9.86      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:04:32     8405.10       36.56       15.52        2.57        0.76        0.00        4.70    398.007   5752.271     12758    184073       600      4316    0    0         0.00
+python2.7        01:04:32     8405.52     8348.04        9.63       50.75        0.00        0.00      258.69   5753.226     91.230    889817        46    111064    156180    0    0         0.00
+sh               01:04:32     8405.56        0.01        0.01        0.00        0.00        0.00        9.01      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:08:10     8196.81       36.45       16.82        3.14        4.69        0.00        4.70    398.051   5749.863     12760    183996       604      4316    0    0         0.00
+python2.7        01:08:09     8197.22     8145.06        9.09       41.87        0.00        0.00      275.46   5750.818     91.500    889314        46    119884    167140    0    0         0.00
+sh               01:08:09     8197.26        0.00        0.01        0.00        0.00        0.00       11.01      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             00:59:13     8886.25       38.59       17.62        2.89        7.02        0.00        4.70    422.993   6111.403     13558    195565       604      4316    0    0         0.00
+python2.7        00:59:13     8886.45     8823.45       10.18       50.88        0.00        0.00      264.71   6112.358     97.127    945389        49    114788    160000    0    0         0.00
+sh               00:59:13     8886.50        0.01        0.02        0.00        0.00        0.00        9.69      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:35:40     6803.98       30.61       12.68        2.66        0.58        0.00        4.70    335.774   4891.023     10767    156513       604      4316    0    0         0.00
+python2.7        01:35:39     6804.48     6769.52        8.39       29.57        0.00        0.00      361.39   4891.978     75.581    756427        38    315916    361116    0    0         0.00
+sh               01:35:39     6804.53        0.01        0.01        0.00        0.00        0.00       10.58      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:16:11     8098.03       35.20       13.50        2.51        0.50        0.00        4.70    388.162   5624.319     12443    179979       600      4316    0    0         0.00
+python2.7        01:16:12     8098.97     8052.17        8.88       42.10        0.00        0.00      281.52   5625.274     89.027    870039        45    122372    167488    0    0         0.00
+sh               01:16:11     8099.02        0.00        0.02        0.00        0.00        0.00       10.59      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:35:32     6954.43       30.13       14.19        2.63        0.85        0.00        4.70    333.385   4823.393     10691    154349       600      4316    0    0         0.00
+python2.7        01:35:32     6954.70     6914.24        7.86       34.80        0.00        0.00      244.95   4824.348     77.127    746180        39    106896    151996    0    0         0.00
+sh               01:35:32     6954.72        0.00        0.01        0.00        0.00        0.00       12.95      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:17:40     8076.37       34.48       15.12        3.17        1.56        0.00        4.70    378.479   5479.121     12134    175332       604      4316    0    0         0.00
+python2.7        01:17:39     8077.14     8031.96        9.30       37.62        0.00        0.00      285.69   5480.076     87.223    847521        44    123772    169852    0    0         0.00
+sh               01:17:40     8077.18        0.01        0.01        0.00        0.00        0.00        9.88      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:31:42     7370.74       35.28       12.93        2.41        0.15        0.00        4.70    378.419   5503.483     12132    176112       600      4316    0    0         0.00
+python2.7        01:31:42     7371.03     7326.57        9.04       38.71        0.00        0.00      300.00   5504.438     87.577    851189        44    131408    178444    0    0         0.00
+sh               01:31:42     7371.07        0.00        0.02        0.00        0.00        0.00        8.20      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             01:26:15     7794.47       34.30       13.51        2.52        0.97        0.00        4.70    378.872   5510.971     12146    176352       600      4316    0    0         0.00
+python2.7        01:26:15     7794.68     7751.20        8.96       37.02        0.00        0.00      288.15   5511.926     88.000    852289        45    126280    171484    0    0         0.00
+sh               01:26:15     7794.72        0.00        0.02        0.00        0.00        0.00       10.63      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:43:30     6764.50       30.11       13.31        2.42        0.82        0.00        4.70    331.742   4766.472     10638    152528       600      4316    0    0         0.00
+python2.7        01:43:30     6764.70     6724.02        7.86       35.11        0.00        0.00      153.56   4767.427     74.374    737265        38     81012    126216    0    0         0.00
+sh               01:43:30     6764.74        0.01        0.02        0.00        0.00        0.00       10.12      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:27:11     7877.11       33.84       17.66        3.03        4.56        0.00        4.70    366.621   5336.897     11754    170781       604      4316    0    0         0.00
+python2.7        01:27:11     7877.38     7827.84        8.99       38.30        0.00        0.00      281.86   5337.851     85.193    825595        43    128172    174344    0    0         0.00
+sh               01:27:11     7877.41        0.00        0.02        0.00        0.00        0.00       10.44      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             02:00:19     6056.91       27.04       10.78        2.07        0.21        0.00        4.70    298.606   4298.623      9578    137556       604      4316    0    0         0.00
+python2.7        02:00:19     6057.08     6020.92        7.32       31.50        0.00        0.00      147.46   4299.578     66.990    664839        34     71440    117504    0    0         0.00
+sh               02:00:19     6057.11        0.00        0.02        0.00        0.00        0.00       10.63      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:40:28     7268.61       30.99       13.50        2.34        0.56        0.00        4.70    348.429   5012.038     11172    160386       604      4316    0    0         0.00
+python2.7        01:40:29     7268.74     7225.14        8.64       37.96        0.00        0.00      146.57   5012.993     77.337    775171        39     94776    140456    0    0         0.00
+sh               01:40:29     7268.78        0.01        0.01        0.00        0.00        0.00       10.98      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             01:35:23     8179.15       34.67       14.00        2.44        0.53        0.00        4.70    377.368   5496.598     12098    175892       604      4316    0    0         0.00
+python2.7        01:35:23     8179.42     8129.99        9.42       43.31        0.00        0.00      277.23   5497.552     87.353    850240        44    187136    232316    0    0         0.00
+sh               01:35:23     8179.46        0.01        0.02        0.00        0.00        0.00        9.00      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:04:00     3326.97       20.05        7.17        1.80        0.05        0.00        4.70    221.692   3200.018      7116    102401       604      4316    0    0         0.00
+python2.7        03:04:00     3327.17     3317.22        4.21        7.20        0.00        0.00      159.06   3200.973     49.710    495034        25    100188    145296    0    0         0.00
+sh               03:04:00     3327.20        0.00        0.01        0.00        0.00        0.00       12.76      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:12:23     3079.81       18.93        6.66        1.68        0.09        0.00        4.70    214.526   3086.353      6887     98764       604      4316    0    0         0.00
+python2.7        03:12:23     3079.91     3070.39        3.72        7.28        0.00        0.00      154.18   3087.308     48.285    477420        25     74876    120036    0    0         0.00
+sh               03:12:23     3079.93        0.00        0.02        0.00        0.00        0.00        9.83      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:19:04     2680.15       18.16        6.33        1.56        0.04        0.00        4.70    195.454   2813.335      6277     90027       604      4316    0    0         0.00
+python2.7        03:19:05     2680.61     2672.32        3.54        5.72        0.00        0.00      197.67   2814.290     43.604    435166        22    122688    168628    0    0         0.00
+sh               03:19:05     2680.64        0.00        0.02        0.00        0.00        0.00        9.86      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:19:00     2745.20       18.08        6.61        1.51        0.07        0.00        4.70    196.653   2829.507      6315     90545       600      4316    0    0         0.00
+python2.7        03:19:01     2745.61     2736.27        3.43        6.55        0.00        0.00      151.54   2830.462     44.276    437688        23     89720    135360    0    0         0.00
+sh               03:19:01     2745.64        0.00        0.01        0.00        0.00        0.00        9.87      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:13:26     3154.34       18.85        6.82        1.78        0.04        0.00        4.70    211.924   3050.404      6804     97613       600      4316    0    0         0.00
+python2.7        03:13:26     3154.80     3145.59        3.92        6.44        0.00        0.00      155.38   3051.359     47.488    471946        24    104252    149532    0    0         0.00
+sh               03:13:26     3154.84        0.01        0.02        0.00        0.00        0.00       10.14      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             02:15:05     6716.90       30.84       11.33        2.29        0.03        0.00        4.70    334.510   4813.316     10727    154027       600      4316    0    0         0.00
+python2.7        02:15:05     6717.19     6681.37        7.53       31.26        0.00        0.00      238.40   4814.271     74.715    744476        38    130484    175660    0    0         0.00
+sh               02:15:05     6717.22        0.00        0.02        0.00        0.00        0.00       10.09      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:11:26     3345.86       19.72        7.01        1.68        0.03        0.00        4.70    215.724   3109.656      6925     99509       604      4316    0    0         0.00
+python2.7        03:11:26     3346.09     3335.36        3.92        7.61        0.00        0.00      228.22   3110.611     48.310    480996        25    144964    191492    0    0         0.00
+sh               03:11:26     3346.12        0.00        0.02        0.00        0.00        0.00       10.74      0.008      0.000        12         0      1504     12616    0    0         0.00
+gzip             03:03:39     3969.80       18.95        8.71        1.82        0.65        0.00        4.70    207.518   2990.918      6663     95710       604      4316    0    0         0.00
+python2.7        03:03:39     3970.51     3952.97        4.46       13.97        0.00        0.00      211.43   2991.873     46.516    462663        24    125748    172740    0    0         0.00
+sh               03:03:39     3970.54        0.00        0.01        0.00        0.00        0.00        9.79      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:22:47     3001.60       15.88        5.64        1.34        0.12        0.00        4.70    165.810   2395.962      5328     76671       604      4316    0    0         0.00
+python2.7        03:22:47     3001.76     2988.86        4.14        9.88        0.00        0.00      150.12   2396.917     37.296    370717        19     98756    144280    0    0         0.00
+sh               03:22:47     3001.78        0.00        0.01        0.00        0.00        0.00        9.96      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:17:36     3350.78       16.32        5.87        1.46        0.03        0.00        4.71    178.715   2581.766      5741     82617       604      4316    0    0         0.00
+python2.7        03:17:36     3350.99     3338.37        3.72       10.36        0.00        0.00      152.13   2582.721     40.345    399299        21     95068    140236    0    0         0.00
+sh               03:17:35     3351.02        0.00        0.02        0.00        0.00        0.00       13.00      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:22:09     3418.58       18.14        8.58        1.70        0.61        0.00        4.70    195.536   2819.658      6279     90230       604      4316    0    0         0.00
+python2.7        03:22:09     3418.71     3407.38        3.60        8.15        0.00        0.00      156.51   2820.613     43.752    436247        22     98184    144464    0    0         0.00
+sh               03:22:09     3418.74        0.00        0.02        0.00        0.00        0.00        9.84      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:16:14     3850.05       20.55        8.92        1.90        0.61        0.00        4.70    221.938   3190.143      7124    102085       604      4316    0    0         0.00
+python2.7        03:16:14     3850.44     3833.64        4.94       12.69        0.00        0.00      160.31   3191.097     49.746    493430        29    112484    157600    0    0         0.00
+sh               03:16:14     3850.48        0.01        0.01        0.00        0.00        0.00       12.92      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:22:12     3594.89       18.12        8.33        1.54        1.31        0.00        4.70    201.199   2905.601      6461     92980       608      4316    0    0         0.00
+python2.7        03:22:11     3595.13     3580.26        4.04       11.00        0.00        0.00      157.38   2906.556     45.118    449585        23     81516    126716    0    0         0.00
+sh               03:22:11     3595.16        0.00        0.02        0.00        0.00        0.00       10.01      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:31:11     3084.64       21.55        7.48        2.12        0.06        0.00        4.70    252.018   3618.405      8087    115789       604      4316    0    0         0.00
+python2.7        03:31:10     3085.04     3080.12        3.79        1.77        0.00        0.00      162.29   3619.360     56.805    559747        29     83516    128640    0    0         0.00
+sh               03:31:10     3085.08        0.01        0.01        0.00        0.00        0.00       10.62      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             02:52:38     5656.34       28.50       12.12        2.55        1.03        0.00        4.70    315.761   4548.269     10127    145545       604      4316    0    0         0.00
+python2.7        02:52:38     5656.69     5634.27        6.00       17.72        0.00        0.00      159.88   4549.224     70.713    703595        36     66732    111848    0    0         0.00
+sh               02:52:38     5656.72        0.00        0.02        0.00        0.00        0.00        9.03      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             02:55:29     5616.01       29.43       10.32        2.35        0.13        0.00        4.70    323.433   4660.985     10372    149152       604      4316    0    0         0.00
+python2.7        02:55:29     5616.25     5591.57        6.10       21.74        0.00        0.00      238.41   4661.940     71.773    720911        36    121700    166840    0    0         0.00
+sh               02:55:29     5616.29        0.01        0.01        0.00        0.00        0.00       10.65      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:17:12     4627.66       23.54       12.07        2.47        1.10        0.00        4.70    264.798   3824.136      8496    122373       600      4316    0    0         0.00
+python2.7        03:17:12     4627.74     4615.54        4.76        7.44        0.00        0.00      153.65   3825.091     59.644    591716        30     83752    129588    0    0         0.00
+sh               03:17:12     4627.77        0.01        0.02        0.00        0.00        0.00       11.16      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:24:38     4188.52       23.39        8.14        2.11        0.03        0.00        4.70    260.192   3749.401      8348    119981       604      4316    0    0         0.00
+python2.7        03:24:38     4188.61     4175.43        4.62        9.94        0.00        0.00      220.12   3750.356     58.595    579972        30    112084    157772    0    0         0.00
+sh               03:24:38     4188.65        0.00        0.01        0.00        0.00        0.00       12.79      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:24:47     4451.84       24.84        8.45        2.43        0.08        0.00        4.70    285.513   4112.910      9159    131614       600      4316    0    0         0.00
+python2.7        03:24:47     4452.45     4439.22        5.14        9.95        0.00        0.00      151.56   4113.865     64.135    636147        33     93152    140064    0    0         0.00
+sh               03:24:47     4452.48        0.00        0.02        0.00        0.00        0.00       11.62      0.008      0.000        12         0      1508     12616    0    0         0.00
+gzip             03:27:20     4451.74       26.02        8.69        2.41        0.03        0.00        4.70    292.090   4211.090      9369    134755       604      4316    0    0         0.00
+python2.7        03:27:20     4452.27     4440.73        5.00        7.91        0.00        0.00      153.32   4212.045     65.828    651363        33     83308    128908    0    0         0.00
+sh               03:27:20     4452.30        0.00        0.02        0.00        0.00        0.00       10.54      0.008      0.000        12         0      1508     12616    0    0         0.00
+make             18:27:27    36845.07        0.30        0.87        0.06        0.00        0.00       12.56      0.008      0.035       398       415      2516     11116    0    0         0.00
+tee              18:27:27    36845.07        0.00        0.06        0.04        0.00        0.00        5.51      0.042      0.075       233       449       692      5348    0    0         0.00
+
+
+Job CSA Accounting - Summary Report
+====================================
+
+Job Accounting File Name         : /tmp/.jacct4077a
+Operating System                 : Linux bl1.psc.teragrid.org 2.6.32.49-0.3-default #1 SMP 2011-12-02 11:28:04 +0100 x86_64
+User Name (ID)                   : brenocon (45229)
+Group Name (ID)                  : db3bdip (13842)
+Project Name (ID)                : ? (0)
+Job ID                           : 0x4077a
+Report Starts                    : 06/20/13 18:27:27
+Report Ends                      : 06/21/13 04:41:32
+Elapsed Time                     :        36845      Seconds
+User CPU Time                    :      1034244.1920 Seconds
+System CPU Time                  :         3274.3000 Seconds
+CPU Time Core Memory Integral    :     77465268.9230 Mbyte-seconds
+CPU Time Virtual Memory Integral :    123035104.6837 Mbyte-seconds
+Maximum Core Memory Used         :          348.4961 Mbytes
+Maximum Virtual Memory Used      :          394.1914 Mbytes
+Characters Read                  :       794472.5073 Mbytes
+Characters Written               :       754847.4812 Mbytes
+Logical I/O Read Requests        :    118224246
+Logical I/O Write Requests       :     23787319
+CPU Delay                        :         5586.4470 Seconds
+Block I/O Delay                  :         3073.7377 Seconds
+Swap In Delay                    :            0.0000 Seconds
+Number of Commands               :          579
+System Billing Units             :            0.0000
