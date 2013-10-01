@@ -1,0 +1,934 @@
+zcat gw/data_without_apw/afp_eng_199405.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199405.jdoc
+zcat gw/data_without_apw/afp_eng_199406.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199406.jdoc
+zcat gw/data_without_apw/afp_eng_199407.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199407.jdoc
+zcat gw/data_without_apw/afp_eng_199408.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199408.jdoc
+zcat gw/data_without_apw/afp_eng_199409.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199409.jdoc
+zcat gw/data_without_apw/afp_eng_199410.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199410.jdoc
+zcat gw/data_without_apw/afp_eng_199411.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199411.jdoc
+zcat gw/data_without_apw/afp_eng_199412.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199412.jdoc
+zcat gw/data_without_apw/afp_eng_199501.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199501.jdoc
+zcat gw/data_without_apw/afp_eng_199502.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199502.jdoc
+zcat gw/data_without_apw/afp_eng_199503.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199503.jdoc
+zcat gw/data_without_apw/afp_eng_199504.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199504.jdoc
+zcat gw/data_without_apw/afp_eng_199505.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199505.jdoc
+zcat gw/data_without_apw/afp_eng_199506.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199506.jdoc
+zcat gw/data_without_apw/afp_eng_199507.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199507.jdoc
+zcat gw/data_without_apw/afp_eng_199508.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199508.jdoc
+zcat gw/data_without_apw/afp_eng_199509.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199509.jdoc
+zcat gw/data_without_apw/afp_eng_199510.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199510.jdoc
+zcat gw/data_without_apw/afp_eng_199511.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199511.jdoc
+zcat gw/data_without_apw/afp_eng_199512.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199512.jdoc
+zcat gw/data_without_apw/afp_eng_199601.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199601.jdoc
+zcat gw/data_without_apw/afp_eng_199602.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199602.jdoc
+zcat gw/data_without_apw/afp_eng_199603.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199603.jdoc
+zcat gw/data_without_apw/afp_eng_199604.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199604.jdoc
+zcat gw/data_without_apw/afp_eng_199605.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199605.jdoc
+zcat gw/data_without_apw/afp_eng_199606.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199606.jdoc
+zcat gw/data_without_apw/afp_eng_199607.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199607.jdoc
+zcat gw/data_without_apw/afp_eng_199608.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199608.jdoc
+zcat gw/data_without_apw/afp_eng_199609.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199609.jdoc
+zcat gw/data_without_apw/afp_eng_199610.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199610.jdoc
+zcat gw/data_without_apw/afp_eng_199611.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199611.jdoc
+zcat gw/data_without_apw/afp_eng_199612.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199612.jdoc
+zcat gw/data_without_apw/afp_eng_199701.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199701.jdoc
+zcat gw/data_without_apw/afp_eng_199702.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199702.jdoc
+zcat gw/data_without_apw/afp_eng_199703.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199703.jdoc
+zcat gw/data_without_apw/afp_eng_199704.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199704.jdoc
+zcat gw/data_without_apw/afp_eng_199705.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_199705.jdoc
+zcat gw/data_without_apw/afp_eng_200112.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200112.jdoc
+zcat gw/data_without_apw/afp_eng_200201.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200201.jdoc
+zcat gw/data_without_apw/afp_eng_200202.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200202.jdoc
+zcat gw/data_without_apw/afp_eng_200203.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200203.jdoc
+zcat gw/data_without_apw/afp_eng_200204.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200204.jdoc
+zcat gw/data_without_apw/afp_eng_200205.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200205.jdoc
+zcat gw/data_without_apw/afp_eng_200206.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200206.jdoc
+zcat gw/data_without_apw/afp_eng_200207.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200207.jdoc
+zcat gw/data_without_apw/afp_eng_200208.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200208.jdoc
+zcat gw/data_without_apw/afp_eng_200209.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200209.jdoc
+zcat gw/data_without_apw/afp_eng_200210.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200210.jdoc
+zcat gw/data_without_apw/afp_eng_200211.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200211.jdoc
+zcat gw/data_without_apw/afp_eng_200212.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200212.jdoc
+zcat gw/data_without_apw/afp_eng_200301.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200301.jdoc
+zcat gw/data_without_apw/afp_eng_200302.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200302.jdoc
+zcat gw/data_without_apw/afp_eng_200303.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200303.jdoc
+zcat gw/data_without_apw/afp_eng_200304.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200304.jdoc
+zcat gw/data_without_apw/afp_eng_200305.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200305.jdoc
+zcat gw/data_without_apw/afp_eng_200306.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200306.jdoc
+zcat gw/data_without_apw/afp_eng_200307.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200307.jdoc
+zcat gw/data_without_apw/afp_eng_200308.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200308.jdoc
+zcat gw/data_without_apw/afp_eng_200309.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200309.jdoc
+zcat gw/data_without_apw/afp_eng_200310.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200310.jdoc
+touch gw/data_without_apw/afp_eng_200209.jdoc.done
+zcat gw/data_without_apw/afp_eng_200311.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200311.jdoc
+touch gw/data_without_apw/afp_eng_200308.jdoc.done
+zcat gw/data_without_apw/afp_eng_200312.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200312.jdoc
+touch gw/data_without_apw/afp_eng_199405.jdoc.done
+zcat gw/data_without_apw/afp_eng_200401.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200401.jdoc
+touch gw/data_without_apw/afp_eng_200208.jdoc.done
+zcat gw/data_without_apw/afp_eng_200402.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200402.jdoc
+touch gw/data_without_apw/afp_eng_199705.jdoc.done
+zcat gw/data_without_apw/afp_eng_200403.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200403.jdoc
+touch gw/data_without_apw/afp_eng_199408.jdoc.done
+zcat gw/data_without_apw/afp_eng_200404.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200404.jdoc
+touch gw/data_without_apw/afp_eng_199412.jdoc.done
+zcat gw/data_without_apw/afp_eng_200405.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200405.jdoc
+touch gw/data_without_apw/afp_eng_199409.jdoc.done
+zcat gw/data_without_apw/afp_eng_200406.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200406.jdoc
+touch gw/data_without_apw/afp_eng_199411.jdoc.done
+zcat gw/data_without_apw/afp_eng_200407.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200407.jdoc
+touch gw/data_without_apw/afp_eng_199501.jdoc.done
+zcat gw/data_without_apw/afp_eng_200408.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200408.jdoc
+touch gw/data_without_apw/afp_eng_199502.jdoc.done
+zcat gw/data_without_apw/afp_eng_200409.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200409.jdoc
+touch gw/data_without_apw/afp_eng_199410.jdoc.done
+zcat gw/data_without_apw/afp_eng_200410.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200410.jdoc
+touch gw/data_without_apw/afp_eng_199508.jdoc.done
+zcat gw/data_without_apw/afp_eng_200411.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200411.jdoc
+touch gw/data_without_apw/afp_eng_199504.jdoc.done
+zcat gw/data_without_apw/afp_eng_200412.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200412.jdoc
+touch gw/data_without_apw/afp_eng_200309.jdoc.done
+zcat gw/data_without_apw/afp_eng_200501.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200501.jdoc
+touch gw/data_without_apw/afp_eng_199407.jdoc.done
+zcat gw/data_without_apw/afp_eng_200502.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200502.jdoc
+touch gw/data_without_apw/afp_eng_199509.jdoc.done
+zcat gw/data_without_apw/afp_eng_200503.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200503.jdoc
+touch gw/data_without_apw/afp_eng_199406.jdoc.done
+zcat gw/data_without_apw/afp_eng_200504.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200504.jdoc
+touch gw/data_without_apw/afp_eng_199507.jdoc.done
+zcat gw/data_without_apw/afp_eng_200505.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200505.jdoc
+touch gw/data_without_apw/afp_eng_199503.jdoc.done
+zcat gw/data_without_apw/afp_eng_200506.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200506.jdoc
+touch gw/data_without_apw/afp_eng_199605.jdoc.done
+zcat gw/data_without_apw/afp_eng_200507.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200507.jdoc
+touch gw/data_without_apw/afp_eng_199511.jdoc.done
+zcat gw/data_without_apw/afp_eng_200508.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200508.jdoc
+touch gw/data_without_apw/afp_eng_199512.jdoc.done
+zcat gw/data_without_apw/afp_eng_200509.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200509.jdoc
+touch gw/data_without_apw/afp_eng_199602.jdoc.done
+zcat gw/data_without_apw/afp_eng_200510.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200510.jdoc
+touch gw/data_without_apw/afp_eng_199604.jdoc.done
+zcat gw/data_without_apw/afp_eng_200511.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200511.jdoc
+touch gw/data_without_apw/afp_eng_199505.jdoc.done
+zcat gw/data_without_apw/afp_eng_200512.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200512.jdoc
+XML PARSE ERROR, str length 250121, start:	'Tokens: Saeed drove Salisbury for six and also hit five fours in a 63-ball half-century , but the Su'
+touch gw/data_without_apw/afp_eng_199606.jdoc.done
+zcat gw/data_without_apw/afp_eng_200601.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200601.jdoc
+touch gw/data_without_apw/afp_eng_200401.jdoc.done
+zcat gw/data_without_apw/afp_eng_200602.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200602.jdoc
+touch gw/data_without_apw/afp_eng_200204.jdoc.done
+zcat gw/data_without_apw/afp_eng_200603.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200603.jdoc
+touch gw/data_without_apw/afp_eng_200112.jdoc.done
+zcat gw/data_without_apw/afp_eng_200604.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200604.jdoc
+touch gw/data_without_apw/afp_eng_199603.jdoc.done
+zcat gw/data_without_apw/afp_eng_200605.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200605.jdoc
+touch gw/data_without_apw/afp_eng_199612.jdoc.done
+zcat gw/data_without_apw/afp_eng_200606.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200606.jdoc
+touch gw/data_without_apw/afp_eng_199601.jdoc.done
+zcat gw/data_without_apw/afp_eng_200607.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200607.jdoc
+touch gw/data_without_apw/afp_eng_199701.jdoc.done
+zcat gw/data_without_apw/afp_eng_200608.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200608.jdoc
+touch gw/data_without_apw/afp_eng_199607.jdoc.done
+zcat gw/data_without_apw/afp_eng_200609.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200609.jdoc
+touch gw/data_without_apw/afp_eng_199702.jdoc.done
+zcat gw/data_without_apw/afp_eng_200610.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200610.jdoc
+touch gw/data_without_apw/afp_eng_199510.jdoc.done
+zcat gw/data_without_apw/afp_eng_200611.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200611.jdoc
+touch gw/data_without_apw/afp_eng_199611.jdoc.done
+zcat gw/data_without_apw/afp_eng_200612.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200612.jdoc
+touch gw/data_without_apw/afp_eng_199704.jdoc.done
+zcat gw/data_without_apw/afp_eng_200701.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200701.jdoc
+touch gw/data_without_apw/afp_eng_199608.jdoc.done
+zcat gw/data_without_apw/afp_eng_200702.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200702.jdoc
+touch gw/data_without_apw/afp_eng_199506.jdoc.done
+zcat gw/data_without_apw/afp_eng_200703.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200703.jdoc
+touch gw/data_without_apw/afp_eng_199609.jdoc.done
+zcat gw/data_without_apw/afp_eng_200704.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200704.jdoc
+touch gw/data_without_apw/afp_eng_200203.jdoc.done
+zcat gw/data_without_apw/afp_eng_200705.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200705.jdoc
+touch gw/data_without_apw/afp_eng_200206.jdoc.done
+zcat gw/data_without_apw/afp_eng_200706.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200706.jdoc
+touch gw/data_without_apw/afp_eng_200207.jdoc.done
+zcat gw/data_without_apw/afp_eng_200707.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200707.jdoc
+touch gw/data_without_apw/afp_eng_199610.jdoc.done
+zcat gw/data_without_apw/afp_eng_200708.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200708.jdoc
+touch gw/data_without_apw/afp_eng_200202.jdoc.done
+zcat gw/data_without_apw/afp_eng_200709.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200709.jdoc
+touch gw/data_without_apw/afp_eng_200504.jdoc.done
+zcat gw/data_without_apw/afp_eng_200710.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200710.jdoc
+touch gw/data_without_apw/afp_eng_200508.jdoc.done
+zcat gw/data_without_apw/afp_eng_200711.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200711.jdoc
+touch gw/data_without_apw/afp_eng_199703.jdoc.done
+zcat gw/data_without_apw/afp_eng_200712.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200712.jdoc
+touch gw/data_without_apw/afp_eng_200212.jdoc.done
+zcat gw/data_without_apw/afp_eng_200801.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200801.jdoc
+touch gw/data_without_apw/afp_eng_200205.jdoc.done
+zcat gw/data_without_apw/afp_eng_200802.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200802.jdoc
+touch gw/data_without_apw/afp_eng_200301.jdoc.done
+zcat gw/data_without_apw/afp_eng_200803.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200803.jdoc
+touch gw/data_without_apw/afp_eng_200302.jdoc.done
+zcat gw/data_without_apw/afp_eng_200804.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200804.jdoc
+touch gw/data_without_apw/afp_eng_200512.jdoc.done
+zcat gw/data_without_apw/afp_eng_200805.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200805.jdoc
+touch gw/data_without_apw/afp_eng_200511.jdoc.done
+zcat gw/data_without_apw/afp_eng_200806.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200806.jdoc
+touch gw/data_without_apw/afp_eng_200310.jdoc.done
+zcat gw/data_without_apw/afp_eng_200807.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200807.jdoc
+touch gw/data_without_apw/afp_eng_200307.jdoc.done
+zcat gw/data_without_apw/afp_eng_200808.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200808.jdoc
+touch gw/data_without_apw/afp_eng_200211.jdoc.done
+zcat gw/data_without_apw/afp_eng_200809.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200809.jdoc
+touch gw/data_without_apw/afp_eng_200311.jdoc.done
+zcat gw/data_without_apw/afp_eng_200810.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200810.jdoc
+touch gw/data_without_apw/afp_eng_200407.jdoc.done
+zcat gw/data_without_apw/afp_eng_200811.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200811.jdoc
+touch gw/data_without_apw/afp_eng_200210.jdoc.done
+zcat gw/data_without_apw/afp_eng_200812.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200812.jdoc
+touch gw/data_without_apw/afp_eng_200305.jdoc.done
+zcat gw/data_without_apw/afp_eng_200901.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200901.jdoc
+touch gw/data_without_apw/afp_eng_200405.jdoc.done
+zcat gw/data_without_apw/afp_eng_200902.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200902.jdoc
+touch gw/data_without_apw/afp_eng_200404.jdoc.done
+zcat gw/data_without_apw/afp_eng_200903.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200903.jdoc
+touch gw/data_without_apw/afp_eng_200406.jdoc.done
+zcat gw/data_without_apw/afp_eng_200904.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200904.jdoc
+XML PARSE ERROR, str length 127642, start:	"Tokens: Police found the 16th century gold-and-enamel sculpture , which was stolen from Vienna 's Ku"
+touch gw/data_without_apw/afp_eng_200412.jdoc.done
+zcat gw/data_without_apw/afp_eng_200905.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200905.jdoc
+XML PARSE ERROR, str length 58169, start:	"Tokens: From Wednesday mourners will be able to pay their respects before Abbe Pierre 's open coffin"
+touch gw/data_without_apw/afp_eng_200408.jdoc.done
+zcat gw/data_without_apw/afp_eng_200906.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200906.jdoc
+touch gw/data_without_apw/afp_eng_200403.jdoc.done
+zcat gw/data_without_apw/afp_eng_200907.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200907.jdoc
+touch gw/data_without_apw/afp_eng_200201.jdoc.done
+zcat gw/data_without_apw/afp_eng_200908.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200908.jdoc
+touch gw/data_without_apw/afp_eng_200608.jdoc.done
+zcat gw/data_without_apw/afp_eng_200909.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200909.jdoc
+touch gw/data_without_apw/afp_eng_200312.jdoc.done
+zcat gw/data_without_apw/afp_eng_200910.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200910.jdoc
+touch gw/data_without_apw/afp_eng_200604.jdoc.done
+zcat gw/data_without_apw/afp_eng_200911.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200911.jdoc
+touch gw/data_without_apw/afp_eng_200306.jdoc.done
+zcat gw/data_without_apw/afp_eng_200912.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_200912.jdoc
+touch gw/data_without_apw/afp_eng_200409.jdoc.done
+zcat gw/data_without_apw/afp_eng_201001.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201001.jdoc
+touch gw/data_without_apw/afp_eng_200503.jdoc.done
+zcat gw/data_without_apw/afp_eng_201002.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201002.jdoc
+touch gw/data_without_apw/afp_eng_200509.jdoc.done
+zcat gw/data_without_apw/afp_eng_201003.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201003.jdoc
+touch gw/data_without_apw/afp_eng_200410.jdoc.done
+zcat gw/data_without_apw/afp_eng_201004.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201004.jdoc
+touch gw/data_without_apw/afp_eng_200402.jdoc.done
+zcat gw/data_without_apw/afp_eng_201005.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201005.jdoc
+touch gw/data_without_apw/afp_eng_200802.jdoc.done
+zcat gw/data_without_apw/afp_eng_201006.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201006.jdoc
+touch gw/data_without_apw/afp_eng_200510.jdoc.done
+zcat gw/data_without_apw/afp_eng_201007.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201007.jdoc
+touch gw/data_without_apw/afp_eng_200411.jdoc.done
+zcat gw/data_without_apw/afp_eng_201008.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201008.jdoc
+touch gw/data_without_apw/afp_eng_200701.jdoc.done
+zcat gw/data_without_apw/afp_eng_201009.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201009.jdoc
+touch gw/data_without_apw/afp_eng_200609.jdoc.done
+zcat gw/data_without_apw/afp_eng_201010.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201010.jdoc
+touch gw/data_without_apw/afp_eng_200702.jdoc.done
+zcat gw/data_without_apw/afp_eng_201011.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201011.jdoc
+touch gw/data_without_apw/afp_eng_200610.jdoc.done
+zcat gw/data_without_apw/afp_eng_201012.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/afp_eng_201012.jdoc
+touch gw/data_without_apw/afp_eng_200502.jdoc.done
+zcat gw/data_without_apw/cna_eng_199709.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199709.jdoc
+touch gw/data_without_apw/afp_eng_200612.jdoc.done
+zcat gw/data_without_apw/cna_eng_199710.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199710.jdoc
+touch gw/data_without_apw/afp_eng_200506.jdoc.done
+zcat gw/data_without_apw/cna_eng_199711.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199711.jdoc
+touch gw/data_without_apw/cna_eng_199709.jdoc.done
+zcat gw/data_without_apw/cna_eng_199712.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199712.jdoc
+touch gw/data_without_apw/afp_eng_200303.jdoc.done
+zcat gw/data_without_apw/cna_eng_199801.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199801.jdoc
+touch gw/data_without_apw/afp_eng_200607.jdoc.done
+zcat gw/data_without_apw/cna_eng_199802.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199802.jdoc
+touch gw/data_without_apw/cna_eng_199711.jdoc.done
+zcat gw/data_without_apw/cna_eng_199803.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199803.jdoc
+touch gw/data_without_apw/cna_eng_199801.jdoc.done
+zcat gw/data_without_apw/cna_eng_199804.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199804.jdoc
+XML PARSE ERROR, str length 226930, start:	'Tokens: Shah remained to post a 62-ball half-century , but was lbw to Shakib Al Hasan for 61 .\n<DOC '
+touch gw/data_without_apw/cna_eng_199710.jdoc.done
+zcat gw/data_without_apw/cna_eng_199805.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199805.jdoc
+touch gw/data_without_apw/afp_eng_200705.jdoc.done
+zcat gw/data_without_apw/cna_eng_199806.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199806.jdoc
+touch gw/data_without_apw/cna_eng_199712.jdoc.done
+zcat gw/data_without_apw/cna_eng_199807.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199807.jdoc
+touch gw/data_without_apw/cna_eng_199802.jdoc.done
+zcat gw/data_without_apw/cna_eng_199808.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199808.jdoc
+touch gw/data_without_apw/afp_eng_200602.jdoc.done
+zcat gw/data_without_apw/cna_eng_199809.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199809.jdoc
+touch gw/data_without_apw/afp_eng_200704.jdoc.done
+zcat gw/data_without_apw/cna_eng_199810.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199810.jdoc
+touch gw/data_without_apw/afp_eng_200304.jdoc.done
+zcat gw/data_without_apw/cna_eng_199811.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199811.jdoc
+touch gw/data_without_apw/afp_eng_200603.jdoc.done
+zcat gw/data_without_apw/cna_eng_199812.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199812.jdoc
+touch gw/data_without_apw/afp_eng_200601.jdoc.done
+zcat gw/data_without_apw/cna_eng_199901.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199901.jdoc
+touch gw/data_without_apw/cna_eng_199804.jdoc.done
+zcat gw/data_without_apw/cna_eng_199902.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199902.jdoc
+touch gw/data_without_apw/cna_eng_199803.jdoc.done
+zcat gw/data_without_apw/cna_eng_199903.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199903.jdoc
+touch gw/data_without_apw/cna_eng_199805.jdoc.done
+zcat gw/data_without_apw/cna_eng_199904.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199904.jdoc
+touch gw/data_without_apw/cna_eng_199809.jdoc.done
+zcat gw/data_without_apw/cna_eng_199905.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199905.jdoc
+touch gw/data_without_apw/cna_eng_199812.jdoc.done
+zcat gw/data_without_apw/cna_eng_199906.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199906.jdoc
+touch gw/data_without_apw/cna_eng_199808.jdoc.done
+zcat gw/data_without_apw/cna_eng_199907.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199907.jdoc
+touch gw/data_without_apw/cna_eng_199806.jdoc.done
+zcat gw/data_without_apw/cna_eng_199908.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199908.jdoc
+touch gw/data_without_apw/cna_eng_199811.jdoc.done
+zcat gw/data_without_apw/cna_eng_199909.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199909.jdoc
+touch gw/data_without_apw/cna_eng_199901.jdoc.done
+zcat gw/data_without_apw/cna_eng_199910.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199910.jdoc
+touch gw/data_without_apw/cna_eng_199810.jdoc.done
+zcat gw/data_without_apw/cna_eng_199911.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199911.jdoc
+touch gw/data_without_apw/cna_eng_199807.jdoc.done
+zcat gw/data_without_apw/cna_eng_199912.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_199912.jdoc
+touch gw/data_without_apw/cna_eng_199902.jdoc.done
+zcat gw/data_without_apw/cna_eng_200001.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200001.jdoc
+touch gw/data_without_apw/afp_eng_200606.jdoc.done
+zcat gw/data_without_apw/cna_eng_200002.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200002.jdoc
+touch gw/data_without_apw/cna_eng_199903.jdoc.done
+zcat gw/data_without_apw/cna_eng_200003.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200003.jdoc
+touch gw/data_without_apw/cna_eng_199904.jdoc.done
+zcat gw/data_without_apw/cna_eng_200004.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200004.jdoc
+touch gw/data_without_apw/cna_eng_199905.jdoc.done
+zcat gw/data_without_apw/cna_eng_200005.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200005.jdoc
+touch gw/data_without_apw/cna_eng_199910.jdoc.done
+zcat gw/data_without_apw/cna_eng_200006.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200006.jdoc
+touch gw/data_without_apw/cna_eng_199906.jdoc.done
+zcat gw/data_without_apw/cna_eng_200007.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200007.jdoc
+touch gw/data_without_apw/cna_eng_199911.jdoc.done
+zcat gw/data_without_apw/cna_eng_200008.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200008.jdoc
+touch gw/data_without_apw/cna_eng_200002.jdoc.done
+zcat gw/data_without_apw/cna_eng_200009.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200009.jdoc
+touch gw/data_without_apw/cna_eng_199909.jdoc.done
+zcat gw/data_without_apw/cna_eng_200010.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200010.jdoc
+touch gw/data_without_apw/cna_eng_199907.jdoc.done
+zcat gw/data_without_apw/cna_eng_200011.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200011.jdoc
+touch gw/data_without_apw/cna_eng_199912.jdoc.done
+zcat gw/data_without_apw/cna_eng_200012.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200012.jdoc
+touch gw/data_without_apw/cna_eng_199908.jdoc.done
+zcat gw/data_without_apw/cna_eng_200101.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200101.jdoc
+touch gw/data_without_apw/cna_eng_200001.jdoc.done
+zcat gw/data_without_apw/cna_eng_200102.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200102.jdoc
+touch gw/data_without_apw/afp_eng_200501.jdoc.done
+zcat gw/data_without_apw/cna_eng_200103.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200103.jdoc
+touch gw/data_without_apw/cna_eng_200004.jdoc.done
+zcat gw/data_without_apw/cna_eng_200104.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200104.jdoc
+touch gw/data_without_apw/cna_eng_200003.jdoc.done
+zcat gw/data_without_apw/cna_eng_200105.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200105.jdoc
+touch gw/data_without_apw/cna_eng_200101.jdoc.done
+zcat gw/data_without_apw/cna_eng_200106.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200106.jdoc
+touch gw/data_without_apw/cna_eng_200012.jdoc.done
+zcat gw/data_without_apw/cna_eng_200107.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200107.jdoc
+touch gw/data_without_apw/cna_eng_200005.jdoc.done
+zcat gw/data_without_apw/cna_eng_200108.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200108.jdoc
+touch gw/data_without_apw/cna_eng_200006.jdoc.done
+zcat gw/data_without_apw/cna_eng_200109.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200109.jdoc
+touch gw/data_without_apw/cna_eng_200010.jdoc.done
+zcat gw/data_without_apw/cna_eng_200110.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200110.jdoc
+touch gw/data_without_apw/cna_eng_200007.jdoc.done
+zcat gw/data_without_apw/cna_eng_200111.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200111.jdoc
+touch gw/data_without_apw/cna_eng_200011.jdoc.done
+zcat gw/data_without_apw/cna_eng_200112.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200112.jdoc
+touch gw/data_without_apw/cna_eng_200102.jdoc.done
+zcat gw/data_without_apw/cna_eng_200201.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200201.jdoc
+touch gw/data_without_apw/cna_eng_200009.jdoc.done
+zcat gw/data_without_apw/cna_eng_200202.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200202.jdoc
+touch gw/data_without_apw/cna_eng_200008.jdoc.done
+zcat gw/data_without_apw/cna_eng_200203.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200203.jdoc
+touch gw/data_without_apw/cna_eng_200103.jdoc.done
+zcat gw/data_without_apw/cna_eng_200307.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200307.jdoc
+touch gw/data_without_apw/cna_eng_200307.jdoc.done
+zcat gw/data_without_apw/cna_eng_200308.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200308.jdoc
+touch gw/data_without_apw/cna_eng_200104.jdoc.done
+zcat gw/data_without_apw/cna_eng_200309.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200309.jdoc
+touch gw/data_without_apw/cna_eng_200105.jdoc.done
+zcat gw/data_without_apw/cna_eng_200310.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200310.jdoc
+touch gw/data_without_apw/cna_eng_200109.jdoc.done
+zcat gw/data_without_apw/cna_eng_200311.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200311.jdoc
+touch gw/data_without_apw/cna_eng_200309.jdoc.done
+zcat gw/data_without_apw/cna_eng_200312.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200312.jdoc
+touch gw/data_without_apw/cna_eng_200106.jdoc.done
+zcat gw/data_without_apw/cna_eng_200401.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200401.jdoc
+touch gw/data_without_apw/cna_eng_200112.jdoc.done
+zcat gw/data_without_apw/cna_eng_200402.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200402.jdoc
+touch gw/data_without_apw/cna_eng_200107.jdoc.done
+zcat gw/data_without_apw/cna_eng_200403.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200403.jdoc
+touch gw/data_without_apw/cna_eng_200108.jdoc.done
+zcat gw/data_without_apw/cna_eng_200404.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200404.jdoc
+touch gw/data_without_apw/cna_eng_200203.jdoc.done
+zcat gw/data_without_apw/cna_eng_200405.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200405.jdoc
+touch gw/data_without_apw/cna_eng_200110.jdoc.done
+zcat gw/data_without_apw/cna_eng_200406.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200406.jdoc
+touch gw/data_without_apw/cna_eng_200111.jdoc.done
+zcat gw/data_without_apw/cna_eng_200408.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200408.jdoc
+touch gw/data_without_apw/cna_eng_200201.jdoc.done
+zcat gw/data_without_apw/cna_eng_200409.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200409.jdoc
+touch gw/data_without_apw/cna_eng_200408.jdoc.done
+zcat gw/data_without_apw/cna_eng_200410.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200410.jdoc
+touch gw/data_without_apw/cna_eng_200202.jdoc.done
+zcat gw/data_without_apw/cna_eng_200411.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200411.jdoc
+touch gw/data_without_apw/cna_eng_200401.jdoc.done
+zcat gw/data_without_apw/cna_eng_200412.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200412.jdoc
+touch gw/data_without_apw/cna_eng_200308.jdoc.done
+zcat gw/data_without_apw/cna_eng_200501.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200501.jdoc
+touch gw/data_without_apw/cna_eng_200310.jdoc.done
+zcat gw/data_without_apw/cna_eng_200502.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200502.jdoc
+touch gw/data_without_apw/cna_eng_200311.jdoc.done
+zcat gw/data_without_apw/cna_eng_200503.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200503.jdoc
+touch gw/data_without_apw/cna_eng_200312.jdoc.done
+zcat gw/data_without_apw/cna_eng_200504.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200504.jdoc
+touch gw/data_without_apw/afp_eng_200707.jdoc.done
+zcat gw/data_without_apw/cna_eng_200505.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200505.jdoc
+touch gw/data_without_apw/cna_eng_200402.jdoc.done
+zcat gw/data_without_apw/cna_eng_200506.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200506.jdoc
+touch gw/data_without_apw/cna_eng_200405.jdoc.done
+zcat gw/data_without_apw/cna_eng_200507.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200507.jdoc
+touch gw/data_without_apw/cna_eng_200404.jdoc.done
+zcat gw/data_without_apw/cna_eng_200508.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200508.jdoc
+touch gw/data_without_apw/cna_eng_200403.jdoc.done
+zcat gw/data_without_apw/cna_eng_200509.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200509.jdoc
+touch gw/data_without_apw/cna_eng_200406.jdoc.done
+zcat gw/data_without_apw/cna_eng_200510.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200510.jdoc
+touch gw/data_without_apw/cna_eng_200409.jdoc.done
+zcat gw/data_without_apw/cna_eng_200511.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200511.jdoc
+touch gw/data_without_apw/cna_eng_200410.jdoc.done
+zcat gw/data_without_apw/cna_eng_200512.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200512.jdoc
+touch gw/data_without_apw/cna_eng_200502.jdoc.done
+zcat gw/data_without_apw/cna_eng_200601.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200601.jdoc
+touch gw/data_without_apw/cna_eng_200411.jdoc.done
+zcat gw/data_without_apw/cna_eng_200602.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200602.jdoc
+touch gw/data_without_apw/cna_eng_200412.jdoc.done
+zcat gw/data_without_apw/cna_eng_200603.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200603.jdoc
+touch gw/data_without_apw/afp_eng_200712.jdoc.done
+zcat gw/data_without_apw/cna_eng_200604.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200604.jdoc
+touch gw/data_without_apw/cna_eng_200501.jdoc.done
+zcat gw/data_without_apw/cna_eng_200605.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200605.jdoc
+touch gw/data_without_apw/cna_eng_200503.jdoc.done
+zcat gw/data_without_apw/cna_eng_200606.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200606.jdoc
+touch gw/data_without_apw/afp_eng_200708.jdoc.done
+zcat gw/data_without_apw/cna_eng_200607.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200607.jdoc
+touch gw/data_without_apw/cna_eng_200504.jdoc.done
+zcat gw/data_without_apw/cna_eng_200608.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200608.jdoc
+touch gw/data_without_apw/cna_eng_200505.jdoc.done
+zcat gw/data_without_apw/cna_eng_200609.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200609.jdoc
+touch gw/data_without_apw/cna_eng_200506.jdoc.done
+zcat gw/data_without_apw/cna_eng_200610.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200610.jdoc
+touch gw/data_without_apw/cna_eng_200509.jdoc.done
+zcat gw/data_without_apw/cna_eng_200611.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200611.jdoc
+touch gw/data_without_apw/cna_eng_200507.jdoc.done
+zcat gw/data_without_apw/cna_eng_200612.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200612.jdoc
+touch gw/data_without_apw/cna_eng_200508.jdoc.done
+zcat gw/data_without_apw/cna_eng_200701.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200701.jdoc
+touch gw/data_without_apw/afp_eng_200809.jdoc.done
+zcat gw/data_without_apw/cna_eng_200702.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200702.jdoc
+touch gw/data_without_apw/cna_eng_200510.jdoc.done
+zcat gw/data_without_apw/cna_eng_200703.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200703.jdoc
+touch gw/data_without_apw/cna_eng_200511.jdoc.done
+zcat gw/data_without_apw/cna_eng_200704.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200704.jdoc
+touch gw/data_without_apw/cna_eng_200512.jdoc.done
+zcat gw/data_without_apw/cna_eng_200705.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200705.jdoc
+touch gw/data_without_apw/cna_eng_200602.jdoc.done
+zcat gw/data_without_apw/cna_eng_200706.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200706.jdoc
+touch gw/data_without_apw/cna_eng_200601.jdoc.done
+zcat gw/data_without_apw/cna_eng_200707.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200707.jdoc
+touch gw/data_without_apw/cna_eng_200603.jdoc.done
+zcat gw/data_without_apw/cna_eng_200708.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200708.jdoc
+touch gw/data_without_apw/afp_eng_200505.jdoc.done
+zcat gw/data_without_apw/cna_eng_200709.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200709.jdoc
+touch gw/data_without_apw/cna_eng_200612.jdoc.done
+zcat gw/data_without_apw/cna_eng_200710.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200710.jdoc
+touch gw/data_without_apw/cna_eng_200604.jdoc.done
+zcat gw/data_without_apw/cna_eng_200711.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200711.jdoc
+touch gw/data_without_apw/cna_eng_200605.jdoc.done
+zcat gw/data_without_apw/cna_eng_200712.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200712.jdoc
+touch gw/data_without_apw/cna_eng_200607.jdoc.done
+zcat gw/data_without_apw/cna_eng_200801.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200801.jdoc
+touch gw/data_without_apw/afp_eng_200605.jdoc.done
+zcat gw/data_without_apw/cna_eng_200802.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200802.jdoc
+touch gw/data_without_apw/cna_eng_200606.jdoc.done
+zcat gw/data_without_apw/cna_eng_200803.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200803.jdoc
+touch gw/data_without_apw/cna_eng_200609.jdoc.done
+zcat gw/data_without_apw/cna_eng_200804.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200804.jdoc
+touch gw/data_without_apw/cna_eng_200702.jdoc.done
+zcat gw/data_without_apw/cna_eng_200805.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200805.jdoc
+touch gw/data_without_apw/cna_eng_200608.jdoc.done
+zcat gw/data_without_apw/cna_eng_200806.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200806.jdoc
+touch gw/data_without_apw/cna_eng_200610.jdoc.done
+zcat gw/data_without_apw/cna_eng_200807.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200807.jdoc
+touch gw/data_without_apw/cna_eng_200701.jdoc.done
+zcat gw/data_without_apw/cna_eng_200808.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200808.jdoc
+touch gw/data_without_apw/cna_eng_200611.jdoc.done
+zcat gw/data_without_apw/cna_eng_200809.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200809.jdoc
+touch gw/data_without_apw/cna_eng_200704.jdoc.done
+zcat gw/data_without_apw/cna_eng_200810.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200810.jdoc
+touch gw/data_without_apw/cna_eng_200703.jdoc.done
+zcat gw/data_without_apw/cna_eng_200811.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200811.jdoc
+touch gw/data_without_apw/cna_eng_200706.jdoc.done
+zcat gw/data_without_apw/cna_eng_200812.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200812.jdoc
+touch gw/data_without_apw/afp_eng_200709.jdoc.done
+zcat gw/data_without_apw/cna_eng_200901.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200901.jdoc
+touch gw/data_without_apw/cna_eng_200709.jdoc.done
+zcat gw/data_without_apw/cna_eng_200902.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200902.jdoc
+touch gw/data_without_apw/cna_eng_200708.jdoc.done
+zcat gw/data_without_apw/cna_eng_200903.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200903.jdoc
+touch gw/data_without_apw/afp_eng_200507.jdoc.done
+touch gw/data_without_apw/cna_eng_200705.jdoc.done
+zcat gw/data_without_apw/cna_eng_200904.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200904.jdoc
+zcat gw/data_without_apw/cna_eng_200905.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200905.jdoc
+touch gw/data_without_apw/cna_eng_200707.jdoc.done
+zcat gw/data_without_apw/cna_eng_200906.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200906.jdoc
+touch gw/data_without_apw/cna_eng_200710.jdoc.done
+zcat gw/data_without_apw/cna_eng_200907.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200907.jdoc
+touch gw/data_without_apw/afp_eng_200710.jdoc.done
+zcat gw/data_without_apw/cna_eng_200908.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200908.jdoc
+touch gw/data_without_apw/cna_eng_200712.jdoc.done
+zcat gw/data_without_apw/cna_eng_200909.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200909.jdoc
+touch gw/data_without_apw/cna_eng_200802.jdoc.done
+zcat gw/data_without_apw/cna_eng_200910.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200910.jdoc
+touch gw/data_without_apw/afp_eng_200703.jdoc.done
+zcat gw/data_without_apw/cna_eng_200911.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200911.jdoc
+touch gw/data_without_apw/cna_eng_200711.jdoc.done
+zcat gw/data_without_apw/cna_eng_200912.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_200912.jdoc
+touch gw/data_without_apw/cna_eng_200801.jdoc.done
+zcat gw/data_without_apw/cna_eng_201001.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201001.jdoc
+touch gw/data_without_apw/cna_eng_200803.jdoc.done
+zcat gw/data_without_apw/cna_eng_201002.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201002.jdoc
+touch gw/data_without_apw/cna_eng_200808.jdoc.done
+zcat gw/data_without_apw/cna_eng_201003.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201003.jdoc
+touch gw/data_without_apw/cna_eng_200807.jdoc.done
+zcat gw/data_without_apw/cna_eng_201004.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201004.jdoc
+touch gw/data_without_apw/cna_eng_200804.jdoc.done
+zcat gw/data_without_apw/cna_eng_201005.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201005.jdoc
+touch gw/data_without_apw/cna_eng_200806.jdoc.done
+zcat gw/data_without_apw/cna_eng_201006.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201006.jdoc
+touch gw/data_without_apw/afp_eng_200711.jdoc.done
+zcat gw/data_without_apw/cna_eng_201007.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201007.jdoc
+touch gw/data_without_apw/cna_eng_200805.jdoc.done
+zcat gw/data_without_apw/cna_eng_201008.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201008.jdoc
+touch gw/data_without_apw/cna_eng_200810.jdoc.done
+zcat gw/data_without_apw/cna_eng_201009.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201009.jdoc
+touch gw/data_without_apw/cna_eng_200901.jdoc.done
+zcat gw/data_without_apw/cna_eng_201010.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201010.jdoc
+touch gw/data_without_apw/cna_eng_200809.jdoc.done
+zcat gw/data_without_apw/cna_eng_201011.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201011.jdoc
+touch gw/data_without_apw/cna_eng_200902.jdoc.done
+zcat gw/data_without_apw/cna_eng_201012.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/cna_eng_201012.jdoc
+touch gw/data_without_apw/cna_eng_200903.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199405.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199405.jdoc
+touch gw/data_without_apw/cna_eng_200905.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199406.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199406.jdoc
+touch gw/data_without_apw/cna_eng_200904.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199407.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199407.jdoc
+touch gw/data_without_apw/afp_eng_201009.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199408.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199408.jdoc
+touch gw/data_without_apw/cna_eng_200812.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199409.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199409.jdoc
+touch gw/data_without_apw/cna_eng_200908.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199410.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199410.jdoc
+touch gw/data_without_apw/cna_eng_200909.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199411.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199411.jdoc
+touch gw/data_without_apw/afp_eng_200807.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199412.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199412.jdoc
+touch gw/data_without_apw/cna_eng_200907.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199501.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199501.jdoc
+touch gw/data_without_apw/cna_eng_200906.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199502.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199502.jdoc
+touch gw/data_without_apw/cna_eng_201002.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199503.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199503.jdoc
+touch gw/data_without_apw/cna_eng_200911.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199504.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199504.jdoc
+touch gw/data_without_apw/cna_eng_200910.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199505.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199505.jdoc
+touch gw/data_without_apw/cna_eng_200811.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199506.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199506.jdoc
+touch gw/data_without_apw/cna_eng_200912.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199507.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199507.jdoc
+touch gw/data_without_apw/cna_eng_201001.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199508.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199508.jdoc
+touch gw/data_without_apw/afp_eng_200706.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199509.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199509.jdoc
+touch gw/data_without_apw/cna_eng_201004.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199510.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199510.jdoc
+touch gw/data_without_apw/cna_eng_201003.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199511.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199511.jdoc
+touch gw/data_without_apw/cna_eng_201005.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199512.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199512.jdoc
+touch gw/data_without_apw/afp_eng_200804.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199601.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199601.jdoc
+touch gw/data_without_apw/cna_eng_201009.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199602.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199602.jdoc
+touch gw/data_without_apw/cna_eng_201006.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199603.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199603.jdoc
+touch gw/data_without_apw/cna_eng_201008.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199604.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199604.jdoc
+touch gw/data_without_apw/cna_eng_201010.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199605.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199605.jdoc
+touch gw/data_without_apw/afp_eng_201011.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199606.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199606.jdoc
+touch gw/data_without_apw/cna_eng_201007.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199607.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199607.jdoc
+touch gw/data_without_apw/cna_eng_201012.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199608.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199608.jdoc
+touch gw/data_without_apw/cna_eng_201011.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199609.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199609.jdoc
+touch gw/data_without_apw/afp_eng_200812.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199610.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199610.jdoc
+touch gw/data_without_apw/ltw_eng_199405.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199611.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199611.jdoc
+touch gw/data_without_apw/afp_eng_201010.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199612.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199612.jdoc
+touch gw/data_without_apw/afp_eng_200611.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199701.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199701.jdoc
+XML PARSE ERROR, str length 678009, start:	'Tokens: Another threat is represented by progress at the 20th century \'s end .\n<DOC id="LTW_ENG_1995'
+touch gw/data_without_apw/afp_eng_201008.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199702.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199702.jdoc
+touch gw/data_without_apw/afp_eng_200803.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199703.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199703.jdoc
+touch gw/data_without_apw/afp_eng_200801.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199704.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199704.jdoc
+touch gw/data_without_apw/afp_eng_200805.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199705.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199705.jdoc
+touch gw/data_without_apw/afp_eng_200902.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199706.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199706.jdoc
+touch gw/data_without_apw/afp_eng_200810.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199707.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199707.jdoc
+touch gw/data_without_apw/afp_eng_200808.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199708.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199708.jdoc
+touch gw/data_without_apw/afp_eng_200907.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199709.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199709.jdoc
+touch gw/data_without_apw/afp_eng_200806.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199710.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199710.jdoc
+touch gw/data_without_apw/ltw_eng_199406.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199711.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199711.jdoc
+touch gw/data_without_apw/ltw_eng_199502.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199712.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199712.jdoc
+touch gw/data_without_apw/afp_eng_200903.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199801.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199801.jdoc
+touch gw/data_without_apw/ltw_eng_199608.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199802.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199802.jdoc
+touch gw/data_without_apw/ltw_eng_199504.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199803.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199803.jdoc
+touch gw/data_without_apw/ltw_eng_199411.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199804.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199804.jdoc
+touch gw/data_without_apw/ltw_eng_199409.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199805.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199805.jdoc
+touch gw/data_without_apw/ltw_eng_199507.jdoc.done
+zcat gw/data_without_apw/ltw_eng_199806.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_199806.jdoc
+touch gw/data_without_apw/ltw_eng_199602.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200308.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200308.jdoc
+touch gw/data_without_apw/ltw_eng_199412.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200309.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200309.jdoc
+touch gw/data_without_apw/ltw_eng_199408.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200310.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200310.jdoc
+touch gw/data_without_apw/ltw_eng_199501.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200311.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200311.jdoc
+touch gw/data_without_apw/ltw_eng_199606.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200312.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200312.jdoc
+touch gw/data_without_apw/ltw_eng_199508.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200401.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200401.jdoc
+touch gw/data_without_apw/ltw_eng_199603.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200402.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200402.jdoc
+touch gw/data_without_apw/ltw_eng_199604.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200403.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200403.jdoc
+touch gw/data_without_apw/ltw_eng_199509.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200404.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200404.jdoc
+touch gw/data_without_apw/ltw_eng_199503.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200405.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200405.jdoc
+touch gw/data_without_apw/ltw_eng_199601.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200406.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200406.jdoc
+touch gw/data_without_apw/ltw_eng_199605.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200407.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200407.jdoc
+touch gw/data_without_apw/ltw_eng_199609.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200408.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200408.jdoc
+touch gw/data_without_apw/ltw_eng_199506.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200409.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200409.jdoc
+touch gw/data_without_apw/ltw_eng_199607.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200410.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200410.jdoc
+touch gw/data_without_apw/ltw_eng_199505.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200411.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200411.jdoc
+touch gw/data_without_apw/ltw_eng_199510.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200412.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200412.jdoc
+touch gw/data_without_apw/afp_eng_200905.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200501.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200501.jdoc
+touch gw/data_without_apw/afp_eng_200811.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200502.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200502.jdoc
+touch gw/data_without_apw/ltw_eng_199611.jdoc.done
+touch gw/data_without_apw/ltw_eng_199511.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200503.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200503.jdoc
+zcat gw/data_without_apw/ltw_eng_200504.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200504.jdoc
+touch gw/data_without_apw/ltw_eng_199702.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200505.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200505.jdoc
+touch gw/data_without_apw/afp_eng_201004.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200506.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200506.jdoc
+touch gw/data_without_apw/afp_eng_200904.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200507.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200507.jdoc
+touch gw/data_without_apw/ltw_eng_199512.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200508.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200508.jdoc
+touch gw/data_without_apw/ltw_eng_199612.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200509.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200509.jdoc
+touch gw/data_without_apw/ltw_eng_199703.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200510.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200510.jdoc
+touch gw/data_without_apw/afp_eng_200908.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200511.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200511.jdoc
+touch gw/data_without_apw/ltw_eng_199407.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200512.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200512.jdoc
+touch gw/data_without_apw/ltw_eng_199704.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200601.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200601.jdoc
+touch gw/data_without_apw/ltw_eng_199705.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200602.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200602.jdoc
+touch gw/data_without_apw/ltw_eng_199706.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200603.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200603.jdoc
+touch gw/data_without_apw/afp_eng_201012.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200604.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200604.jdoc
+touch gw/data_without_apw/afp_eng_200901.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200605.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200605.jdoc
+touch gw/data_without_apw/ltw_eng_199410.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200606.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200606.jdoc
+touch gw/data_without_apw/ltw_eng_199701.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200607.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200607.jdoc
+touch gw/data_without_apw/ltw_eng_199610.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200608.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200608.jdoc
+touch gw/data_without_apw/ltw_eng_199707.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200609.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200609.jdoc
+touch gw/data_without_apw/afp_eng_200912.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200610.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200610.jdoc
+touch gw/data_without_apw/ltw_eng_199708.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200611.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200611.jdoc
+touch gw/data_without_apw/ltw_eng_199806.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200612.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200612.jdoc
+XML PARSE ERROR, str length 359982, start:	"Tokens: Throughout a career that spanned the 20th century 's second half , Bancroft won respect from"
+touch gw/data_without_apw/afp_eng_200910.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200701.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200701.jdoc
+touch gw/data_without_apw/afp_eng_200909.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200702.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200702.jdoc
+touch gw/data_without_apw/afp_eng_201005.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200703.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200703.jdoc
+touch gw/data_without_apw/afp_eng_201007.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200704.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200704.jdoc
+touch gw/data_without_apw/ltw_eng_200502.jdoc.done
+touch gw/data_without_apw/afp_eng_201001.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200705.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200705.jdoc
+zcat gw/data_without_apw/ltw_eng_200706.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200706.jdoc
+touch gw/data_without_apw/afp_eng_200911.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200707.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200707.jdoc
+touch gw/data_without_apw/ltw_eng_199709.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200708.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200708.jdoc
+touch gw/data_without_apw/ltw_eng_199711.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200709.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200709.jdoc
+touch gw/data_without_apw/ltw_eng_199710.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200710.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200710.jdoc
+touch gw/data_without_apw/ltw_eng_199802.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200711.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200711.jdoc
+touch gw/data_without_apw/ltw_eng_200308.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200712.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200712.jdoc
+touch gw/data_without_apw/ltw_eng_199805.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200801.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200801.jdoc
+touch gw/data_without_apw/afp_eng_200906.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200802.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200802.jdoc
+touch gw/data_without_apw/ltw_eng_199803.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200803.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200803.jdoc
+touch gw/data_without_apw/afp_eng_201003.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200804.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200804.jdoc
+touch gw/data_without_apw/ltw_eng_200404.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200805.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200805.jdoc
+touch gw/data_without_apw/ltw_eng_199804.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200806.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200806.jdoc
+touch gw/data_without_apw/ltw_eng_199712.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200807.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200807.jdoc
+touch gw/data_without_apw/afp_eng_201002.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200808.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200808.jdoc
+touch gw/data_without_apw/ltw_eng_200504.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200809.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200809.jdoc
+touch gw/data_without_apw/ltw_eng_199801.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200810.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200810.jdoc
+touch gw/data_without_apw/ltw_eng_200412.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200811.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200811.jdoc
+touch gw/data_without_apw/ltw_eng_200312.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200812.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200812.jdoc
+touch gw/data_without_apw/ltw_eng_200411.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200901.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200901.jdoc
+touch gw/data_without_apw/ltw_eng_200401.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200902.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200902.jdoc
+touch gw/data_without_apw/ltw_eng_200311.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200903.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200903.jdoc
+touch gw/data_without_apw/ltw_eng_200402.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200904.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200904.jdoc
+XML PARSE ERROR, str length 830779, start:	"Tokens: Her new single , `` You Had Me , '' a sassy kiss-off from a girl who 's been jilted by her b"
+touch gw/data_without_apw/ltw_eng_200309.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200905.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200905.jdoc
+touch gw/data_without_apw/ltw_eng_200405.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200906.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200906.jdoc
+touch gw/data_without_apw/ltw_eng_200409.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200907.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200907.jdoc
+touch gw/data_without_apw/ltw_eng_200310.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200908.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200908.jdoc
+XML PARSE ERROR, str length 648109, start:	'Tokens: Pseudo-states are nothing new , and two notable collections of them had surprising fates nea'
+touch gw/data_without_apw/ltw_eng_200501.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200909.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200909.jdoc
+touch gw/data_without_apw/afp_eng_201006.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200910.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200910.jdoc
+touch gw/data_without_apw/ltw_eng_200408.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200911.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200911.jdoc
+touch gw/data_without_apw/ltw_eng_200403.jdoc.done
+zcat gw/data_without_apw/ltw_eng_200912.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/ltw_eng_200912.jdoc
+touch gw/data_without_apw/ltw_eng_200601.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199407.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199407.jdoc
+touch gw/data_without_apw/ltw_eng_200505.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199408.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199408.jdoc
+touch gw/data_without_apw/ltw_eng_200507.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199409.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199409.jdoc
+touch gw/data_without_apw/ltw_eng_200510.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199410.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199410.jdoc
+touch gw/data_without_apw/ltw_eng_200406.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199411.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199411.jdoc
+touch gw/data_without_apw/ltw_eng_200410.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199412.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199412.jdoc
+touch gw/data_without_apw/ltw_eng_200511.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199501.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199501.jdoc
+touch gw/data_without_apw/ltw_eng_200512.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199502.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199502.jdoc
+touch gw/data_without_apw/ltw_eng_200503.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199503.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199503.jdoc
+touch gw/data_without_apw/ltw_eng_200509.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199504.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199504.jdoc
+touch gw/data_without_apw/ltw_eng_200508.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199505.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199505.jdoc
+touch gw/data_without_apw/ltw_eng_200603.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199506.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199506.jdoc
+touch gw/data_without_apw/ltw_eng_200702.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199507.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199507.jdoc
+touch gw/data_without_apw/ltw_eng_200611.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199508.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199508.jdoc
+touch gw/data_without_apw/ltw_eng_200608.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199509.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199509.jdoc
+touch gw/data_without_apw/ltw_eng_200609.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199510.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199510.jdoc
+touch gw/data_without_apw/ltw_eng_200604.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199511.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199511.jdoc
+touch gw/data_without_apw/ltw_eng_200606.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199512.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199512.jdoc
+touch gw/data_without_apw/ltw_eng_200610.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199601.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199601.jdoc
+touch gw/data_without_apw/ltw_eng_200701.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199602.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199602.jdoc
+touch gw/data_without_apw/ltw_eng_200612.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199603.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199603.jdoc
+touch gw/data_without_apw/ltw_eng_200607.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199604.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199604.jdoc
+touch gw/data_without_apw/ltw_eng_200602.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199605.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199605.jdoc
+touch gw/data_without_apw/ltw_eng_200407.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199606.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199606.jdoc
+touch gw/data_without_apw/ltw_eng_200709.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199607.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199607.jdoc
+touch gw/data_without_apw/ltw_eng_200707.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199608.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199608.jdoc
+touch gw/data_without_apw/ltw_eng_200605.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199609.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199609.jdoc
+touch gw/data_without_apw/ltw_eng_200708.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199610.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199610.jdoc
+touch gw/data_without_apw/ltw_eng_200703.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199611.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199611.jdoc
+touch gw/data_without_apw/ltw_eng_200712.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199612.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199612.jdoc
+touch gw/data_without_apw/ltw_eng_200710.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199701.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199701.jdoc
+touch gw/data_without_apw/ltw_eng_200506.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199702.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199702.jdoc
+touch gw/data_without_apw/ltw_eng_200711.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199703.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199703.jdoc
+touch gw/data_without_apw/ltw_eng_200705.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199704.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199704.jdoc
+touch gw/data_without_apw/ltw_eng_200704.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199705.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199705.jdoc
+touch gw/data_without_apw/ltw_eng_200802.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199706.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199706.jdoc
+touch gw/data_without_apw/ltw_eng_200804.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199707.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199707.jdoc
+touch gw/data_without_apw/ltw_eng_200806.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199708.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199708.jdoc
+touch gw/data_without_apw/ltw_eng_200801.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199709.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199709.jdoc
+touch gw/data_without_apw/ltw_eng_200803.jdoc.done
+zcat gw/data_without_apw/nyt_eng_199710.xml.gz | python2.7 annogw2json.py full > gw/data_without_apw/nyt_eng_199710.jdoc
+Traceback (most recent call last):
+  File "annogw2json.py", line 127, in <module>
+    main()
+  File "annogw2json.py", line 124, in main
+    process_stream(sys.stdin, mode=args.mode)
+  File "annogw2json.py", line 113, in process_stream
+    assert False, "dunno what to do with XML node type " + tag
+AssertionError: dunno what to do with XML node type coreference
+
+gzip: stdout: Broken pipe
+make: *** [gw/data_without_apw/nyt_eng_199710.jdoc] Error 1
+make: *** Waiting for unfinished jobs....
+touch gw/data_without_apw/ltw_eng_200811.jdoc.done
+touch gw/data_without_apw/ltw_eng_200809.jdoc.done
+touch gw/data_without_apw/ltw_eng_200812.jdoc.done
+touch gw/data_without_apw/ltw_eng_200706.jdoc.done
+touch gw/data_without_apw/ltw_eng_200805.jdoc.done
+touch gw/data_without_apw/ltw_eng_200902.jdoc.done
+touch gw/data_without_apw/ltw_eng_200904.jdoc.done
+touch gw/data_without_apw/ltw_eng_200903.jdoc.done
+touch gw/data_without_apw/ltw_eng_200905.jdoc.done
+touch gw/data_without_apw/ltw_eng_200911.jdoc.done
+touch gw/data_without_apw/ltw_eng_200810.jdoc.done
+touch gw/data_without_apw/ltw_eng_200908.jdoc.done
+touch gw/data_without_apw/ltw_eng_200909.jdoc.done
+touch gw/data_without_apw/ltw_eng_200907.jdoc.done
+touch gw/data_without_apw/ltw_eng_200807.jdoc.done
+touch gw/data_without_apw/ltw_eng_200910.jdoc.done
+touch gw/data_without_apw/ltw_eng_200901.jdoc.done
+touch gw/data_without_apw/ltw_eng_200808.jdoc.done
+touch gw/data_without_apw/ltw_eng_200906.jdoc.done
+touch gw/data_without_apw/ltw_eng_200912.jdoc.done
+touch gw/data_without_apw/nyt_eng_199411.jdoc.done
+touch gw/data_without_apw/nyt_eng_199412.jdoc.done
+touch gw/data_without_apw/nyt_eng_199408.jdoc.done
+touch gw/data_without_apw/nyt_eng_199409.jdoc.done
+touch gw/data_without_apw/nyt_eng_199410.jdoc.done
+touch gw/data_without_apw/nyt_eng_199502.jdoc.done
+touch gw/data_without_apw/nyt_eng_199501.jdoc.done
+touch gw/data_without_apw/nyt_eng_199407.jdoc.done
+touch gw/data_without_apw/nyt_eng_199503.jdoc.done
+touch gw/data_without_apw/nyt_eng_199504.jdoc.done
+touch gw/data_without_apw/nyt_eng_199509.jdoc.done
+touch gw/data_without_apw/nyt_eng_199606.jdoc.done
+touch gw/data_without_apw/nyt_eng_199506.jdoc.done
+touch gw/data_without_apw/nyt_eng_199510.jdoc.done
+touch gw/data_without_apw/nyt_eng_199505.jdoc.done
+touch gw/data_without_apw/nyt_eng_199602.jdoc.done
+touch gw/data_without_apw/nyt_eng_199702.jdoc.done
+touch gw/data_without_apw/nyt_eng_199512.jdoc.done
+touch gw/data_without_apw/nyt_eng_199608.jdoc.done
+touch gw/data_without_apw/nyt_eng_199601.jdoc.done
+touch gw/data_without_apw/nyt_eng_199611.jdoc.done
+touch gw/data_without_apw/nyt_eng_199612.jdoc.done
+XML PARSE ERROR, str length 186127, start:	'Tokens: And when Eric Silver , the specialist in 19th-and 20th-century decorative arts at William Do'
+touch gw/data_without_apw/nyt_eng_199703.jdoc.done
+touch gw/data_without_apw/nyt_eng_199609.jdoc.done
+touch gw/data_without_apw/nyt_eng_199507.jdoc.done
+touch gw/data_without_apw/nyt_eng_199708.jdoc.done
+touch gw/data_without_apw/nyt_eng_199705.jdoc.done
+touch gw/data_without_apw/nyt_eng_199706.jdoc.done
+touch gw/data_without_apw/nyt_eng_199701.jdoc.done
+touch gw/data_without_apw/nyt_eng_199511.jdoc.done
+touch gw/data_without_apw/nyt_eng_199607.jdoc.done
+touch gw/data_without_apw/nyt_eng_199604.jdoc.done
+touch gw/data_without_apw/nyt_eng_199704.jdoc.done
+touch gw/data_without_apw/nyt_eng_199603.jdoc.done
+touch gw/data_without_apw/nyt_eng_199508.jdoc.done
+touch gw/data_without_apw/nyt_eng_199709.jdoc.done
+touch gw/data_without_apw/nyt_eng_199610.jdoc.done
+touch gw/data_without_apw/nyt_eng_199707.jdoc.done
+touch gw/data_without_apw/nyt_eng_199605.jdoc.done

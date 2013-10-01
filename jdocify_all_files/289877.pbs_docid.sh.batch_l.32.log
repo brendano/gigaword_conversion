@@ -1,0 +1,2014 @@
+zgrep '^<DOC ' gw/data/afp_eng_199405.xml.gz > gw/data/afp_eng_199405.docid
+zgrep '^<DOC ' gw/data/afp_eng_199406.xml.gz > gw/data/afp_eng_199406.docid
+zgrep '^<DOC ' gw/data/afp_eng_199407.xml.gz > gw/data/afp_eng_199407.docid
+zgrep '^<DOC ' gw/data/afp_eng_199408.xml.gz > gw/data/afp_eng_199408.docid
+zgrep '^<DOC ' gw/data/afp_eng_199409.xml.gz > gw/data/afp_eng_199409.docid
+zgrep '^<DOC ' gw/data/afp_eng_199410.xml.gz > gw/data/afp_eng_199410.docid
+zgrep '^<DOC ' gw/data/afp_eng_199411.xml.gz > gw/data/afp_eng_199411.docid
+zgrep '^<DOC ' gw/data/afp_eng_199412.xml.gz > gw/data/afp_eng_199412.docid
+zgrep '^<DOC ' gw/data/afp_eng_199501.xml.gz > gw/data/afp_eng_199501.docid
+zgrep '^<DOC ' gw/data/afp_eng_199502.xml.gz > gw/data/afp_eng_199502.docid
+zgrep '^<DOC ' gw/data/afp_eng_199503.xml.gz > gw/data/afp_eng_199503.docid
+zgrep '^<DOC ' gw/data/afp_eng_199504.xml.gz > gw/data/afp_eng_199504.docid
+zgrep '^<DOC ' gw/data/afp_eng_199505.xml.gz > gw/data/afp_eng_199505.docid
+zgrep '^<DOC ' gw/data/afp_eng_199506.xml.gz > gw/data/afp_eng_199506.docid
+zgrep '^<DOC ' gw/data/afp_eng_199507.xml.gz > gw/data/afp_eng_199507.docid
+zgrep '^<DOC ' gw/data/afp_eng_199508.xml.gz > gw/data/afp_eng_199508.docid
+zgrep '^<DOC ' gw/data/afp_eng_199509.xml.gz > gw/data/afp_eng_199509.docid
+zgrep '^<DOC ' gw/data/afp_eng_199510.xml.gz > gw/data/afp_eng_199510.docid
+zgrep '^<DOC ' gw/data/afp_eng_199511.xml.gz > gw/data/afp_eng_199511.docid
+zgrep '^<DOC ' gw/data/afp_eng_199512.xml.gz > gw/data/afp_eng_199512.docid
+zgrep '^<DOC ' gw/data/afp_eng_199601.xml.gz > gw/data/afp_eng_199601.docid
+zgrep '^<DOC ' gw/data/afp_eng_199602.xml.gz > gw/data/afp_eng_199602.docid
+zgrep '^<DOC ' gw/data/afp_eng_199603.xml.gz > gw/data/afp_eng_199603.docid
+zgrep '^<DOC ' gw/data/afp_eng_199604.xml.gz > gw/data/afp_eng_199604.docid
+zgrep '^<DOC ' gw/data/afp_eng_199605.xml.gz > gw/data/afp_eng_199605.docid
+zgrep '^<DOC ' gw/data/afp_eng_199606.xml.gz > gw/data/afp_eng_199606.docid
+zgrep '^<DOC ' gw/data/afp_eng_199607.xml.gz > gw/data/afp_eng_199607.docid
+zgrep '^<DOC ' gw/data/afp_eng_199608.xml.gz > gw/data/afp_eng_199608.docid
+zgrep '^<DOC ' gw/data/afp_eng_199609.xml.gz > gw/data/afp_eng_199609.docid
+zgrep '^<DOC ' gw/data/afp_eng_199610.xml.gz > gw/data/afp_eng_199610.docid
+touch gw/data/afp_eng_199405.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_199611.xml.gz > gw/data/afp_eng_199611.docid
+touch gw/data/afp_eng_199409.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_199612.xml.gz > gw/data/afp_eng_199612.docid
+touch gw/data/afp_eng_199508.docid.done
+touch gw/data/afp_eng_199511.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_199701.xml.gz > gw/data/afp_eng_199701.docid
+zgrep '^<DOC ' gw/data/afp_eng_199702.xml.gz > gw/data/afp_eng_199702.docid
+touch gw/data/afp_eng_199407.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_199703.xml.gz > gw/data/afp_eng_199703.docid
+touch gw/data/afp_eng_199408.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_199704.xml.gz > gw/data/afp_eng_199704.docid
+touch gw/data/afp_eng_199505.docid.done
+touch gw/data/afp_eng_199412.docid.done
+touch gw/data/afp_eng_199406.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_199705.xml.gz > gw/data/afp_eng_199705.docid
+zgrep '^<DOC ' gw/data/afp_eng_200112.xml.gz > gw/data/afp_eng_200112.docid
+zgrep '^<DOC ' gw/data/afp_eng_200201.xml.gz > gw/data/afp_eng_200201.docid
+touch gw/data/afp_eng_199512.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200202.xml.gz > gw/data/afp_eng_200202.docid
+touch gw/data/afp_eng_199502.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200203.xml.gz > gw/data/afp_eng_200203.docid
+touch gw/data/afp_eng_199501.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200204.xml.gz > gw/data/afp_eng_200204.docid
+touch gw/data/afp_eng_199504.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200205.xml.gz > gw/data/afp_eng_200205.docid
+touch gw/data/afp_eng_199410.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200206.xml.gz > gw/data/afp_eng_200206.docid
+touch gw/data/afp_eng_199411.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200207.xml.gz > gw/data/afp_eng_200207.docid
+touch gw/data/afp_eng_199509.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200208.xml.gz > gw/data/afp_eng_200208.docid
+touch gw/data/afp_eng_199601.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200209.xml.gz > gw/data/afp_eng_200209.docid
+touch gw/data/afp_eng_199507.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200210.xml.gz > gw/data/afp_eng_200210.docid
+touch gw/data/afp_eng_199604.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200211.xml.gz > gw/data/afp_eng_200211.docid
+touch gw/data/afp_eng_199503.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200212.xml.gz > gw/data/afp_eng_200212.docid
+touch gw/data/afp_eng_199506.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200301.xml.gz > gw/data/afp_eng_200301.docid
+touch gw/data/afp_eng_199605.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200302.xml.gz > gw/data/afp_eng_200302.docid
+touch gw/data/afp_eng_199510.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200303.xml.gz > gw/data/afp_eng_200303.docid
+touch gw/data/afp_eng_199602.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200304.xml.gz > gw/data/afp_eng_200304.docid
+touch gw/data/afp_eng_200209.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200305.xml.gz > gw/data/afp_eng_200305.docid
+touch gw/data/afp_eng_199606.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200306.xml.gz > gw/data/afp_eng_200306.docid
+touch gw/data/afp_eng_199603.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200307.xml.gz > gw/data/afp_eng_200307.docid
+touch gw/data/afp_eng_199610.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200308.xml.gz > gw/data/afp_eng_200308.docid
+touch gw/data/afp_eng_199609.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200309.xml.gz > gw/data/afp_eng_200309.docid
+touch gw/data/afp_eng_199608.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200310.xml.gz > gw/data/afp_eng_200310.docid
+touch gw/data/afp_eng_199607.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200311.xml.gz > gw/data/afp_eng_200311.docid
+touch gw/data/afp_eng_200308.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200312.xml.gz > gw/data/afp_eng_200312.docid
+touch gw/data/afp_eng_199705.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200401.xml.gz > gw/data/afp_eng_200401.docid
+touch gw/data/afp_eng_200208.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200402.xml.gz > gw/data/afp_eng_200402.docid
+touch gw/data/afp_eng_200204.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200403.xml.gz > gw/data/afp_eng_200403.docid
+touch gw/data/afp_eng_199612.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200404.xml.gz > gw/data/afp_eng_200404.docid
+touch gw/data/afp_eng_200203.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200405.xml.gz > gw/data/afp_eng_200405.docid
+touch gw/data/afp_eng_199611.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200406.xml.gz > gw/data/afp_eng_200406.docid
+touch gw/data/afp_eng_199703.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200407.xml.gz > gw/data/afp_eng_200407.docid
+touch gw/data/afp_eng_199701.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200408.xml.gz > gw/data/afp_eng_200408.docid
+touch gw/data/afp_eng_199702.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200409.xml.gz > gw/data/afp_eng_200409.docid
+touch gw/data/afp_eng_200112.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200410.xml.gz > gw/data/afp_eng_200410.docid
+touch gw/data/afp_eng_200309.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200411.xml.gz > gw/data/afp_eng_200411.docid
+touch gw/data/afp_eng_200401.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200412.xml.gz > gw/data/afp_eng_200412.docid
+touch gw/data/afp_eng_199704.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200501.xml.gz > gw/data/afp_eng_200501.docid
+touch gw/data/afp_eng_200206.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200502.xml.gz > gw/data/afp_eng_200502.docid
+touch gw/data/afp_eng_200202.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200503.xml.gz > gw/data/afp_eng_200503.docid
+touch gw/data/afp_eng_200201.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200504.xml.gz > gw/data/afp_eng_200504.docid
+touch gw/data/afp_eng_200205.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200505.xml.gz > gw/data/afp_eng_200505.docid
+touch gw/data/afp_eng_200207.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200506.xml.gz > gw/data/afp_eng_200506.docid
+touch gw/data/afp_eng_200301.docid.done
+touch gw/data/afp_eng_200311.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200507.xml.gz > gw/data/afp_eng_200507.docid
+zgrep '^<DOC ' gw/data/afp_eng_200508.xml.gz > gw/data/afp_eng_200508.docid
+touch gw/data/afp_eng_200212.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200509.xml.gz > gw/data/afp_eng_200509.docid
+touch gw/data/afp_eng_200310.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200510.xml.gz > gw/data/afp_eng_200510.docid
+touch gw/data/afp_eng_200210.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200511.xml.gz > gw/data/afp_eng_200511.docid
+touch gw/data/afp_eng_200211.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200512.xml.gz > gw/data/afp_eng_200512.docid
+touch gw/data/afp_eng_200302.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200601.xml.gz > gw/data/afp_eng_200601.docid
+touch gw/data/afp_eng_200306.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200602.xml.gz > gw/data/afp_eng_200602.docid
+touch gw/data/afp_eng_200407.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200603.xml.gz > gw/data/afp_eng_200603.docid
+touch gw/data/afp_eng_200412.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200604.xml.gz > gw/data/afp_eng_200604.docid
+touch gw/data/afp_eng_200307.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200605.xml.gz > gw/data/afp_eng_200605.docid
+touch gw/data/afp_eng_200406.docid.done
+touch gw/data/afp_eng_200312.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200606.xml.gz > gw/data/afp_eng_200606.docid
+zgrep '^<DOC ' gw/data/afp_eng_200607.xml.gz > gw/data/afp_eng_200607.docid
+touch gw/data/afp_eng_200404.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200608.xml.gz > gw/data/afp_eng_200608.docid
+touch gw/data/afp_eng_200504.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200609.xml.gz > gw/data/afp_eng_200609.docid
+touch gw/data/afp_eng_200304.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200610.xml.gz > gw/data/afp_eng_200610.docid
+touch gw/data/afp_eng_200405.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200611.xml.gz > gw/data/afp_eng_200611.docid
+touch gw/data/afp_eng_200305.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200612.xml.gz > gw/data/afp_eng_200612.docid
+touch gw/data/afp_eng_200402.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200701.xml.gz > gw/data/afp_eng_200701.docid
+touch gw/data/afp_eng_200303.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200702.xml.gz > gw/data/afp_eng_200702.docid
+touch gw/data/afp_eng_200508.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200703.xml.gz > gw/data/afp_eng_200703.docid
+touch gw/data/afp_eng_200403.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200704.xml.gz > gw/data/afp_eng_200704.docid
+touch gw/data/afp_eng_200408.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200705.xml.gz > gw/data/afp_eng_200705.docid
+touch gw/data/afp_eng_200409.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200706.xml.gz > gw/data/afp_eng_200706.docid
+touch gw/data/afp_eng_200512.docid.done
+touch gw/data/afp_eng_200410.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200709.xml.gz > gw/data/afp_eng_200709.docid
+zgrep '^<DOC ' gw/data/afp_eng_200711.xml.gz > gw/data/afp_eng_200711.docid
+touch gw/data/afp_eng_200411.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200712.xml.gz > gw/data/afp_eng_200712.docid
+touch gw/data/afp_eng_200501.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200801.xml.gz > gw/data/afp_eng_200801.docid
+touch gw/data/afp_eng_200502.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200802.xml.gz > gw/data/afp_eng_200802.docid
+touch gw/data/afp_eng_200511.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200803.xml.gz > gw/data/afp_eng_200803.docid
+touch gw/data/afp_eng_200503.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200804.xml.gz > gw/data/afp_eng_200804.docid
+touch gw/data/afp_eng_200608.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200805.xml.gz > gw/data/afp_eng_200805.docid
+touch gw/data/afp_eng_200505.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200806.xml.gz > gw/data/afp_eng_200806.docid
+touch gw/data/afp_eng_200604.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200807.xml.gz > gw/data/afp_eng_200807.docid
+touch gw/data/afp_eng_200509.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200808.xml.gz > gw/data/afp_eng_200808.docid
+touch gw/data/afp_eng_200601.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200809.xml.gz > gw/data/afp_eng_200809.docid
+touch gw/data/afp_eng_200507.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200810.xml.gz > gw/data/afp_eng_200810.docid
+touch gw/data/afp_eng_200506.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200811.xml.gz > gw/data/afp_eng_200811.docid
+touch gw/data/afp_eng_200701.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200812.xml.gz > gw/data/afp_eng_200812.docid
+touch gw/data/afp_eng_200609.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200901.xml.gz > gw/data/afp_eng_200901.docid
+touch gw/data/afp_eng_200510.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200902.xml.gz > gw/data/afp_eng_200902.docid
+touch gw/data/afp_eng_200702.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200903.xml.gz > gw/data/afp_eng_200903.docid
+touch gw/data/afp_eng_200802.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200904.xml.gz > gw/data/afp_eng_200904.docid
+touch gw/data/afp_eng_200607.docid.done
+touch gw/data/afp_eng_200605.docid.done
+touch gw/data/afp_eng_200612.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200905.xml.gz > gw/data/afp_eng_200905.docid
+zgrep '^<DOC ' gw/data/afp_eng_200906.xml.gz > gw/data/afp_eng_200906.docid
+zgrep '^<DOC ' gw/data/afp_eng_200907.xml.gz > gw/data/afp_eng_200907.docid
+touch gw/data/afp_eng_200610.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200908.xml.gz > gw/data/afp_eng_200908.docid
+touch gw/data/afp_eng_200705.docid.done
+touch gw/data/afp_eng_200704.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200909.xml.gz > gw/data/afp_eng_200909.docid
+zgrep '^<DOC ' gw/data/afp_eng_200910.xml.gz > gw/data/afp_eng_200910.docid
+touch gw/data/afp_eng_200602.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200911.xml.gz > gw/data/afp_eng_200911.docid
+touch gw/data/afp_eng_200603.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_200912.xml.gz > gw/data/afp_eng_200912.docid
+touch gw/data/afp_eng_200606.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201001.xml.gz > gw/data/afp_eng_201001.docid
+touch gw/data/afp_eng_200703.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201002.xml.gz > gw/data/afp_eng_201002.docid
+touch gw/data/afp_eng_200706.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201003.xml.gz > gw/data/afp_eng_201003.docid
+touch gw/data/afp_eng_200712.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201004.xml.gz > gw/data/afp_eng_201004.docid
+touch gw/data/afp_eng_200611.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201005.xml.gz > gw/data/afp_eng_201005.docid
+touch gw/data/afp_eng_200711.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201006.xml.gz > gw/data/afp_eng_201006.docid
+touch gw/data/afp_eng_200709.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201007.xml.gz > gw/data/afp_eng_201007.docid
+touch gw/data/afp_eng_200803.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201008.xml.gz > gw/data/afp_eng_201008.docid
+touch gw/data/afp_eng_200801.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201009.xml.gz > gw/data/afp_eng_201009.docid
+touch gw/data/afp_eng_200809.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201010.xml.gz > gw/data/afp_eng_201010.docid
+touch gw/data/afp_eng_200804.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201011.xml.gz > gw/data/afp_eng_201011.docid
+touch gw/data/afp_eng_200807.docid.done
+zgrep '^<DOC ' gw/data/afp_eng_201012.xml.gz > gw/data/afp_eng_201012.docid
+touch gw/data/afp_eng_200805.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199411.xml.gz > gw/data/apw_eng_199411.docid
+touch gw/data/afp_eng_200811.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199412.xml.gz > gw/data/apw_eng_199412.docid
+touch gw/data/afp_eng_200806.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199501.xml.gz > gw/data/apw_eng_199501.docid
+touch gw/data/afp_eng_200808.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199502.xml.gz > gw/data/apw_eng_199502.docid
+touch gw/data/afp_eng_200812.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199503.xml.gz > gw/data/apw_eng_199503.docid
+touch gw/data/afp_eng_200901.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199504.xml.gz > gw/data/apw_eng_199504.docid
+touch gw/data/afp_eng_200907.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199505.xml.gz > gw/data/apw_eng_199505.docid
+touch gw/data/afp_eng_200904.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199506.xml.gz > gw/data/apw_eng_199506.docid
+touch gw/data/afp_eng_200810.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199507.xml.gz > gw/data/apw_eng_199507.docid
+touch gw/data/afp_eng_201009.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199508.xml.gz > gw/data/apw_eng_199508.docid
+touch gw/data/afp_eng_200908.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199509.xml.gz > gw/data/apw_eng_199509.docid
+touch gw/data/afp_eng_200910.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199510.xml.gz > gw/data/apw_eng_199510.docid
+touch gw/data/afp_eng_200902.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199511.xml.gz > gw/data/apw_eng_199511.docid
+touch gw/data/afp_eng_200905.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199512.xml.gz > gw/data/apw_eng_199512.docid
+touch gw/data/afp_eng_201001.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199601.xml.gz > gw/data/apw_eng_199601.docid
+touch gw/data/afp_eng_201010.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199602.xml.gz > gw/data/apw_eng_199602.docid
+touch gw/data/afp_eng_200912.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199603.xml.gz > gw/data/apw_eng_199603.docid
+touch gw/data/afp_eng_200903.docid.done
+touch gw/data/afp_eng_201011.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199604.xml.gz > gw/data/apw_eng_199604.docid
+zgrep '^<DOC ' gw/data/apw_eng_199605.xml.gz > gw/data/apw_eng_199605.docid
+touch gw/data/afp_eng_201008.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199606.xml.gz > gw/data/apw_eng_199606.docid
+touch gw/data/afp_eng_201002.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199607.xml.gz > gw/data/apw_eng_199607.docid
+touch gw/data/afp_eng_200911.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199608.xml.gz > gw/data/apw_eng_199608.docid
+touch gw/data/afp_eng_200906.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199609.xml.gz > gw/data/apw_eng_199609.docid
+touch gw/data/afp_eng_200909.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199610.xml.gz > gw/data/apw_eng_199610.docid
+touch gw/data/afp_eng_201003.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199611.xml.gz > gw/data/apw_eng_199611.docid
+touch gw/data/afp_eng_201004.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199612.xml.gz > gw/data/apw_eng_199612.docid
+touch gw/data/apw_eng_199411.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199701.xml.gz > gw/data/apw_eng_199701.docid
+touch gw/data/afp_eng_201005.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199702.xml.gz > gw/data/apw_eng_199702.docid
+touch gw/data/afp_eng_201007.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199703.xml.gz > gw/data/apw_eng_199703.docid
+touch gw/data/afp_eng_201006.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199704.xml.gz > gw/data/apw_eng_199704.docid
+touch gw/data/apw_eng_199501.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199705.xml.gz > gw/data/apw_eng_199705.docid
+touch gw/data/apw_eng_199412.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199706.xml.gz > gw/data/apw_eng_199706.docid
+touch gw/data/apw_eng_199502.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199707.xml.gz > gw/data/apw_eng_199707.docid
+touch gw/data/apw_eng_199608.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199708.xml.gz > gw/data/apw_eng_199708.docid
+touch gw/data/afp_eng_201012.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199709.xml.gz > gw/data/apw_eng_199709.docid
+touch gw/data/apw_eng_199609.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199710.xml.gz > gw/data/apw_eng_199710.docid
+touch gw/data/apw_eng_199504.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199711.xml.gz > gw/data/apw_eng_199711.docid
+touch gw/data/apw_eng_199512.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199712.xml.gz > gw/data/apw_eng_199712.docid
+touch gw/data/apw_eng_199511.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199801.xml.gz > gw/data/apw_eng_199801.docid
+touch gw/data/apw_eng_199606.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199802.xml.gz > gw/data/apw_eng_199802.docid
+touch gw/data/apw_eng_199510.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199803.xml.gz > gw/data/apw_eng_199803.docid
+touch gw/data/apw_eng_199607.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199804.xml.gz > gw/data/apw_eng_199804.docid
+touch gw/data/apw_eng_199602.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199805.xml.gz > gw/data/apw_eng_199805.docid
+touch gw/data/apw_eng_199601.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199806.xml.gz > gw/data/apw_eng_199806.docid
+touch gw/data/apw_eng_199604.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199807.xml.gz > gw/data/apw_eng_199807.docid
+touch gw/data/apw_eng_199503.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199808.xml.gz > gw/data/apw_eng_199808.docid
+touch gw/data/apw_eng_199605.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199809.xml.gz > gw/data/apw_eng_199809.docid
+touch gw/data/apw_eng_199610.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199810.xml.gz > gw/data/apw_eng_199810.docid
+touch gw/data/apw_eng_199603.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199811.xml.gz > gw/data/apw_eng_199811.docid
+touch gw/data/apw_eng_199611.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199812.xml.gz > gw/data/apw_eng_199812.docid
+touch gw/data/apw_eng_199508.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199901.xml.gz > gw/data/apw_eng_199901.docid
+touch gw/data/apw_eng_199505.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199902.xml.gz > gw/data/apw_eng_199902.docid
+touch gw/data/apw_eng_199507.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199903.xml.gz > gw/data/apw_eng_199903.docid
+touch gw/data/apw_eng_199509.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199904.xml.gz > gw/data/apw_eng_199904.docid
+touch gw/data/apw_eng_199612.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199905.xml.gz > gw/data/apw_eng_199905.docid
+touch gw/data/apw_eng_199506.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199906.xml.gz > gw/data/apw_eng_199906.docid
+touch gw/data/apw_eng_199702.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199907.xml.gz > gw/data/apw_eng_199907.docid
+touch gw/data/apw_eng_199701.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199908.xml.gz > gw/data/apw_eng_199908.docid
+touch gw/data/apw_eng_199703.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199909.xml.gz > gw/data/apw_eng_199909.docid
+touch gw/data/apw_eng_199704.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199910.xml.gz > gw/data/apw_eng_199910.docid
+touch gw/data/apw_eng_199707.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_199911.xml.gz > gw/data/apw_eng_199911.docid
+touch gw/data/apw_eng_199911.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200001.xml.gz > gw/data/apw_eng_200001.docid
+touch gw/data/apw_eng_199705.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200002.xml.gz > gw/data/apw_eng_200002.docid
+touch gw/data/apw_eng_199706.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200003.xml.gz > gw/data/apw_eng_200003.docid
+touch gw/data/apw_eng_199708.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200004.xml.gz > gw/data/apw_eng_200004.docid
+touch gw/data/apw_eng_199807.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200005.xml.gz > gw/data/apw_eng_200005.docid
+touch gw/data/apw_eng_199710.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200006.xml.gz > gw/data/apw_eng_200006.docid
+touch gw/data/apw_eng_199709.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200007.xml.gz > gw/data/apw_eng_200007.docid
+touch gw/data/apw_eng_199811.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200008.xml.gz > gw/data/apw_eng_200008.docid
+touch gw/data/apw_eng_199808.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200009.xml.gz > gw/data/apw_eng_200009.docid
+touch gw/data/apw_eng_199910.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200010.xml.gz > gw/data/apw_eng_200010.docid
+touch gw/data/apw_eng_199908.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200011.xml.gz > gw/data/apw_eng_200011.docid
+touch gw/data/apw_eng_199810.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200012.xml.gz > gw/data/apw_eng_200012.docid
+touch gw/data/apw_eng_199809.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200101.xml.gz > gw/data/apw_eng_200101.docid
+touch gw/data/apw_eng_199711.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200102.xml.gz > gw/data/apw_eng_200102.docid
+touch gw/data/apw_eng_199909.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200103.xml.gz > gw/data/apw_eng_200103.docid
+touch gw/data/apw_eng_200003.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200104.xml.gz > gw/data/apw_eng_200104.docid
+touch gw/data/apw_eng_199901.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200105.xml.gz > gw/data/apw_eng_200105.docid
+touch gw/data/apw_eng_200004.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200106.xml.gz > gw/data/apw_eng_200106.docid
+touch gw/data/apw_eng_200002.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200107.xml.gz > gw/data/apw_eng_200107.docid
+touch gw/data/apw_eng_199902.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200108.xml.gz > gw/data/apw_eng_200108.docid
+touch gw/data/apw_eng_200006.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200109.xml.gz > gw/data/apw_eng_200109.docid
+touch gw/data/apw_eng_199812.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200110.xml.gz > gw/data/apw_eng_200110.docid
+touch gw/data/apw_eng_200005.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200111.xml.gz > gw/data/apw_eng_200111.docid
+touch gw/data/apw_eng_199801.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200112.xml.gz > gw/data/apw_eng_200112.docid
+touch gw/data/apw_eng_200008.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200201.xml.gz > gw/data/apw_eng_200201.docid
+touch gw/data/apw_eng_200007.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200202.xml.gz > gw/data/apw_eng_200202.docid
+touch gw/data/apw_eng_199712.docid.done
+touch gw/data/apw_eng_199904.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200203.xml.gz > gw/data/apw_eng_200203.docid
+zgrep '^<DOC ' gw/data/apw_eng_200204.xml.gz > gw/data/apw_eng_200204.docid
+touch gw/data/apw_eng_199905.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200205.xml.gz > gw/data/apw_eng_200205.docid
+touch gw/data/apw_eng_199907.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200206.xml.gz > gw/data/apw_eng_200206.docid
+touch gw/data/apw_eng_200001.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200207.xml.gz > gw/data/apw_eng_200207.docid
+touch gw/data/apw_eng_199903.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200208.xml.gz > gw/data/apw_eng_200208.docid
+touch gw/data/apw_eng_200009.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200209.xml.gz > gw/data/apw_eng_200209.docid
+touch gw/data/apw_eng_199906.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200210.xml.gz > gw/data/apw_eng_200210.docid
+touch gw/data/apw_eng_199804.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200211.xml.gz > gw/data/apw_eng_200211.docid
+touch gw/data/apw_eng_199805.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200212.xml.gz > gw/data/apw_eng_200212.docid
+touch gw/data/apw_eng_199803.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200301.xml.gz > gw/data/apw_eng_200301.docid
+touch gw/data/apw_eng_199802.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200302.xml.gz > gw/data/apw_eng_200302.docid
+touch gw/data/apw_eng_199806.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200303.xml.gz > gw/data/apw_eng_200303.docid
+touch gw/data/apw_eng_200108.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200304.xml.gz > gw/data/apw_eng_200304.docid
+touch gw/data/apw_eng_200112.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200305.xml.gz > gw/data/apw_eng_200305.docid
+touch gw/data/apw_eng_200111.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200306.xml.gz > gw/data/apw_eng_200306.docid
+touch gw/data/apw_eng_200212.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200307.xml.gz > gw/data/apw_eng_200307.docid
+touch gw/data/apw_eng_200201.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200308.xml.gz > gw/data/apw_eng_200308.docid
+touch gw/data/apw_eng_200202.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200309.xml.gz > gw/data/apw_eng_200309.docid
+touch gw/data/apw_eng_200109.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200310.xml.gz > gw/data/apw_eng_200310.docid
+touch gw/data/apw_eng_200204.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200311.xml.gz > gw/data/apw_eng_200311.docid
+touch gw/data/apw_eng_200208.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200312.xml.gz > gw/data/apw_eng_200312.docid
+touch gw/data/apw_eng_200012.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200401.xml.gz > gw/data/apw_eng_200401.docid
+touch gw/data/apw_eng_200203.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200402.xml.gz > gw/data/apw_eng_200402.docid
+touch gw/data/apw_eng_200206.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200403.xml.gz > gw/data/apw_eng_200403.docid
+touch gw/data/apw_eng_200010.docid.done
+touch gw/data/apw_eng_200205.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200404.xml.gz > gw/data/apw_eng_200404.docid
+zgrep '^<DOC ' gw/data/apw_eng_200405.xml.gz > gw/data/apw_eng_200405.docid
+touch gw/data/apw_eng_200011.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200406.xml.gz > gw/data/apw_eng_200406.docid
+touch gw/data/apw_eng_200103.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200407.xml.gz > gw/data/apw_eng_200407.docid
+touch gw/data/apw_eng_200105.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200408.xml.gz > gw/data/apw_eng_200408.docid
+touch gw/data/apw_eng_200107.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200409.xml.gz > gw/data/apw_eng_200409.docid
+touch gw/data/apw_eng_200106.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200410.xml.gz > gw/data/apw_eng_200410.docid
+touch gw/data/apw_eng_200405.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200411.xml.gz > gw/data/apw_eng_200411.docid
+touch gw/data/apw_eng_200406.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200412.xml.gz > gw/data/apw_eng_200412.docid
+touch gw/data/apw_eng_200401.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200501.xml.gz > gw/data/apw_eng_200501.docid
+touch gw/data/apw_eng_200408.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200502.xml.gz > gw/data/apw_eng_200502.docid
+touch gw/data/apw_eng_200306.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200503.xml.gz > gw/data/apw_eng_200503.docid
+touch gw/data/apw_eng_200211.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200504.xml.gz > gw/data/apw_eng_200504.docid
+touch gw/data/apw_eng_200407.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200505.xml.gz > gw/data/apw_eng_200505.docid
+touch gw/data/apw_eng_200411.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200506.xml.gz > gw/data/apw_eng_200506.docid
+touch gw/data/apw_eng_200102.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200507.xml.gz > gw/data/apw_eng_200507.docid
+touch gw/data/apw_eng_200409.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200508.xml.gz > gw/data/apw_eng_200508.docid
+touch gw/data/apw_eng_200305.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200509.xml.gz > gw/data/apw_eng_200509.docid
+touch gw/data/apw_eng_200402.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200510.xml.gz > gw/data/apw_eng_200510.docid
+touch gw/data/apw_eng_200410.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200511.xml.gz > gw/data/apw_eng_200511.docid
+touch gw/data/apw_eng_200308.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200512.xml.gz > gw/data/apw_eng_200512.docid
+touch gw/data/apw_eng_200412.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200601.xml.gz > gw/data/apw_eng_200601.docid
+touch gw/data/apw_eng_200304.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200602.xml.gz > gw/data/apw_eng_200602.docid
+touch gw/data/apw_eng_200101.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200603.xml.gz > gw/data/apw_eng_200603.docid
+touch gw/data/apw_eng_200502.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200604.xml.gz > gw/data/apw_eng_200604.docid
+touch gw/data/apw_eng_200312.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200605.xml.gz > gw/data/apw_eng_200605.docid
+touch gw/data/apw_eng_200110.docid.done
+touch gw/data/apw_eng_200302.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200606.xml.gz > gw/data/apw_eng_200606.docid
+zgrep '^<DOC ' gw/data/apw_eng_200607.xml.gz > gw/data/apw_eng_200607.docid
+touch gw/data/apw_eng_200307.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200608.xml.gz > gw/data/apw_eng_200608.docid
+touch gw/data/apw_eng_200501.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200609.xml.gz > gw/data/apw_eng_200609.docid
+touch gw/data/apw_eng_200207.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200610.xml.gz > gw/data/apw_eng_200610.docid
+touch gw/data/apw_eng_200504.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200611.xml.gz > gw/data/apw_eng_200611.docid
+touch gw/data/apw_eng_200507.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200612.xml.gz > gw/data/apw_eng_200612.docid
+touch gw/data/apw_eng_200508.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200701.xml.gz > gw/data/apw_eng_200701.docid
+touch gw/data/apw_eng_200506.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200702.xml.gz > gw/data/apw_eng_200702.docid
+touch gw/data/apw_eng_200503.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200703.xml.gz > gw/data/apw_eng_200703.docid
+touch gw/data/apw_eng_200209.docid.done
+touch gw/data/apw_eng_200311.docid.done
+touch gw/data/apw_eng_200104.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200704.xml.gz > gw/data/apw_eng_200704.docid
+zgrep '^<DOC ' gw/data/apw_eng_200705.xml.gz > gw/data/apw_eng_200705.docid
+zgrep '^<DOC ' gw/data/apw_eng_200706.xml.gz > gw/data/apw_eng_200706.docid
+touch gw/data/apw_eng_200301.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200707.xml.gz > gw/data/apw_eng_200707.docid
+touch gw/data/apw_eng_200601.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200708.xml.gz > gw/data/apw_eng_200708.docid
+touch gw/data/apw_eng_200210.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200709.xml.gz > gw/data/apw_eng_200709.docid
+touch gw/data/apw_eng_200403.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200710.xml.gz > gw/data/apw_eng_200710.docid
+touch gw/data/apw_eng_200609.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200711.xml.gz > gw/data/apw_eng_200711.docid
+touch gw/data/apw_eng_200510.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200712.xml.gz > gw/data/apw_eng_200712.docid
+touch gw/data/apw_eng_200511.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200801.xml.gz > gw/data/apw_eng_200801.docid
+touch gw/data/apw_eng_200608.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200802.xml.gz > gw/data/apw_eng_200802.docid
+touch gw/data/apw_eng_200602.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200803.xml.gz > gw/data/apw_eng_200803.docid
+touch gw/data/apw_eng_200512.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200804.xml.gz > gw/data/apw_eng_200804.docid
+touch gw/data/apw_eng_200604.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200805.xml.gz > gw/data/apw_eng_200805.docid
+touch gw/data/apw_eng_200606.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200806.xml.gz > gw/data/apw_eng_200806.docid
+touch gw/data/apw_eng_200603.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200807.xml.gz > gw/data/apw_eng_200807.docid
+touch gw/data/apw_eng_200303.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200808.xml.gz > gw/data/apw_eng_200808.docid
+touch gw/data/apw_eng_200505.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200809.xml.gz > gw/data/apw_eng_200809.docid
+touch gw/data/apw_eng_200607.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200810.xml.gz > gw/data/apw_eng_200810.docid
+touch gw/data/apw_eng_200612.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200811.xml.gz > gw/data/apw_eng_200811.docid
+touch gw/data/apw_eng_200509.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200812.xml.gz > gw/data/apw_eng_200812.docid
+touch gw/data/apw_eng_200605.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200901.xml.gz > gw/data/apw_eng_200901.docid
+touch gw/data/apw_eng_200309.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200902.xml.gz > gw/data/apw_eng_200902.docid
+touch gw/data/apw_eng_200310.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200903.xml.gz > gw/data/apw_eng_200903.docid
+touch gw/data/apw_eng_200404.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200904.xml.gz > gw/data/apw_eng_200904.docid
+touch gw/data/apw_eng_200812.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200905.xml.gz > gw/data/apw_eng_200905.docid
+touch gw/data/apw_eng_200702.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200906.xml.gz > gw/data/apw_eng_200906.docid
+touch gw/data/apw_eng_200811.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200907.xml.gz > gw/data/apw_eng_200907.docid
+touch gw/data/apw_eng_200611.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200908.xml.gz > gw/data/apw_eng_200908.docid
+touch gw/data/apw_eng_200706.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200909.xml.gz > gw/data/apw_eng_200909.docid
+touch gw/data/apw_eng_200610.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200910.xml.gz > gw/data/apw_eng_200910.docid
+touch gw/data/apw_eng_200701.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200911.xml.gz > gw/data/apw_eng_200911.docid
+touch gw/data/apw_eng_200712.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_200912.xml.gz > gw/data/apw_eng_200912.docid
+touch gw/data/apw_eng_200711.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201001.xml.gz > gw/data/apw_eng_201001.docid
+touch gw/data/apw_eng_200707.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201002.xml.gz > gw/data/apw_eng_201002.docid
+touch gw/data/apw_eng_200704.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201003.xml.gz > gw/data/apw_eng_201003.docid
+touch gw/data/apw_eng_200708.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201004.xml.gz > gw/data/apw_eng_201004.docid
+touch gw/data/apw_eng_200901.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201005.xml.gz > gw/data/apw_eng_201005.docid
+touch gw/data/apw_eng_200705.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201006.xml.gz > gw/data/apw_eng_201006.docid
+touch gw/data/apw_eng_200703.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201007.xml.gz > gw/data/apw_eng_201007.docid
+touch gw/data/apw_eng_200803.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201008.xml.gz > gw/data/apw_eng_201008.docid
+touch gw/data/apw_eng_200801.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201009.xml.gz > gw/data/apw_eng_201009.docid
+touch gw/data/apw_eng_200804.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201010.xml.gz > gw/data/apw_eng_201010.docid
+touch gw/data/apw_eng_200802.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201011.xml.gz > gw/data/apw_eng_201011.docid
+touch gw/data/apw_eng_200710.docid.done
+zgrep '^<DOC ' gw/data/apw_eng_201012.xml.gz > gw/data/apw_eng_201012.docid
+touch gw/data/apw_eng_200809.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199709.xml.gz > gw/data/cna_eng_199709.docid
+touch gw/data/apw_eng_200807.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199710.xml.gz > gw/data/cna_eng_199710.docid
+touch gw/data/apw_eng_200709.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199711.xml.gz > gw/data/cna_eng_199711.docid
+touch gw/data/apw_eng_200810.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199712.xml.gz > gw/data/cna_eng_199712.docid
+touch gw/data/cna_eng_199709.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199801.xml.gz > gw/data/cna_eng_199801.docid
+touch gw/data/apw_eng_200808.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199802.xml.gz > gw/data/cna_eng_199802.docid
+touch gw/data/apw_eng_200805.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199803.xml.gz > gw/data/cna_eng_199803.docid
+touch gw/data/cna_eng_199711.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199804.xml.gz > gw/data/cna_eng_199804.docid
+touch gw/data/cna_eng_199710.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199805.xml.gz > gw/data/cna_eng_199805.docid
+touch gw/data/apw_eng_200806.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199806.xml.gz > gw/data/cna_eng_199806.docid
+touch gw/data/cna_eng_199801.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199807.xml.gz > gw/data/cna_eng_199807.docid
+touch gw/data/cna_eng_199712.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199808.xml.gz > gw/data/cna_eng_199808.docid
+touch gw/data/cna_eng_199802.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199809.xml.gz > gw/data/cna_eng_199809.docid
+touch gw/data/cna_eng_199803.docid.done
+touch gw/data/cna_eng_199804.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199810.xml.gz > gw/data/cna_eng_199810.docid
+zgrep '^<DOC ' gw/data/cna_eng_199811.xml.gz > gw/data/cna_eng_199811.docid
+touch gw/data/cna_eng_199805.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199812.xml.gz > gw/data/cna_eng_199812.docid
+touch gw/data/cna_eng_199806.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199901.xml.gz > gw/data/cna_eng_199901.docid
+touch gw/data/cna_eng_199809.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199902.xml.gz > gw/data/cna_eng_199902.docid
+touch gw/data/cna_eng_199808.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199903.xml.gz > gw/data/cna_eng_199903.docid
+touch gw/data/cna_eng_199807.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199904.xml.gz > gw/data/cna_eng_199904.docid
+touch gw/data/cna_eng_199902.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199905.xml.gz > gw/data/cna_eng_199905.docid
+touch gw/data/cna_eng_199810.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199906.xml.gz > gw/data/cna_eng_199906.docid
+touch gw/data/cna_eng_199812.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199907.xml.gz > gw/data/cna_eng_199907.docid
+touch gw/data/cna_eng_199901.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199908.xml.gz > gw/data/cna_eng_199908.docid
+touch gw/data/cna_eng_199811.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199909.xml.gz > gw/data/cna_eng_199909.docid
+touch gw/data/cna_eng_199903.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199910.xml.gz > gw/data/cna_eng_199910.docid
+touch gw/data/cna_eng_199904.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199911.xml.gz > gw/data/cna_eng_199911.docid
+touch gw/data/cna_eng_199905.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_199912.xml.gz > gw/data/cna_eng_199912.docid
+touch gw/data/cna_eng_199906.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200001.xml.gz > gw/data/cna_eng_200001.docid
+touch gw/data/cna_eng_199907.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200002.xml.gz > gw/data/cna_eng_200002.docid
+touch gw/data/cna_eng_199908.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200003.xml.gz > gw/data/cna_eng_200003.docid
+touch gw/data/cna_eng_199910.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200004.xml.gz > gw/data/cna_eng_200004.docid
+touch gw/data/cna_eng_199909.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200005.xml.gz > gw/data/cna_eng_200005.docid
+touch gw/data/cna_eng_199911.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200006.xml.gz > gw/data/cna_eng_200006.docid
+touch gw/data/cna_eng_199912.docid.done
+touch gw/data/cna_eng_200001.docid.done
+touch gw/data/cna_eng_200002.docid.done
+touch gw/data/cna_eng_200004.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200007.xml.gz > gw/data/cna_eng_200007.docid
+zgrep '^<DOC ' gw/data/cna_eng_200008.xml.gz > gw/data/cna_eng_200008.docid
+zgrep '^<DOC ' gw/data/cna_eng_200009.xml.gz > gw/data/cna_eng_200009.docid
+zgrep '^<DOC ' gw/data/cna_eng_200010.xml.gz > gw/data/cna_eng_200010.docid
+touch gw/data/cna_eng_200006.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200011.xml.gz > gw/data/cna_eng_200011.docid
+touch gw/data/cna_eng_200003.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200012.xml.gz > gw/data/cna_eng_200012.docid
+touch gw/data/cna_eng_200005.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200101.xml.gz > gw/data/cna_eng_200101.docid
+touch gw/data/cna_eng_200010.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200102.xml.gz > gw/data/cna_eng_200102.docid
+touch gw/data/cna_eng_200011.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200103.xml.gz > gw/data/cna_eng_200103.docid
+touch gw/data/cna_eng_200007.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200104.xml.gz > gw/data/cna_eng_200104.docid
+touch gw/data/cna_eng_200012.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200105.xml.gz > gw/data/cna_eng_200105.docid
+touch gw/data/cna_eng_200009.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200106.xml.gz > gw/data/cna_eng_200106.docid
+touch gw/data/cna_eng_200101.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200107.xml.gz > gw/data/cna_eng_200107.docid
+touch gw/data/cna_eng_200008.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200108.xml.gz > gw/data/cna_eng_200108.docid
+touch gw/data/apw_eng_200902.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200109.xml.gz > gw/data/cna_eng_200109.docid
+touch gw/data/cna_eng_200102.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200110.xml.gz > gw/data/cna_eng_200110.docid
+touch gw/data/cna_eng_200103.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200111.xml.gz > gw/data/cna_eng_200111.docid
+touch gw/data/cna_eng_200106.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200112.xml.gz > gw/data/cna_eng_200112.docid
+touch gw/data/cna_eng_200104.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200201.xml.gz > gw/data/cna_eng_200201.docid
+touch gw/data/cna_eng_200105.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200202.xml.gz > gw/data/cna_eng_200202.docid
+touch gw/data/cna_eng_200107.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200203.xml.gz > gw/data/cna_eng_200203.docid
+touch gw/data/cna_eng_200109.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200307.xml.gz > gw/data/cna_eng_200307.docid
+touch gw/data/cna_eng_200307.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200308.xml.gz > gw/data/cna_eng_200308.docid
+touch gw/data/cna_eng_200108.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200309.xml.gz > gw/data/cna_eng_200309.docid
+touch gw/data/cna_eng_200202.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200310.xml.gz > gw/data/cna_eng_200310.docid
+touch gw/data/cna_eng_200309.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200311.xml.gz > gw/data/cna_eng_200311.docid
+touch gw/data/cna_eng_200201.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200312.xml.gz > gw/data/cna_eng_200312.docid
+touch gw/data/cna_eng_200112.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200401.xml.gz > gw/data/cna_eng_200401.docid
+touch gw/data/cna_eng_200111.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200402.xml.gz > gw/data/cna_eng_200402.docid
+touch gw/data/cna_eng_200110.docid.done
+touch gw/data/cna_eng_200203.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200403.xml.gz > gw/data/cna_eng_200403.docid
+zgrep '^<DOC ' gw/data/cna_eng_200404.xml.gz > gw/data/cna_eng_200404.docid
+touch gw/data/apw_eng_201002.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200405.xml.gz > gw/data/cna_eng_200405.docid
+touch gw/data/apw_eng_200907.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200406.xml.gz > gw/data/cna_eng_200406.docid
+touch gw/data/cna_eng_200308.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200408.xml.gz > gw/data/cna_eng_200408.docid
+touch gw/data/cna_eng_200311.docid.done
+touch gw/data/cna_eng_200408.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200409.xml.gz > gw/data/cna_eng_200409.docid
+zgrep '^<DOC ' gw/data/cna_eng_200410.xml.gz > gw/data/cna_eng_200410.docid
+touch gw/data/cna_eng_200401.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200411.xml.gz > gw/data/cna_eng_200411.docid
+touch gw/data/cna_eng_200310.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200412.xml.gz > gw/data/cna_eng_200412.docid
+touch gw/data/cna_eng_200312.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200501.xml.gz > gw/data/cna_eng_200501.docid
+touch gw/data/cna_eng_200402.docid.done
+touch gw/data/cna_eng_200404.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200502.xml.gz > gw/data/cna_eng_200502.docid
+zgrep '^<DOC ' gw/data/cna_eng_200503.xml.gz > gw/data/cna_eng_200503.docid
+touch gw/data/cna_eng_200403.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200504.xml.gz > gw/data/cna_eng_200504.docid
+touch gw/data/cna_eng_200406.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200505.xml.gz > gw/data/cna_eng_200505.docid
+touch gw/data/cna_eng_200405.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200506.xml.gz > gw/data/cna_eng_200506.docid
+touch gw/data/cna_eng_200412.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200507.xml.gz > gw/data/cna_eng_200507.docid
+touch gw/data/cna_eng_200409.docid.done
+touch gw/data/cna_eng_200411.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200508.xml.gz > gw/data/cna_eng_200508.docid
+zgrep '^<DOC ' gw/data/cna_eng_200509.xml.gz > gw/data/cna_eng_200509.docid
+touch gw/data/cna_eng_200410.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200510.xml.gz > gw/data/cna_eng_200510.docid
+touch gw/data/cna_eng_200502.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200511.xml.gz > gw/data/cna_eng_200511.docid
+touch gw/data/cna_eng_200501.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200512.xml.gz > gw/data/cna_eng_200512.docid
+touch gw/data/cna_eng_200505.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200601.xml.gz > gw/data/cna_eng_200601.docid
+touch gw/data/apw_eng_200909.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200602.xml.gz > gw/data/cna_eng_200602.docid
+touch gw/data/cna_eng_200503.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200603.xml.gz > gw/data/cna_eng_200603.docid
+touch gw/data/cna_eng_200504.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200604.xml.gz > gw/data/cna_eng_200604.docid
+touch gw/data/cna_eng_200506.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200605.xml.gz > gw/data/cna_eng_200605.docid
+touch gw/data/apw_eng_200903.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200606.xml.gz > gw/data/cna_eng_200606.docid
+touch gw/data/cna_eng_200507.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200607.xml.gz > gw/data/cna_eng_200607.docid
+touch gw/data/cna_eng_200511.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200608.xml.gz > gw/data/cna_eng_200608.docid
+touch gw/data/cna_eng_200508.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200609.xml.gz > gw/data/cna_eng_200609.docid
+touch gw/data/cna_eng_200512.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200610.xml.gz > gw/data/cna_eng_200610.docid
+touch gw/data/cna_eng_200510.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200611.xml.gz > gw/data/cna_eng_200611.docid
+touch gw/data/cna_eng_200509.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200612.xml.gz > gw/data/cna_eng_200612.docid
+touch gw/data/cna_eng_200601.docid.done
+touch gw/data/cna_eng_200604.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200701.xml.gz > gw/data/cna_eng_200701.docid
+touch gw/data/apw_eng_200910.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200702.xml.gz > gw/data/cna_eng_200702.docid
+zgrep '^<DOC ' gw/data/cna_eng_200703.xml.gz > gw/data/cna_eng_200703.docid
+touch gw/data/cna_eng_200602.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200704.xml.gz > gw/data/cna_eng_200704.docid
+touch gw/data/cna_eng_200603.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200705.xml.gz > gw/data/cna_eng_200705.docid
+touch gw/data/cna_eng_200612.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200706.xml.gz > gw/data/cna_eng_200706.docid
+touch gw/data/apw_eng_200908.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200707.xml.gz > gw/data/cna_eng_200707.docid
+touch gw/data/cna_eng_200605.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200708.xml.gz > gw/data/cna_eng_200708.docid
+touch gw/data/cna_eng_200606.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200709.xml.gz > gw/data/cna_eng_200709.docid
+touch gw/data/cna_eng_200607.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200710.xml.gz > gw/data/cna_eng_200710.docid
+touch gw/data/cna_eng_200701.docid.done
+touch gw/data/apw_eng_201007.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200711.xml.gz > gw/data/cna_eng_200711.docid
+zgrep '^<DOC ' gw/data/cna_eng_200712.xml.gz > gw/data/cna_eng_200712.docid
+touch gw/data/cna_eng_200702.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200801.xml.gz > gw/data/cna_eng_200801.docid
+touch gw/data/cna_eng_200609.docid.done
+touch gw/data/cna_eng_200610.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200802.xml.gz > gw/data/cna_eng_200802.docid
+zgrep '^<DOC ' gw/data/cna_eng_200803.xml.gz > gw/data/cna_eng_200803.docid
+touch gw/data/cna_eng_200611.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200804.xml.gz > gw/data/cna_eng_200804.docid
+touch gw/data/cna_eng_200704.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200805.xml.gz > gw/data/cna_eng_200805.docid
+touch gw/data/cna_eng_200608.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200806.xml.gz > gw/data/cna_eng_200806.docid
+touch gw/data/apw_eng_200912.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200807.xml.gz > gw/data/cna_eng_200807.docid
+touch gw/data/apw_eng_201004.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200808.xml.gz > gw/data/cna_eng_200808.docid
+touch gw/data/apw_eng_200911.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200809.xml.gz > gw/data/cna_eng_200809.docid
+touch gw/data/cna_eng_200703.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200810.xml.gz > gw/data/cna_eng_200810.docid
+touch gw/data/cna_eng_200708.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200811.xml.gz > gw/data/cna_eng_200811.docid
+touch gw/data/cna_eng_200706.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200812.xml.gz > gw/data/cna_eng_200812.docid
+touch gw/data/cna_eng_200707.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200901.xml.gz > gw/data/cna_eng_200901.docid
+touch gw/data/cna_eng_200705.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200902.xml.gz > gw/data/cna_eng_200902.docid
+touch gw/data/cna_eng_200709.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200903.xml.gz > gw/data/cna_eng_200903.docid
+touch gw/data/apw_eng_201003.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200904.xml.gz > gw/data/cna_eng_200904.docid
+touch gw/data/cna_eng_200802.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200905.xml.gz > gw/data/cna_eng_200905.docid
+touch gw/data/cna_eng_200710.docid.done
+touch gw/data/cna_eng_200711.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200906.xml.gz > gw/data/cna_eng_200906.docid
+zgrep '^<DOC ' gw/data/cna_eng_200907.xml.gz > gw/data/cna_eng_200907.docid
+touch gw/data/apw_eng_201006.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200908.xml.gz > gw/data/cna_eng_200908.docid
+touch gw/data/cna_eng_200712.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200909.xml.gz > gw/data/cna_eng_200909.docid
+touch gw/data/cna_eng_200801.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200910.xml.gz > gw/data/cna_eng_200910.docid
+touch gw/data/cna_eng_200807.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200911.xml.gz > gw/data/cna_eng_200911.docid
+touch gw/data/cna_eng_200810.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_200912.xml.gz > gw/data/cna_eng_200912.docid
+touch gw/data/cna_eng_200809.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201001.xml.gz > gw/data/cna_eng_201001.docid
+touch gw/data/cna_eng_200804.docid.done
+touch gw/data/cna_eng_200803.docid.done
+touch gw/data/cna_eng_200808.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201002.xml.gz > gw/data/cna_eng_201002.docid
+zgrep '^<DOC ' gw/data/cna_eng_201003.xml.gz > gw/data/cna_eng_201003.docid
+zgrep '^<DOC ' gw/data/cna_eng_201004.xml.gz > gw/data/cna_eng_201004.docid
+touch gw/data/cna_eng_200806.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201005.xml.gz > gw/data/cna_eng_201005.docid
+touch gw/data/cna_eng_200805.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201006.xml.gz > gw/data/cna_eng_201006.docid
+touch gw/data/cna_eng_200902.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201007.xml.gz > gw/data/cna_eng_201007.docid
+touch gw/data/cna_eng_200812.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201008.xml.gz > gw/data/cna_eng_201008.docid
+touch gw/data/cna_eng_200901.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201009.xml.gz > gw/data/cna_eng_201009.docid
+touch gw/data/cna_eng_200811.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201010.xml.gz > gw/data/cna_eng_201010.docid
+touch gw/data/cna_eng_200908.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201011.xml.gz > gw/data/cna_eng_201011.docid
+touch gw/data/cna_eng_200903.docid.done
+zgrep '^<DOC ' gw/data/cna_eng_201012.xml.gz > gw/data/cna_eng_201012.docid
+touch gw/data/cna_eng_200905.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199405.xml.gz > gw/data/ltw_eng_199405.docid
+touch gw/data/cna_eng_200904.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199406.xml.gz > gw/data/ltw_eng_199406.docid
+touch gw/data/apw_eng_201005.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199407.xml.gz > gw/data/ltw_eng_199407.docid
+touch gw/data/cna_eng_200906.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199408.xml.gz > gw/data/ltw_eng_199408.docid
+touch gw/data/cna_eng_200911.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199409.xml.gz > gw/data/ltw_eng_199409.docid
+touch gw/data/cna_eng_201003.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199410.xml.gz > gw/data/ltw_eng_199410.docid
+touch gw/data/cna_eng_201002.docid.done
+touch gw/data/cna_eng_200907.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199411.xml.gz > gw/data/ltw_eng_199411.docid
+zgrep '^<DOC ' gw/data/ltw_eng_199412.xml.gz > gw/data/ltw_eng_199412.docid
+touch gw/data/cna_eng_200909.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199501.xml.gz > gw/data/ltw_eng_199501.docid
+touch gw/data/cna_eng_200910.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199502.xml.gz > gw/data/ltw_eng_199502.docid
+touch gw/data/cna_eng_201001.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199503.xml.gz > gw/data/ltw_eng_199503.docid
+touch gw/data/cna_eng_200912.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199504.xml.gz > gw/data/ltw_eng_199504.docid
+touch gw/data/cna_eng_201005.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199505.xml.gz > gw/data/ltw_eng_199505.docid
+touch gw/data/cna_eng_201004.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199506.xml.gz > gw/data/ltw_eng_199506.docid
+touch gw/data/cna_eng_201010.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199507.xml.gz > gw/data/ltw_eng_199507.docid
+touch gw/data/cna_eng_201006.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199508.xml.gz > gw/data/ltw_eng_199508.docid
+touch gw/data/cna_eng_201007.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199509.xml.gz > gw/data/ltw_eng_199509.docid
+touch gw/data/cna_eng_201009.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199510.xml.gz > gw/data/ltw_eng_199510.docid
+touch gw/data/cna_eng_201008.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199511.xml.gz > gw/data/ltw_eng_199511.docid
+touch gw/data/cna_eng_201011.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199512.xml.gz > gw/data/ltw_eng_199512.docid
+touch gw/data/cna_eng_201012.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199601.xml.gz > gw/data/ltw_eng_199601.docid
+touch gw/data/ltw_eng_199405.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199602.xml.gz > gw/data/ltw_eng_199602.docid
+touch gw/data/apw_eng_201001.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199603.xml.gz > gw/data/ltw_eng_199603.docid
+touch gw/data/apw_eng_200906.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199604.xml.gz > gw/data/ltw_eng_199604.docid
+touch gw/data/apw_eng_200905.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199605.xml.gz > gw/data/ltw_eng_199605.docid
+touch gw/data/apw_eng_201008.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199606.xml.gz > gw/data/ltw_eng_199606.docid
+touch gw/data/apw_eng_200904.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199607.xml.gz > gw/data/ltw_eng_199607.docid
+touch gw/data/ltw_eng_199505.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199608.xml.gz > gw/data/ltw_eng_199608.docid
+touch gw/data/ltw_eng_199407.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199609.xml.gz > gw/data/ltw_eng_199609.docid
+touch gw/data/ltw_eng_199406.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199610.xml.gz > gw/data/ltw_eng_199610.docid
+touch gw/data/ltw_eng_199408.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199611.xml.gz > gw/data/ltw_eng_199611.docid
+touch gw/data/ltw_eng_199510.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199612.xml.gz > gw/data/ltw_eng_199612.docid
+touch gw/data/ltw_eng_199409.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199701.xml.gz > gw/data/ltw_eng_199701.docid
+touch gw/data/ltw_eng_199601.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199702.xml.gz > gw/data/ltw_eng_199702.docid
+touch gw/data/ltw_eng_199411.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199703.xml.gz > gw/data/ltw_eng_199703.docid
+touch gw/data/ltw_eng_199512.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199704.xml.gz > gw/data/ltw_eng_199704.docid
+touch gw/data/ltw_eng_199502.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199705.xml.gz > gw/data/ltw_eng_199705.docid
+touch gw/data/ltw_eng_199507.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199706.xml.gz > gw/data/ltw_eng_199706.docid
+touch gw/data/ltw_eng_199410.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199707.xml.gz > gw/data/ltw_eng_199707.docid
+touch gw/data/ltw_eng_199506.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199708.xml.gz > gw/data/ltw_eng_199708.docid
+touch gw/data/ltw_eng_199504.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199709.xml.gz > gw/data/ltw_eng_199709.docid
+touch gw/data/apw_eng_201012.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199710.xml.gz > gw/data/ltw_eng_199710.docid
+touch gw/data/ltw_eng_199509.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199711.xml.gz > gw/data/ltw_eng_199711.docid
+touch gw/data/ltw_eng_199412.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199712.xml.gz > gw/data/ltw_eng_199712.docid
+touch gw/data/ltw_eng_199501.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199801.xml.gz > gw/data/ltw_eng_199801.docid
+touch gw/data/ltw_eng_199508.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199802.xml.gz > gw/data/ltw_eng_199802.docid
+touch gw/data/ltw_eng_199511.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199803.xml.gz > gw/data/ltw_eng_199803.docid
+touch gw/data/ltw_eng_199602.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199804.xml.gz > gw/data/ltw_eng_199804.docid
+touch gw/data/ltw_eng_199503.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199805.xml.gz > gw/data/ltw_eng_199805.docid
+touch gw/data/ltw_eng_199603.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_199806.xml.gz > gw/data/ltw_eng_199806.docid
+touch gw/data/apw_eng_201009.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200308.xml.gz > gw/data/ltw_eng_200308.docid
+touch gw/data/ltw_eng_199604.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200309.xml.gz > gw/data/ltw_eng_200309.docid
+touch gw/data/ltw_eng_199605.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200310.xml.gz > gw/data/ltw_eng_200310.docid
+touch gw/data/apw_eng_201010.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200311.xml.gz > gw/data/ltw_eng_200311.docid
+touch gw/data/ltw_eng_199606.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200312.xml.gz > gw/data/ltw_eng_200312.docid
+touch gw/data/ltw_eng_199608.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200401.xml.gz > gw/data/ltw_eng_200401.docid
+touch gw/data/ltw_eng_199806.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200402.xml.gz > gw/data/ltw_eng_200402.docid
+touch gw/data/ltw_eng_199607.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200403.xml.gz > gw/data/ltw_eng_200403.docid
+touch gw/data/ltw_eng_199703.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200404.xml.gz > gw/data/ltw_eng_200404.docid
+touch gw/data/ltw_eng_199609.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200405.xml.gz > gw/data/ltw_eng_200405.docid
+touch gw/data/ltw_eng_199612.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200406.xml.gz > gw/data/ltw_eng_200406.docid
+touch gw/data/apw_eng_201011.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200407.xml.gz > gw/data/ltw_eng_200407.docid
+touch gw/data/ltw_eng_199611.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200408.xml.gz > gw/data/ltw_eng_200408.docid
+touch gw/data/ltw_eng_199706.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200409.xml.gz > gw/data/ltw_eng_200409.docid
+touch gw/data/ltw_eng_199610.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200410.xml.gz > gw/data/ltw_eng_200410.docid
+touch gw/data/ltw_eng_199708.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200411.xml.gz > gw/data/ltw_eng_200411.docid
+touch gw/data/ltw_eng_199711.docid.done
+touch gw/data/ltw_eng_199702.docid.done
+touch gw/data/ltw_eng_199701.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200412.xml.gz > gw/data/ltw_eng_200412.docid
+zgrep '^<DOC ' gw/data/ltw_eng_200501.xml.gz > gw/data/ltw_eng_200501.docid
+zgrep '^<DOC ' gw/data/ltw_eng_200502.xml.gz > gw/data/ltw_eng_200502.docid
+touch gw/data/ltw_eng_199707.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200503.xml.gz > gw/data/ltw_eng_200503.docid
+touch gw/data/ltw_eng_199802.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200504.xml.gz > gw/data/ltw_eng_200504.docid
+touch gw/data/ltw_eng_199704.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200505.xml.gz > gw/data/ltw_eng_200505.docid
+touch gw/data/ltw_eng_199705.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200506.xml.gz > gw/data/ltw_eng_200506.docid
+touch gw/data/ltw_eng_199709.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200507.xml.gz > gw/data/ltw_eng_200507.docid
+touch gw/data/ltw_eng_199801.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200508.xml.gz > gw/data/ltw_eng_200508.docid
+touch gw/data/ltw_eng_199804.docid.done
+touch gw/data/ltw_eng_199710.docid.done
+touch gw/data/ltw_eng_199712.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200509.xml.gz > gw/data/ltw_eng_200509.docid
+zgrep '^<DOC ' gw/data/ltw_eng_200510.xml.gz > gw/data/ltw_eng_200510.docid
+zgrep '^<DOC ' gw/data/ltw_eng_200511.xml.gz > gw/data/ltw_eng_200511.docid
+touch gw/data/ltw_eng_199805.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200512.xml.gz > gw/data/ltw_eng_200512.docid
+touch gw/data/ltw_eng_199803.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200601.xml.gz > gw/data/ltw_eng_200601.docid
+touch gw/data/ltw_eng_200308.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200602.xml.gz > gw/data/ltw_eng_200602.docid
+touch gw/data/ltw_eng_200309.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200603.xml.gz > gw/data/ltw_eng_200603.docid
+touch gw/data/ltw_eng_200502.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200604.xml.gz > gw/data/ltw_eng_200604.docid
+touch gw/data/ltw_eng_200404.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200605.xml.gz > gw/data/ltw_eng_200605.docid
+touch gw/data/ltw_eng_200310.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200606.xml.gz > gw/data/ltw_eng_200606.docid
+touch gw/data/ltw_eng_200401.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200607.xml.gz > gw/data/ltw_eng_200607.docid
+touch gw/data/ltw_eng_200312.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200608.xml.gz > gw/data/ltw_eng_200608.docid
+touch gw/data/ltw_eng_200311.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200609.xml.gz > gw/data/ltw_eng_200609.docid
+touch gw/data/ltw_eng_200402.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200610.xml.gz > gw/data/ltw_eng_200610.docid
+touch gw/data/ltw_eng_200504.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200611.xml.gz > gw/data/ltw_eng_200611.docid
+touch gw/data/ltw_eng_200407.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200612.xml.gz > gw/data/ltw_eng_200612.docid
+touch gw/data/ltw_eng_200409.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200701.xml.gz > gw/data/ltw_eng_200701.docid
+touch gw/data/ltw_eng_200405.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200702.xml.gz > gw/data/ltw_eng_200702.docid
+touch gw/data/ltw_eng_200412.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200703.xml.gz > gw/data/ltw_eng_200703.docid
+touch gw/data/ltw_eng_200406.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200704.xml.gz > gw/data/ltw_eng_200704.docid
+touch gw/data/ltw_eng_200408.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200705.xml.gz > gw/data/ltw_eng_200705.docid
+touch gw/data/ltw_eng_200411.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200706.xml.gz > gw/data/ltw_eng_200706.docid
+touch gw/data/ltw_eng_200403.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200707.xml.gz > gw/data/ltw_eng_200707.docid
+touch gw/data/ltw_eng_200501.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200708.xml.gz > gw/data/ltw_eng_200708.docid
+touch gw/data/ltw_eng_200505.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200709.xml.gz > gw/data/ltw_eng_200709.docid
+touch gw/data/ltw_eng_200510.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200710.xml.gz > gw/data/ltw_eng_200710.docid
+touch gw/data/ltw_eng_200503.docid.done
+touch gw/data/ltw_eng_200410.docid.done
+touch gw/data/ltw_eng_200601.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200711.xml.gz > gw/data/ltw_eng_200711.docid
+zgrep '^<DOC ' gw/data/ltw_eng_200712.xml.gz > gw/data/ltw_eng_200712.docid
+zgrep '^<DOC ' gw/data/ltw_eng_200801.xml.gz > gw/data/ltw_eng_200801.docid
+touch gw/data/ltw_eng_200507.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200802.xml.gz > gw/data/ltw_eng_200802.docid
+touch gw/data/ltw_eng_200508.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200803.xml.gz > gw/data/ltw_eng_200803.docid
+touch gw/data/ltw_eng_200512.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200804.xml.gz > gw/data/ltw_eng_200804.docid
+touch gw/data/ltw_eng_200511.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200805.xml.gz > gw/data/ltw_eng_200805.docid
+touch gw/data/ltw_eng_200602.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200806.xml.gz > gw/data/ltw_eng_200806.docid
+touch gw/data/ltw_eng_200509.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200807.xml.gz > gw/data/ltw_eng_200807.docid
+touch gw/data/ltw_eng_200506.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200808.xml.gz > gw/data/ltw_eng_200808.docid
+touch gw/data/ltw_eng_200604.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200809.xml.gz > gw/data/ltw_eng_200809.docid
+touch gw/data/ltw_eng_200603.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200810.xml.gz > gw/data/ltw_eng_200810.docid
+touch gw/data/ltw_eng_200606.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200811.xml.gz > gw/data/ltw_eng_200811.docid
+touch gw/data/ltw_eng_200607.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200812.xml.gz > gw/data/ltw_eng_200812.docid
+touch gw/data/ltw_eng_200610.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200901.xml.gz > gw/data/ltw_eng_200901.docid
+touch gw/data/ltw_eng_200612.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200902.xml.gz > gw/data/ltw_eng_200902.docid
+touch gw/data/ltw_eng_200702.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200903.xml.gz > gw/data/ltw_eng_200903.docid
+touch gw/data/ltw_eng_200609.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200904.xml.gz > gw/data/ltw_eng_200904.docid
+touch gw/data/ltw_eng_200605.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200905.xml.gz > gw/data/ltw_eng_200905.docid
+touch gw/data/ltw_eng_200608.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200906.xml.gz > gw/data/ltw_eng_200906.docid
+touch gw/data/ltw_eng_200611.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200907.xml.gz > gw/data/ltw_eng_200907.docid
+touch gw/data/ltw_eng_200704.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200908.xml.gz > gw/data/ltw_eng_200908.docid
+touch gw/data/ltw_eng_200701.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200909.xml.gz > gw/data/ltw_eng_200909.docid
+touch gw/data/ltw_eng_200705.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200910.xml.gz > gw/data/ltw_eng_200910.docid
+touch gw/data/ltw_eng_200709.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200911.xml.gz > gw/data/ltw_eng_200911.docid
+touch gw/data/ltw_eng_200706.docid.done
+zgrep '^<DOC ' gw/data/ltw_eng_200912.xml.gz > gw/data/ltw_eng_200912.docid
+touch gw/data/ltw_eng_200707.docid.done
+touch gw/data/ltw_eng_200703.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199407.xml.gz > gw/data/nyt_eng_199407.docid
+zgrep '^<DOC ' gw/data/nyt_eng_199408.xml.gz > gw/data/nyt_eng_199408.docid
+touch gw/data/ltw_eng_200708.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199409.xml.gz > gw/data/nyt_eng_199409.docid
+touch gw/data/ltw_eng_200711.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199410.xml.gz > gw/data/nyt_eng_199410.docid
+touch gw/data/ltw_eng_200712.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199411.xml.gz > gw/data/nyt_eng_199411.docid
+touch gw/data/ltw_eng_200801.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199412.xml.gz > gw/data/nyt_eng_199412.docid
+touch gw/data/ltw_eng_200804.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199501.xml.gz > gw/data/nyt_eng_199501.docid
+touch gw/data/ltw_eng_200710.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199502.xml.gz > gw/data/nyt_eng_199502.docid
+touch gw/data/ltw_eng_200803.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199503.xml.gz > gw/data/nyt_eng_199503.docid
+touch gw/data/ltw_eng_200802.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199504.xml.gz > gw/data/nyt_eng_199504.docid
+touch gw/data/ltw_eng_200806.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199505.xml.gz > gw/data/nyt_eng_199505.docid
+touch gw/data/ltw_eng_200807.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199506.xml.gz > gw/data/nyt_eng_199506.docid
+touch gw/data/ltw_eng_200805.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199507.xml.gz > gw/data/nyt_eng_199507.docid
+touch gw/data/ltw_eng_200808.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199508.xml.gz > gw/data/nyt_eng_199508.docid
+touch gw/data/ltw_eng_200809.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199509.xml.gz > gw/data/nyt_eng_199509.docid
+touch gw/data/ltw_eng_200908.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199510.xml.gz > gw/data/nyt_eng_199510.docid
+touch gw/data/ltw_eng_200812.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199511.xml.gz > gw/data/nyt_eng_199511.docid
+touch gw/data/ltw_eng_200811.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199512.xml.gz > gw/data/nyt_eng_199512.docid
+touch gw/data/ltw_eng_200810.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199601.xml.gz > gw/data/nyt_eng_199601.docid
+touch gw/data/ltw_eng_200903.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199602.xml.gz > gw/data/nyt_eng_199602.docid
+touch gw/data/ltw_eng_200902.docid.done
+touch gw/data/ltw_eng_200905.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199603.xml.gz > gw/data/nyt_eng_199603.docid
+zgrep '^<DOC ' gw/data/nyt_eng_199604.xml.gz > gw/data/nyt_eng_199604.docid
+touch gw/data/ltw_eng_200906.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199605.xml.gz > gw/data/nyt_eng_199605.docid
+touch gw/data/ltw_eng_200901.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199606.xml.gz > gw/data/nyt_eng_199606.docid
+touch gw/data/ltw_eng_200912.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199607.xml.gz > gw/data/nyt_eng_199607.docid
+touch gw/data/ltw_eng_200909.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199608.xml.gz > gw/data/nyt_eng_199608.docid
+touch gw/data/ltw_eng_200904.docid.done
+touch gw/data/ltw_eng_200911.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199609.xml.gz > gw/data/nyt_eng_199609.docid
+zgrep '^<DOC ' gw/data/nyt_eng_199610.xml.gz > gw/data/nyt_eng_199610.docid
+touch gw/data/ltw_eng_200907.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199611.xml.gz > gw/data/nyt_eng_199611.docid
+touch gw/data/ltw_eng_200910.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199612.xml.gz > gw/data/nyt_eng_199612.docid
+touch gw/data/nyt_eng_199407.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199701.xml.gz > gw/data/nyt_eng_199701.docid
+touch gw/data/nyt_eng_199411.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199702.xml.gz > gw/data/nyt_eng_199702.docid
+touch gw/data/nyt_eng_199408.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199703.xml.gz > gw/data/nyt_eng_199703.docid
+touch gw/data/nyt_eng_199409.docid.done
+touch gw/data/nyt_eng_199412.docid.done
+touch gw/data/nyt_eng_199502.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199704.xml.gz > gw/data/nyt_eng_199704.docid
+zgrep '^<DOC ' gw/data/nyt_eng_199705.xml.gz > gw/data/nyt_eng_199705.docid
+zgrep '^<DOC ' gw/data/nyt_eng_199706.xml.gz > gw/data/nyt_eng_199706.docid
+touch gw/data/nyt_eng_199410.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199707.xml.gz > gw/data/nyt_eng_199707.docid
+touch gw/data/nyt_eng_199501.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199708.xml.gz > gw/data/nyt_eng_199708.docid
+touch gw/data/nyt_eng_199504.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199709.xml.gz > gw/data/nyt_eng_199709.docid
+touch gw/data/nyt_eng_199503.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199710.xml.gz > gw/data/nyt_eng_199710.docid
+touch gw/data/nyt_eng_199606.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199711.xml.gz > gw/data/nyt_eng_199711.docid
+touch gw/data/nyt_eng_199505.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199712.xml.gz > gw/data/nyt_eng_199712.docid
+touch gw/data/nyt_eng_199509.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199801.xml.gz > gw/data/nyt_eng_199801.docid
+touch gw/data/nyt_eng_199507.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199802.xml.gz > gw/data/nyt_eng_199802.docid
+touch gw/data/nyt_eng_199510.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199803.xml.gz > gw/data/nyt_eng_199803.docid
+touch gw/data/nyt_eng_199512.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199804.xml.gz > gw/data/nyt_eng_199804.docid
+touch gw/data/nyt_eng_199506.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199805.xml.gz > gw/data/nyt_eng_199805.docid
+touch gw/data/nyt_eng_199511.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199806.xml.gz > gw/data/nyt_eng_199806.docid
+touch gw/data/nyt_eng_199508.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199807.xml.gz > gw/data/nyt_eng_199807.docid
+touch gw/data/nyt_eng_199602.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199808.xml.gz > gw/data/nyt_eng_199808.docid
+touch gw/data/nyt_eng_199608.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199809.xml.gz > gw/data/nyt_eng_199809.docid
+touch gw/data/nyt_eng_199611.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199810.xml.gz > gw/data/nyt_eng_199810.docid
+touch gw/data/nyt_eng_199609.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199811.xml.gz > gw/data/nyt_eng_199811.docid
+touch gw/data/nyt_eng_199607.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199812.xml.gz > gw/data/nyt_eng_199812.docid
+touch gw/data/nyt_eng_199601.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199901.xml.gz > gw/data/nyt_eng_199901.docid
+touch gw/data/nyt_eng_199612.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199902.xml.gz > gw/data/nyt_eng_199902.docid
+touch gw/data/nyt_eng_199604.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199903.xml.gz > gw/data/nyt_eng_199903.docid
+touch gw/data/nyt_eng_199603.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199904.xml.gz > gw/data/nyt_eng_199904.docid
+touch gw/data/nyt_eng_199610.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199905.xml.gz > gw/data/nyt_eng_199905.docid
+touch gw/data/nyt_eng_199605.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199906.xml.gz > gw/data/nyt_eng_199906.docid
+touch gw/data/nyt_eng_199702.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199907.xml.gz > gw/data/nyt_eng_199907.docid
+touch gw/data/nyt_eng_199701.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199908.xml.gz > gw/data/nyt_eng_199908.docid
+touch gw/data/nyt_eng_199707.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199909.xml.gz > gw/data/nyt_eng_199909.docid
+touch gw/data/nyt_eng_199703.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199910.xml.gz > gw/data/nyt_eng_199910.docid
+touch gw/data/nyt_eng_199802.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199911.xml.gz > gw/data/nyt_eng_199911.docid
+touch gw/data/nyt_eng_199704.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_199912.xml.gz > gw/data/nyt_eng_199912.docid
+touch gw/data/nyt_eng_199706.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200001.xml.gz > gw/data/nyt_eng_200001.docid
+touch gw/data/nyt_eng_199705.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200002.xml.gz > gw/data/nyt_eng_200002.docid
+touch gw/data/nyt_eng_199708.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200003.xml.gz > gw/data/nyt_eng_200003.docid
+touch gw/data/nyt_eng_199804.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200004.xml.gz > gw/data/nyt_eng_200004.docid
+touch gw/data/nyt_eng_199711.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200005.xml.gz > gw/data/nyt_eng_200005.docid
+touch gw/data/nyt_eng_199803.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200006.xml.gz > gw/data/nyt_eng_200006.docid
+touch gw/data/nyt_eng_199709.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200007.xml.gz > gw/data/nyt_eng_200007.docid
+touch gw/data/nyt_eng_199710.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200008.xml.gz > gw/data/nyt_eng_200008.docid
+touch gw/data/nyt_eng_199807.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200009.xml.gz > gw/data/nyt_eng_200009.docid
+touch gw/data/nyt_eng_199808.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200010.xml.gz > gw/data/nyt_eng_200010.docid
+touch gw/data/nyt_eng_199810.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200011.xml.gz > gw/data/nyt_eng_200011.docid
+touch gw/data/nyt_eng_199809.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200012.xml.gz > gw/data/nyt_eng_200012.docid
+touch gw/data/nyt_eng_199806.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200101.xml.gz > gw/data/nyt_eng_200101.docid
+touch gw/data/nyt_eng_199805.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200102.xml.gz > gw/data/nyt_eng_200102.docid
+touch gw/data/nyt_eng_199712.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200103.xml.gz > gw/data/nyt_eng_200103.docid
+touch gw/data/nyt_eng_199812.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200104.xml.gz > gw/data/nyt_eng_200104.docid
+touch gw/data/nyt_eng_199811.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200105.xml.gz > gw/data/nyt_eng_200105.docid
+touch gw/data/nyt_eng_199801.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200106.xml.gz > gw/data/nyt_eng_200106.docid
+touch gw/data/nyt_eng_199901.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200107.xml.gz > gw/data/nyt_eng_200107.docid
+touch gw/data/nyt_eng_199902.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200108.xml.gz > gw/data/nyt_eng_200108.docid
+touch gw/data/nyt_eng_199903.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200109.xml.gz > gw/data/nyt_eng_200109.docid
+touch gw/data/nyt_eng_199904.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200110.xml.gz > gw/data/nyt_eng_200110.docid
+touch gw/data/nyt_eng_199906.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200111.xml.gz > gw/data/nyt_eng_200111.docid
+touch gw/data/nyt_eng_199905.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200112.xml.gz > gw/data/nyt_eng_200112.docid
+touch gw/data/nyt_eng_199912.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200201.xml.gz > gw/data/nyt_eng_200201.docid
+touch gw/data/nyt_eng_199907.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200202.xml.gz > gw/data/nyt_eng_200202.docid
+touch gw/data/nyt_eng_200004.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200203.xml.gz > gw/data/nyt_eng_200203.docid
+touch gw/data/nyt_eng_199909.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200204.xml.gz > gw/data/nyt_eng_200204.docid
+touch gw/data/nyt_eng_199908.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200205.xml.gz > gw/data/nyt_eng_200205.docid
+touch gw/data/nyt_eng_200002.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200206.xml.gz > gw/data/nyt_eng_200206.docid
+touch gw/data/nyt_eng_199911.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200207.xml.gz > gw/data/nyt_eng_200207.docid
+touch gw/data/nyt_eng_200001.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200208.xml.gz > gw/data/nyt_eng_200208.docid
+touch gw/data/nyt_eng_199910.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200209.xml.gz > gw/data/nyt_eng_200209.docid
+touch gw/data/nyt_eng_200003.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200210.xml.gz > gw/data/nyt_eng_200210.docid
+touch gw/data/nyt_eng_200005.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200211.xml.gz > gw/data/nyt_eng_200211.docid
+touch gw/data/nyt_eng_200006.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200212.xml.gz > gw/data/nyt_eng_200212.docid
+touch gw/data/nyt_eng_200009.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200301.xml.gz > gw/data/nyt_eng_200301.docid
+touch gw/data/nyt_eng_200007.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200302.xml.gz > gw/data/nyt_eng_200302.docid
+touch gw/data/nyt_eng_200302.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200303.xml.gz > gw/data/nyt_eng_200303.docid
+touch gw/data/nyt_eng_200012.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200304.xml.gz > gw/data/nyt_eng_200304.docid
+touch gw/data/nyt_eng_200008.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200305.xml.gz > gw/data/nyt_eng_200305.docid
+touch gw/data/nyt_eng_200102.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200306.xml.gz > gw/data/nyt_eng_200306.docid
+touch gw/data/nyt_eng_200011.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200307.xml.gz > gw/data/nyt_eng_200307.docid
+touch gw/data/nyt_eng_200207.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200308.xml.gz > gw/data/nyt_eng_200308.docid
+touch gw/data/nyt_eng_200010.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200309.xml.gz > gw/data/nyt_eng_200309.docid
+touch gw/data/nyt_eng_200303.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200310.xml.gz > gw/data/nyt_eng_200310.docid
+touch gw/data/nyt_eng_200103.docid.done
+touch gw/data/nyt_eng_200101.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200311.xml.gz > gw/data/nyt_eng_200311.docid
+zgrep '^<DOC ' gw/data/nyt_eng_200312.xml.gz > gw/data/nyt_eng_200312.docid
+touch gw/data/nyt_eng_200304.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200401.xml.gz > gw/data/nyt_eng_200401.docid
+touch gw/data/nyt_eng_200106.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200402.xml.gz > gw/data/nyt_eng_200402.docid
+touch gw/data/nyt_eng_200306.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200403.xml.gz > gw/data/nyt_eng_200403.docid
+touch gw/data/nyt_eng_200305.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200404.xml.gz > gw/data/nyt_eng_200404.docid
+touch gw/data/nyt_eng_200107.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200405.xml.gz > gw/data/nyt_eng_200405.docid
+touch gw/data/nyt_eng_200308.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200407.xml.gz > gw/data/nyt_eng_200407.docid
+touch gw/data/nyt_eng_200307.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200408.xml.gz > gw/data/nyt_eng_200408.docid
+touch gw/data/nyt_eng_200108.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200409.xml.gz > gw/data/nyt_eng_200409.docid
+touch gw/data/nyt_eng_200104.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200410.xml.gz > gw/data/nyt_eng_200410.docid
+touch gw/data/nyt_eng_200405.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200411.xml.gz > gw/data/nyt_eng_200411.docid
+touch gw/data/nyt_eng_200309.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200412.xml.gz > gw/data/nyt_eng_200412.docid
+touch gw/data/nyt_eng_200105.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200501.xml.gz > gw/data/nyt_eng_200501.docid
+touch gw/data/nyt_eng_200312.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200502.xml.gz > gw/data/nyt_eng_200502.docid
+touch gw/data/nyt_eng_200311.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200503.xml.gz > gw/data/nyt_eng_200503.docid
+touch gw/data/nyt_eng_200402.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200504.xml.gz > gw/data/nyt_eng_200504.docid
+touch gw/data/nyt_eng_200401.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200505.xml.gz > gw/data/nyt_eng_200505.docid
+touch gw/data/nyt_eng_200310.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200506.xml.gz > gw/data/nyt_eng_200506.docid
+touch gw/data/nyt_eng_200301.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200507.xml.gz > gw/data/nyt_eng_200507.docid
+touch gw/data/nyt_eng_200404.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200508.xml.gz > gw/data/nyt_eng_200508.docid
+touch gw/data/nyt_eng_200403.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200509.xml.gz > gw/data/nyt_eng_200509.docid
+touch gw/data/nyt_eng_200202.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200510.xml.gz > gw/data/nyt_eng_200510.docid
+touch gw/data/nyt_eng_200201.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200511.xml.gz > gw/data/nyt_eng_200511.docid
+touch gw/data/nyt_eng_200112.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200512.xml.gz > gw/data/nyt_eng_200512.docid
+touch gw/data/nyt_eng_200110.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200601.xml.gz > gw/data/nyt_eng_200601.docid
+touch gw/data/nyt_eng_200111.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200602.xml.gz > gw/data/nyt_eng_200602.docid
+touch gw/data/nyt_eng_200109.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200603.xml.gz > gw/data/nyt_eng_200603.docid
+touch gw/data/nyt_eng_200208.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200604.xml.gz > gw/data/nyt_eng_200604.docid
+touch gw/data/nyt_eng_200211.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200605.xml.gz > gw/data/nyt_eng_200605.docid
+touch gw/data/nyt_eng_200203.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200606.xml.gz > gw/data/nyt_eng_200606.docid
+touch gw/data/nyt_eng_200206.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200607.xml.gz > gw/data/nyt_eng_200607.docid
+touch gw/data/nyt_eng_200204.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200608.xml.gz > gw/data/nyt_eng_200608.docid
+touch gw/data/nyt_eng_200205.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200609.xml.gz > gw/data/nyt_eng_200609.docid
+touch gw/data/nyt_eng_200209.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200610.xml.gz > gw/data/nyt_eng_200610.docid
+touch gw/data/nyt_eng_200210.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200611.xml.gz > gw/data/nyt_eng_200611.docid
+touch gw/data/nyt_eng_200212.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200612.xml.gz > gw/data/nyt_eng_200612.docid
+touch gw/data/nyt_eng_200408.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200701.xml.gz > gw/data/nyt_eng_200701.docid
+touch gw/data/nyt_eng_200502.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200702.xml.gz > gw/data/nyt_eng_200702.docid
+touch gw/data/nyt_eng_200505.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200703.xml.gz > gw/data/nyt_eng_200703.docid
+touch gw/data/nyt_eng_200412.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200704.xml.gz > gw/data/nyt_eng_200704.docid
+touch gw/data/nyt_eng_200509.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200705.xml.gz > gw/data/nyt_eng_200705.docid
+touch gw/data/nyt_eng_200504.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200706.xml.gz > gw/data/nyt_eng_200706.docid
+touch gw/data/nyt_eng_200407.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200707.xml.gz > gw/data/nyt_eng_200707.docid
+touch gw/data/nyt_eng_200411.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200708.xml.gz > gw/data/nyt_eng_200708.docid
+touch gw/data/nyt_eng_200503.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200709.xml.gz > gw/data/nyt_eng_200709.docid
+touch gw/data/nyt_eng_200501.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200710.xml.gz > gw/data/nyt_eng_200710.docid
+touch gw/data/nyt_eng_200506.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200711.xml.gz > gw/data/nyt_eng_200711.docid
+touch gw/data/nyt_eng_200409.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200712.xml.gz > gw/data/nyt_eng_200712.docid
+touch gw/data/nyt_eng_200511.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200801.xml.gz > gw/data/nyt_eng_200801.docid
+touch gw/data/nyt_eng_200410.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200802.xml.gz > gw/data/nyt_eng_200802.docid
+touch gw/data/nyt_eng_200508.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200803.xml.gz > gw/data/nyt_eng_200803.docid
+touch gw/data/nyt_eng_200507.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200804.xml.gz > gw/data/nyt_eng_200804.docid
+touch gw/data/nyt_eng_200512.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200805.xml.gz > gw/data/nyt_eng_200805.docid
+touch gw/data/nyt_eng_200510.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200806.xml.gz > gw/data/nyt_eng_200806.docid
+touch gw/data/nyt_eng_200601.docid.done
+touch gw/data/nyt_eng_200602.docid.done
+touch gw/data/nyt_eng_200610.docid.done
+touch gw/data/nyt_eng_200607.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200807.xml.gz > gw/data/nyt_eng_200807.docid
+zgrep '^<DOC ' gw/data/nyt_eng_200808.xml.gz > gw/data/nyt_eng_200808.docid
+zgrep '^<DOC ' gw/data/nyt_eng_200809.xml.gz > gw/data/nyt_eng_200809.docid
+zgrep '^<DOC ' gw/data/nyt_eng_200810.xml.gz > gw/data/nyt_eng_200810.docid
+touch gw/data/nyt_eng_200603.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200811.xml.gz > gw/data/nyt_eng_200811.docid
+touch gw/data/nyt_eng_200605.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200812.xml.gz > gw/data/nyt_eng_200812.docid
+touch gw/data/nyt_eng_200604.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200901.xml.gz > gw/data/nyt_eng_200901.docid
+touch gw/data/nyt_eng_200606.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200902.xml.gz > gw/data/nyt_eng_200902.docid
+touch gw/data/nyt_eng_200609.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200903.xml.gz > gw/data/nyt_eng_200903.docid
+touch gw/data/nyt_eng_200608.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200904.xml.gz > gw/data/nyt_eng_200904.docid
+touch gw/data/nyt_eng_200703.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200905.xml.gz > gw/data/nyt_eng_200905.docid
+touch gw/data/nyt_eng_200611.docid.done
+touch gw/data/nyt_eng_200612.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200906.xml.gz > gw/data/nyt_eng_200906.docid
+zgrep '^<DOC ' gw/data/nyt_eng_200907.xml.gz > gw/data/nyt_eng_200907.docid
+touch gw/data/nyt_eng_200711.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200908.xml.gz > gw/data/nyt_eng_200908.docid
+touch gw/data/nyt_eng_200709.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200909.xml.gz > gw/data/nyt_eng_200909.docid
+touch gw/data/nyt_eng_200704.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200910.xml.gz > gw/data/nyt_eng_200910.docid
+touch gw/data/nyt_eng_200702.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200911.xml.gz > gw/data/nyt_eng_200911.docid
+touch gw/data/nyt_eng_200706.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_200912.xml.gz > gw/data/nyt_eng_200912.docid
+touch gw/data/nyt_eng_200707.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201001.xml.gz > gw/data/nyt_eng_201001.docid
+touch gw/data/nyt_eng_200701.docid.done
+touch gw/data/nyt_eng_200708.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201002.xml.gz > gw/data/nyt_eng_201002.docid
+zgrep '^<DOC ' gw/data/nyt_eng_201003.xml.gz > gw/data/nyt_eng_201003.docid
+touch gw/data/nyt_eng_200802.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201004.xml.gz > gw/data/nyt_eng_201004.docid
+touch gw/data/nyt_eng_200705.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201005.xml.gz > gw/data/nyt_eng_201005.docid
+touch gw/data/nyt_eng_200805.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201006.xml.gz > gw/data/nyt_eng_201006.docid
+touch gw/data/nyt_eng_200804.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201007.xml.gz > gw/data/nyt_eng_201007.docid
+touch gw/data/nyt_eng_200712.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201008.xml.gz > gw/data/nyt_eng_201008.docid
+touch gw/data/nyt_eng_200710.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201009.xml.gz > gw/data/nyt_eng_201009.docid
+touch gw/data/nyt_eng_200809.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201010.xml.gz > gw/data/nyt_eng_201010.docid
+touch gw/data/nyt_eng_200801.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201011.xml.gz > gw/data/nyt_eng_201011.docid
+touch gw/data/nyt_eng_200803.docid.done
+zgrep '^<DOC ' gw/data/nyt_eng_201012.xml.gz > gw/data/nyt_eng_201012.docid
+touch gw/data/nyt_eng_200806.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201001.xml.gz > gw/data/wpb_eng_201001.docid
+touch gw/data/nyt_eng_200807.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201002.xml.gz > gw/data/wpb_eng_201002.docid
+touch gw/data/nyt_eng_200810.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201003.xml.gz > gw/data/wpb_eng_201003.docid
+touch gw/data/nyt_eng_200808.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201004.xml.gz > gw/data/wpb_eng_201004.docid
+touch gw/data/nyt_eng_200902.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201005.xml.gz > gw/data/wpb_eng_201005.docid
+touch gw/data/nyt_eng_200812.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201006.xml.gz > gw/data/wpb_eng_201006.docid
+touch gw/data/nyt_eng_200811.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201007.xml.gz > gw/data/wpb_eng_201007.docid
+touch gw/data/nyt_eng_200901.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201008.xml.gz > gw/data/wpb_eng_201008.docid
+touch gw/data/wpb_eng_201001.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201009.xml.gz > gw/data/wpb_eng_201009.docid
+touch gw/data/wpb_eng_201002.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201010.xml.gz > gw/data/wpb_eng_201010.docid
+touch gw/data/nyt_eng_200904.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201011.xml.gz > gw/data/wpb_eng_201011.docid
+touch gw/data/nyt_eng_200903.docid.done
+zgrep '^<DOC ' gw/data/wpb_eng_201012.xml.gz > gw/data/wpb_eng_201012.docid
+touch gw/data/nyt_eng_200905.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199501.xml.gz > gw/data/xin_eng_199501.docid
+touch gw/data/wpb_eng_201003.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199502.xml.gz > gw/data/xin_eng_199502.docid
+touch gw/data/nyt_eng_200909.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199503.xml.gz > gw/data/xin_eng_199503.docid
+touch gw/data/nyt_eng_200906.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199504.xml.gz > gw/data/xin_eng_199504.docid
+touch gw/data/nyt_eng_201001.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199505.xml.gz > gw/data/xin_eng_199505.docid
+touch gw/data/nyt_eng_200907.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199506.xml.gz > gw/data/xin_eng_199506.docid
+touch gw/data/nyt_eng_200912.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199507.xml.gz > gw/data/xin_eng_199507.docid
+touch gw/data/wpb_eng_201004.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199508.xml.gz > gw/data/xin_eng_199508.docid
+touch gw/data/nyt_eng_200908.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199509.xml.gz > gw/data/xin_eng_199509.docid
+touch gw/data/nyt_eng_201002.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199510.xml.gz > gw/data/xin_eng_199510.docid
+touch gw/data/nyt_eng_200911.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199511.xml.gz > gw/data/xin_eng_199511.docid
+touch gw/data/wpb_eng_201005.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199512.xml.gz > gw/data/xin_eng_199512.docid
+touch gw/data/wpb_eng_201006.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199601.xml.gz > gw/data/xin_eng_199601.docid
+touch gw/data/nyt_eng_200910.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199602.xml.gz > gw/data/xin_eng_199602.docid
+touch gw/data/wpb_eng_201007.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199603.xml.gz > gw/data/xin_eng_199603.docid
+touch gw/data/wpb_eng_201008.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199604.xml.gz > gw/data/xin_eng_199604.docid
+touch gw/data/wpb_eng_201009.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199605.xml.gz > gw/data/xin_eng_199605.docid
+touch gw/data/nyt_eng_201003.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199606.xml.gz > gw/data/xin_eng_199606.docid
+touch gw/data/wpb_eng_201010.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199607.xml.gz > gw/data/xin_eng_199607.docid
+touch gw/data/wpb_eng_201011.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199608.xml.gz > gw/data/xin_eng_199608.docid
+touch gw/data/xin_eng_199501.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199609.xml.gz > gw/data/xin_eng_199609.docid
+touch gw/data/xin_eng_199502.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199610.xml.gz > gw/data/xin_eng_199610.docid
+touch gw/data/wpb_eng_201012.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199611.xml.gz > gw/data/xin_eng_199611.docid
+touch gw/data/nyt_eng_201004.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199612.xml.gz > gw/data/xin_eng_199612.docid
+touch gw/data/xin_eng_199504.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199701.xml.gz > gw/data/xin_eng_199701.docid
+touch gw/data/xin_eng_199506.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199702.xml.gz > gw/data/xin_eng_199702.docid
+touch gw/data/xin_eng_199503.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199703.xml.gz > gw/data/xin_eng_199703.docid
+touch gw/data/nyt_eng_201007.docid.done
+touch gw/data/xin_eng_199505.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199704.xml.gz > gw/data/xin_eng_199704.docid
+zgrep '^<DOC ' gw/data/xin_eng_199705.xml.gz > gw/data/xin_eng_199705.docid
+touch gw/data/xin_eng_199511.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199706.xml.gz > gw/data/xin_eng_199706.docid
+touch gw/data/xin_eng_199507.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199707.xml.gz > gw/data/xin_eng_199707.docid
+touch gw/data/xin_eng_199602.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199708.xml.gz > gw/data/xin_eng_199708.docid
+touch gw/data/xin_eng_199512.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199709.xml.gz > gw/data/xin_eng_199709.docid
+touch gw/data/xin_eng_199510.docid.done
+touch gw/data/xin_eng_199509.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199710.xml.gz > gw/data/xin_eng_199710.docid
+zgrep '^<DOC ' gw/data/xin_eng_199711.xml.gz > gw/data/xin_eng_199711.docid
+touch gw/data/xin_eng_199601.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199712.xml.gz > gw/data/xin_eng_199712.docid
+touch gw/data/nyt_eng_201005.docid.done
+touch gw/data/xin_eng_199604.docid.done
+touch gw/data/xin_eng_199508.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199801.xml.gz > gw/data/xin_eng_199801.docid
+zgrep '^<DOC ' gw/data/xin_eng_199802.xml.gz > gw/data/xin_eng_199802.docid
+zgrep '^<DOC ' gw/data/xin_eng_199803.xml.gz > gw/data/xin_eng_199803.docid
+touch gw/data/nyt_eng_201006.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199804.xml.gz > gw/data/xin_eng_199804.docid
+touch gw/data/nyt_eng_201008.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199805.xml.gz > gw/data/xin_eng_199805.docid
+touch gw/data/xin_eng_199603.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199806.xml.gz > gw/data/xin_eng_199806.docid
+touch gw/data/xin_eng_199702.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199807.xml.gz > gw/data/xin_eng_199807.docid
+touch gw/data/xin_eng_199605.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199808.xml.gz > gw/data/xin_eng_199808.docid
+touch gw/data/xin_eng_199610.docid.done
+touch gw/data/xin_eng_199612.docid.done
+touch gw/data/xin_eng_199611.docid.done
+touch gw/data/xin_eng_199606.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199809.xml.gz > gw/data/xin_eng_199809.docid
+touch gw/data/nyt_eng_201012.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199810.xml.gz > gw/data/xin_eng_199810.docid
+zgrep '^<DOC ' gw/data/xin_eng_199811.xml.gz > gw/data/xin_eng_199811.docid
+zgrep '^<DOC ' gw/data/xin_eng_199812.xml.gz > gw/data/xin_eng_199812.docid
+zgrep '^<DOC ' gw/data/xin_eng_199901.xml.gz > gw/data/xin_eng_199901.docid
+touch gw/data/xin_eng_199607.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199902.xml.gz > gw/data/xin_eng_199902.docid
+touch gw/data/nyt_eng_201009.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199903.xml.gz > gw/data/xin_eng_199903.docid
+touch gw/data/xin_eng_199608.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199904.xml.gz > gw/data/xin_eng_199904.docid
+touch gw/data/xin_eng_199609.docid.done
+touch gw/data/nyt_eng_201010.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199905.xml.gz > gw/data/xin_eng_199905.docid
+zgrep '^<DOC ' gw/data/xin_eng_199906.xml.gz > gw/data/xin_eng_199906.docid
+touch gw/data/nyt_eng_201011.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199907.xml.gz > gw/data/xin_eng_199907.docid
+touch gw/data/xin_eng_199701.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199908.xml.gz > gw/data/xin_eng_199908.docid
+touch gw/data/xin_eng_199804.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199909.xml.gz > gw/data/xin_eng_199909.docid
+touch gw/data/xin_eng_199707.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199910.xml.gz > gw/data/xin_eng_199910.docid
+touch gw/data/xin_eng_199706.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199911.xml.gz > gw/data/xin_eng_199911.docid
+touch gw/data/xin_eng_199708.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_199912.xml.gz > gw/data/xin_eng_199912.docid
+touch gw/data/xin_eng_199711.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200001.xml.gz > gw/data/xin_eng_200001.docid
+touch gw/data/xin_eng_199704.docid.done
+touch gw/data/xin_eng_199705.docid.done
+touch gw/data/xin_eng_199709.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200002.xml.gz > gw/data/xin_eng_200002.docid
+zgrep '^<DOC ' gw/data/xin_eng_200003.xml.gz > gw/data/xin_eng_200003.docid
+zgrep '^<DOC ' gw/data/xin_eng_200004.xml.gz > gw/data/xin_eng_200004.docid
+touch gw/data/xin_eng_199703.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200005.xml.gz > gw/data/xin_eng_200005.docid
+touch gw/data/xin_eng_199801.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200006.xml.gz > gw/data/xin_eng_200006.docid
+touch gw/data/xin_eng_199710.docid.done
+touch gw/data/xin_eng_199802.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200007.xml.gz > gw/data/xin_eng_200007.docid
+zgrep '^<DOC ' gw/data/xin_eng_200008.xml.gz > gw/data/xin_eng_200008.docid
+touch gw/data/xin_eng_199803.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200009.xml.gz > gw/data/xin_eng_200009.docid
+touch gw/data/xin_eng_199712.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200010.xml.gz > gw/data/xin_eng_200010.docid
+touch gw/data/xin_eng_199805.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200011.xml.gz > gw/data/xin_eng_200011.docid
+touch gw/data/xin_eng_199806.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200012.xml.gz > gw/data/xin_eng_200012.docid
+touch gw/data/xin_eng_199809.docid.done
+touch gw/data/xin_eng_199902.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200101.xml.gz > gw/data/xin_eng_200101.docid
+zgrep '^<DOC ' gw/data/xin_eng_200102.xml.gz > gw/data/xin_eng_200102.docid
+touch gw/data/xin_eng_199910.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200103.xml.gz > gw/data/xin_eng_200103.docid
+touch gw/data/xin_eng_199808.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200104.xml.gz > gw/data/xin_eng_200104.docid
+touch gw/data/xin_eng_199807.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200105.xml.gz > gw/data/xin_eng_200105.docid
+touch gw/data/xin_eng_199901.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200106.xml.gz > gw/data/xin_eng_200106.docid
+touch gw/data/xin_eng_199903.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200107.xml.gz > gw/data/xin_eng_200107.docid
+touch gw/data/xin_eng_200001.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200108.xml.gz > gw/data/xin_eng_200108.docid
+touch gw/data/xin_eng_199810.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200109.xml.gz > gw/data/xin_eng_200109.docid
+touch gw/data/xin_eng_199904.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200110.xml.gz > gw/data/xin_eng_200110.docid
+touch gw/data/xin_eng_199907.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200111.xml.gz > gw/data/xin_eng_200111.docid
+touch gw/data/xin_eng_199811.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200201.xml.gz > gw/data/xin_eng_200201.docid
+touch gw/data/xin_eng_199906.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200202.xml.gz > gw/data/xin_eng_200202.docid
+touch gw/data/xin_eng_199905.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200203.xml.gz > gw/data/xin_eng_200203.docid
+touch gw/data/xin_eng_199812.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200204.xml.gz > gw/data/xin_eng_200204.docid
+touch gw/data/xin_eng_199908.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200205.xml.gz > gw/data/xin_eng_200205.docid
+touch gw/data/xin_eng_200111.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200206.xml.gz > gw/data/xin_eng_200206.docid
+touch gw/data/xin_eng_199911.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200207.xml.gz > gw/data/xin_eng_200207.docid
+touch gw/data/xin_eng_199912.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200208.xml.gz > gw/data/xin_eng_200208.docid
+touch gw/data/xin_eng_200002.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200209.xml.gz > gw/data/xin_eng_200209.docid
+touch gw/data/xin_eng_199909.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200210.xml.gz > gw/data/xin_eng_200210.docid
+touch gw/data/xin_eng_200003.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200211.xml.gz > gw/data/xin_eng_200211.docid
+touch gw/data/xin_eng_200005.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200212.xml.gz > gw/data/xin_eng_200212.docid
+touch gw/data/xin_eng_200004.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200301.xml.gz > gw/data/xin_eng_200301.docid
+touch gw/data/xin_eng_200006.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200302.xml.gz > gw/data/xin_eng_200302.docid
+touch gw/data/xin_eng_200007.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200303.xml.gz > gw/data/xin_eng_200303.docid
+touch gw/data/xin_eng_200205.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200304.xml.gz > gw/data/xin_eng_200304.docid
+touch gw/data/xin_eng_200008.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200305.xml.gz > gw/data/xin_eng_200305.docid
+touch gw/data/xin_eng_200009.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200306.xml.gz > gw/data/xin_eng_200306.docid
+touch gw/data/xin_eng_200010.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200307.xml.gz > gw/data/xin_eng_200307.docid
+touch gw/data/xin_eng_200101.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200308.xml.gz > gw/data/xin_eng_200308.docid
+touch gw/data/xin_eng_200012.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200309.xml.gz > gw/data/xin_eng_200309.docid
+touch gw/data/xin_eng_200011.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200310.xml.gz > gw/data/xin_eng_200310.docid
+touch gw/data/xin_eng_200102.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200311.xml.gz > gw/data/xin_eng_200311.docid
+touch gw/data/xin_eng_200104.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200312.xml.gz > gw/data/xin_eng_200312.docid
+touch gw/data/xin_eng_200106.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200401.xml.gz > gw/data/xin_eng_200401.docid
+touch gw/data/xin_eng_200202.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200402.xml.gz > gw/data/xin_eng_200402.docid
+touch gw/data/xin_eng_200103.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200403.xml.gz > gw/data/xin_eng_200403.docid
+touch gw/data/xin_eng_200105.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200404.xml.gz > gw/data/xin_eng_200404.docid
+touch gw/data/xin_eng_200109.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200405.xml.gz > gw/data/xin_eng_200405.docid
+touch gw/data/xin_eng_200107.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200406.xml.gz > gw/data/xin_eng_200406.docid
+touch gw/data/xin_eng_200110.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200407.xml.gz > gw/data/xin_eng_200407.docid
+touch gw/data/xin_eng_200108.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200408.xml.gz > gw/data/xin_eng_200408.docid
+touch gw/data/xin_eng_200201.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200409.xml.gz > gw/data/xin_eng_200409.docid
+touch gw/data/xin_eng_200204.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200410.xml.gz > gw/data/xin_eng_200410.docid
+touch gw/data/xin_eng_200203.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200411.xml.gz > gw/data/xin_eng_200411.docid
+touch gw/data/xin_eng_200207.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200412.xml.gz > gw/data/xin_eng_200412.docid
+touch gw/data/xin_eng_200209.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200501.xml.gz > gw/data/xin_eng_200501.docid
+touch gw/data/xin_eng_200212.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200502.xml.gz > gw/data/xin_eng_200502.docid
+touch gw/data/xin_eng_200208.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200503.xml.gz > gw/data/xin_eng_200503.docid
+touch gw/data/xin_eng_200206.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200504.xml.gz > gw/data/xin_eng_200504.docid
+touch gw/data/xin_eng_200211.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200505.xml.gz > gw/data/xin_eng_200505.docid
+touch gw/data/xin_eng_200302.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200506.xml.gz > gw/data/xin_eng_200506.docid
+touch gw/data/xin_eng_200301.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200507.xml.gz > gw/data/xin_eng_200507.docid
+touch gw/data/xin_eng_200210.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200508.xml.gz > gw/data/xin_eng_200508.docid
+touch gw/data/xin_eng_200305.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200509.xml.gz > gw/data/xin_eng_200509.docid
+touch gw/data/xin_eng_200304.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200510.xml.gz > gw/data/xin_eng_200510.docid
+touch gw/data/xin_eng_200306.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200511.xml.gz > gw/data/xin_eng_200511.docid
+touch gw/data/xin_eng_200309.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200512.xml.gz > gw/data/xin_eng_200512.docid
+touch gw/data/xin_eng_200308.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200601.xml.gz > gw/data/xin_eng_200601.docid
+touch gw/data/xin_eng_200307.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200602.xml.gz > gw/data/xin_eng_200602.docid
+touch gw/data/xin_eng_200401.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200603.xml.gz > gw/data/xin_eng_200603.docid
+touch gw/data/xin_eng_200311.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200604.xml.gz > gw/data/xin_eng_200604.docid
+touch gw/data/xin_eng_200402.docid.done
+touch gw/data/xin_eng_200310.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200605.xml.gz > gw/data/xin_eng_200605.docid
+zgrep '^<DOC ' gw/data/xin_eng_200606.xml.gz > gw/data/xin_eng_200606.docid
+touch gw/data/xin_eng_200303.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200607.xml.gz > gw/data/xin_eng_200607.docid
+touch gw/data/xin_eng_200312.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200608.xml.gz > gw/data/xin_eng_200608.docid
+touch gw/data/xin_eng_200407.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200609.xml.gz > gw/data/xin_eng_200609.docid
+touch gw/data/xin_eng_200406.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200610.xml.gz > gw/data/xin_eng_200610.docid
+touch gw/data/xin_eng_200404.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200611.xml.gz > gw/data/xin_eng_200611.docid
+touch gw/data/xin_eng_200409.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200612.xml.gz > gw/data/xin_eng_200612.docid
+touch gw/data/xin_eng_200410.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200701.xml.gz > gw/data/xin_eng_200701.docid
+touch gw/data/xin_eng_200405.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200702.xml.gz > gw/data/xin_eng_200702.docid
+touch gw/data/xin_eng_200412.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200703.xml.gz > gw/data/xin_eng_200703.docid
+touch gw/data/xin_eng_200502.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200704.xml.gz > gw/data/xin_eng_200704.docid
+touch gw/data/xin_eng_200411.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200705.xml.gz > gw/data/xin_eng_200705.docid
+touch gw/data/xin_eng_200403.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200706.xml.gz > gw/data/xin_eng_200706.docid
+touch gw/data/xin_eng_200408.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200707.xml.gz > gw/data/xin_eng_200707.docid
+touch gw/data/xin_eng_200501.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200708.xml.gz > gw/data/xin_eng_200708.docid
+touch gw/data/xin_eng_200504.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200709.xml.gz > gw/data/xin_eng_200709.docid
+touch gw/data/xin_eng_200506.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200710.xml.gz > gw/data/xin_eng_200710.docid
+touch gw/data/xin_eng_200604.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200711.xml.gz > gw/data/xin_eng_200711.docid
+touch gw/data/xin_eng_200505.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200712.xml.gz > gw/data/xin_eng_200712.docid
+touch gw/data/xin_eng_200503.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200801.xml.gz > gw/data/xin_eng_200801.docid
+touch gw/data/xin_eng_200509.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200802.xml.gz > gw/data/xin_eng_200802.docid
+touch gw/data/xin_eng_200508.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200803.xml.gz > gw/data/xin_eng_200803.docid
+touch gw/data/xin_eng_200507.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200804.xml.gz > gw/data/xin_eng_200804.docid
+touch gw/data/xin_eng_200512.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200805.xml.gz > gw/data/xin_eng_200805.docid
+touch gw/data/xin_eng_200510.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200806.xml.gz > gw/data/xin_eng_200806.docid
+touch gw/data/xin_eng_200511.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200807.xml.gz > gw/data/xin_eng_200807.docid
+touch gw/data/xin_eng_200602.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200808.xml.gz > gw/data/xin_eng_200808.docid
+touch gw/data/xin_eng_200601.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200809.xml.gz > gw/data/xin_eng_200809.docid
+touch gw/data/xin_eng_200606.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200810.xml.gz > gw/data/xin_eng_200810.docid
+touch gw/data/xin_eng_200603.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200811.xml.gz > gw/data/xin_eng_200811.docid
+touch gw/data/xin_eng_200607.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200812.xml.gz > gw/data/xin_eng_200812.docid
+touch gw/data/xin_eng_200702.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200901.xml.gz > gw/data/xin_eng_200901.docid
+touch gw/data/xin_eng_200704.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200902.xml.gz > gw/data/xin_eng_200902.docid
+touch gw/data/xin_eng_200605.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200903.xml.gz > gw/data/xin_eng_200903.docid
+touch gw/data/xin_eng_200610.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200904.xml.gz > gw/data/xin_eng_200904.docid
+touch gw/data/xin_eng_200608.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200905.xml.gz > gw/data/xin_eng_200905.docid
+touch gw/data/xin_eng_200609.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200906.xml.gz > gw/data/xin_eng_200906.docid
+touch gw/data/xin_eng_200612.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200907.xml.gz > gw/data/xin_eng_200907.docid
+touch gw/data/xin_eng_200705.docid.done
+touch gw/data/xin_eng_200708.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200908.xml.gz > gw/data/xin_eng_200908.docid
+zgrep '^<DOC ' gw/data/xin_eng_200909.xml.gz > gw/data/xin_eng_200909.docid
+touch gw/data/xin_eng_200804.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200910.xml.gz > gw/data/xin_eng_200910.docid
+touch gw/data/xin_eng_200707.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200911.xml.gz > gw/data/xin_eng_200911.docid
+touch gw/data/xin_eng_200803.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_200912.xml.gz > gw/data/xin_eng_200912.docid
+touch gw/data/xin_eng_200701.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201001.xml.gz > gw/data/xin_eng_201001.docid
+touch gw/data/xin_eng_200703.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201002.xml.gz > gw/data/xin_eng_201002.docid
+touch gw/data/xin_eng_200611.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201003.xml.gz > gw/data/xin_eng_201003.docid
+touch gw/data/xin_eng_200706.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201004.xml.gz > gw/data/xin_eng_201004.docid
+touch gw/data/xin_eng_200709.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201005.xml.gz > gw/data/xin_eng_201005.docid
+touch gw/data/xin_eng_200801.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201006.xml.gz > gw/data/xin_eng_201006.docid
+touch gw/data/xin_eng_200806.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201007.xml.gz > gw/data/xin_eng_201007.docid
+touch gw/data/xin_eng_200710.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201008.xml.gz > gw/data/xin_eng_201008.docid
+touch gw/data/xin_eng_200807.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201009.xml.gz > gw/data/xin_eng_201009.docid
+touch gw/data/xin_eng_200802.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201010.xml.gz > gw/data/xin_eng_201010.docid
+touch gw/data/xin_eng_200805.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201011.xml.gz > gw/data/xin_eng_201011.docid
+touch gw/data/xin_eng_200711.docid.done
+zgrep '^<DOC ' gw/data/xin_eng_201012.xml.gz > gw/data/xin_eng_201012.docid
+touch gw/data/xin_eng_200809.docid.done
+touch gw/data/xin_eng_200810.docid.done
+touch gw/data/xin_eng_200712.docid.done
+touch gw/data/xin_eng_200812.docid.done
+touch gw/data/xin_eng_200901.docid.done
+touch gw/data/xin_eng_200811.docid.done
+touch gw/data/xin_eng_200904.docid.done
+touch gw/data/xin_eng_200907.docid.done
+touch gw/data/xin_eng_200905.docid.done
+touch gw/data/xin_eng_200908.docid.done
+touch gw/data/xin_eng_200902.docid.done
+touch gw/data/xin_eng_200906.docid.done
+touch gw/data/xin_eng_200808.docid.done
+touch gw/data/xin_eng_200903.docid.done
+touch gw/data/xin_eng_201002.docid.done
+touch gw/data/xin_eng_201006.docid.done
+touch gw/data/xin_eng_200912.docid.done
+touch gw/data/xin_eng_200909.docid.done
+touch gw/data/xin_eng_200910.docid.done
+touch gw/data/xin_eng_201001.docid.done
+touch gw/data/xin_eng_201007.docid.done
+touch gw/data/xin_eng_201008.docid.done
+touch gw/data/xin_eng_200911.docid.done
+touch gw/data/xin_eng_201009.docid.done
+touch gw/data/xin_eng_201010.docid.done
+touch gw/data/xin_eng_201005.docid.done
+touch gw/data/xin_eng_201003.docid.done
+touch gw/data/xin_eng_201012.docid.done
+touch gw/data/xin_eng_201004.docid.done
+touch gw/data/xin_eng_201011.docid.done
