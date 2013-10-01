@@ -2,6 +2,7 @@
 # but first edit this path
 # DATADIR  := /usr/users/9/brenocon/s/sem/gigaword_5_anno/data
 DATADIR  := gw/data
+##DATADIR  := gw/data_without_apw
 INPUTS 	 := $(wildcard $(DATADIR)/*.xml.gz)
 JUSTSENT := $(INPUTS:.xml.gz=.justsent)
 JDOC     := $(INPUTS:.xml.gz=.jdoc)
@@ -23,18 +24,22 @@ doc_counts.txt: $(DOCID)
 
 %.justsent: %.xml.gz
 	zcat $< | python2.7 annogw2json.py justsent > $@
+	touch $@.done
 
 %.justsent.gz: %.justsent
 	gzip $<
 
 %.jdoc: %.xml.gz
 	zcat $< | python2.7 annogw2json.py full > $@
+	touch $@.done
 
 %.jdoc.gz: %.jdoc
 	gzip $<
 
 %.docid: %.xml.gz
 	zgrep '^<DOC ' $< > $@
+	touch $@.done
 
 %.sentxml: %.justsent
 	cat $< | python2.7 sentjson2xml.py > $@
+	touch $@.done
