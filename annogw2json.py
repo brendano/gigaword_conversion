@@ -100,7 +100,10 @@ def process_stream(stream, mode):
                 out_meta[tag.lower()] = create_text_object_from_parse(topchild.text)
             elif tag=='TEXT':
                 pass
-            elif tag=='coreferences':
+            elif tag=='coreferences' or tag=='coreference':
+                # the file nyt_eng_199710.xml has <coreference> instead of
+                # <coreferences> in the topchidld.  didn't see this in any
+                # other file. argh!
                 if mode=='full':
                     out_entities = core2json.convert_corexml_coref_fromnode(topchild, out_sentences)
                 else:
