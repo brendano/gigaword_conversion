@@ -22,19 +22,12 @@ doc_counts.txt: $(DOCID)
 %.meta: %.jdoc
 	env LC_ALL=C cat $< | cut -f1-2 > $@
 
-%.justsent: %.xml.gz
-	zcat $< | python2.7 annogw2json.py justsent > $@
-	touch $@.done
-
-%.justsent.gz: %.justsent
-	gzip $<
+%.justsent: %.jdoc
+	zcat $< | python2.7 jdoc2justsent.py > $@
 
 %.jdoc: %.xml.gz
 	zcat $< | python2.7 annogw2json.py full > $@
 	touch $@.done
-
-%.jdoc.gz: %.jdoc
-	gzip $<
 
 %.docid: %.xml.gz
 	zgrep '^<DOC ' $< > $@
